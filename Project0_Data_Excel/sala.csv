@@ -1,0 +1,768 @@
+Número de Mesa,Nombre del Cliente,Número de Comensales,Hora de Llegada,Hora de Salida,Mesero Asignado,Tipo de Servicio,Método de Pago,Propina,Estado de la Mesa,Número de Orden,País de Origen,Platos Ordenados
+"10,Cliente_724,6,2023-04-01 01:07:00,2023-04-01 03:50:00,Mesero_3,Almuerzo,Tarjeta de débito,48.55,Reservada,1,España,""Plato_7, Plato_2"""
+"6,Cliente_538,6,2023-04-01 01:28:00,2023-04-01 03:49:00,Mesero_1,Desayuno,Efectivo,43.3,Reservada,2,Colombia,""Plato_17, Plato_6"""
+"20,Cliente_911,1,2023-04-01 00:29:00,2023-04-01 03:56:00,Mesero_2,Desayuno,Tarjeta de crédito,30.87,Libre,3,Brasil,""Plato_20, Plato_17, Plato_19, Plato_9"""
+"3,Cliente_129,1,2023-04-01 03:03:00,2023-04-01 04:31:00,Mesero_5,Almuerzo,Tarjeta de crédito,34.68,Libre,4,Paraguay,""Plato_11, Plato_16"""
+"8,Cliente_938,2,2023-04-01 00:01:00,2023-04-01 02:06:00,Mesero_4,Almuerzo,Tarjeta de crédito,24.33,Libre,5,Perú,""Plato_12, Plato_7"""
+7,Cliente_965,5,2023-04-01 01:24:00,2023-04-01 03:32:00,Mesero_4,Cena,Tarjeta de crédito,26.57,Libre,6,Perú,Plato_8
+"17,Cliente_306,6,2023-04-01 01:57:00,2023-04-01 04:22:00,Mesero_2,Cena,Tarjeta de crédito,10.54,Ocupada,7,Venezuela,""Plato_15, Plato_19"""
+"11,Cliente_974,1,2023-04-01 02:11:00,2023-04-01 04:49:00,Mesero_2,Desayuno,Tarjeta de crédito,49.18,Reservada,8,Paraguay,""Plato_5, Plato_16, Plato_20"""
+"15,Cliente_740,5,2023-04-01 02:03:00,2023-04-01 04:25:00,Mesero_2,Almuerzo,Tarjeta de débito,46.85,Libre,9,Bolivia,""Plato_2, Plato_7, Plato_12, Plato_15"""
+"17,Cliente_33,1,2023-04-01 00:02:00,2023-04-01 01:53:00,Mesero_4,Almuerzo,Tarjeta de crédito,16.6,Ocupada,10,Uruguay,""Plato_18, Plato_20"""
+"14,Cliente_881,1,2023-04-01 03:46:00,2023-04-01 06:33:00,Mesero_1,Almuerzo,Tarjeta de crédito,32.89,Libre,11,Perú,""Plato_16, Plato_2"""
+"14,Cliente_890,6,2023-04-01 00:04:00,2023-04-01 03:23:00,Mesero_4,Cena,Tarjeta de crédito,45.27,Ocupada,12,Colombia,""Plato_16, Plato_19, Plato_8, Plato_20"""
+2,Cliente_873,1,2023-04-01 03:09:00,2023-04-01 05:32:00,Mesero_5,Almuerzo,Efectivo,22.06,Ocupada,13,Brasil,Plato_9
+"16,Cliente_780,6,2023-04-01 00:18:00,2023-04-01 01:58:00,Mesero_2,Almuerzo,Efectivo,48.76,Libre,14,Perú,""Plato_3, Plato_11, Plato_14, Plato_2"""
+"6,Cliente_728,4,2023-04-01 03:24:00,2023-04-01 04:59:00,Mesero_1,Desayuno,Tarjeta de crédito,28.77,Ocupada,15,Uruguay,""Plato_16, Plato_13, Plato_8"""
+20,Cliente_175,5,2023-04-01 02:31:00,2023-04-01 04:24:00,Mesero_4,Almuerzo,Efectivo,37.9,Reservada,16,Bolivia,Plato_16
+"14,Cliente_200,6,2023-04-01 00:09:00,2023-04-01 03:27:00,Mesero_2,Desayuno,Tarjeta de crédito,12.17,Libre,17,Ecuador,""Plato_8, Plato_4, Plato_5"""
+"9,Cliente_190,2,2023-04-01 02:06:00,2023-04-01 04:26:00,Mesero_2,Desayuno,Tarjeta de crédito,33.09,Libre,18,Colombia,""Plato_9, Plato_20, Plato_10, Plato_15"""
+18,Cliente_290,3,2023-04-01 00:35:00,2023-04-01 03:29:00,Mesero_2,Almuerzo,Tarjeta de crédito,17.45,Libre,19,Chile,Plato_20
+"8,Cliente_972,2,2023-04-01 01:25:00,2023-04-01 05:12:00,Mesero_3,Almuerzo,Tarjeta de crédito,31.7,Reservada,20,Chile,""Plato_8, Plato_1, Plato_14"""
+"12,Cliente_210,2,2023-04-01 03:39:00,2023-04-01 05:52:00,Mesero_3,Almuerzo,Tarjeta de crédito,20.53,Reservada,21,Uruguay,""Plato_20, Plato_3, Plato_15, Plato_1"""
+"15,Cliente_88,1,2023-04-01 02:16:00,2023-04-01 04:47:00,Mesero_4,Almuerzo,Tarjeta de crédito,45.41,Libre,22,Ecuador,""Plato_4, Plato_18, Plato_9, Plato_8"""
+"1,Cliente_427,5,2023-04-01 02:44:00,2023-04-01 04:09:00,Mesero_5,Cena,Tarjeta de crédito,38.46,Libre,23,Chile,""Plato_12, Plato_6"""
+"5,Cliente_424,5,2023-04-01 03:01:00,2023-04-01 06:20:00,Mesero_3,Almuerzo,Tarjeta de crédito,38.18,Ocupada,24,Venezuela,""Plato_10, Plato_9, Plato_14, Plato_20"""
+12,Cliente_824,5,2023-04-01 03:01:00,2023-04-01 04:59:00,Mesero_5,Cena,Tarjeta de débito,46.15,Ocupada,25,Colombia,Plato_18
+"18,Cliente_107,2,2023-04-01 02:04:00,2023-04-01 05:47:00,Mesero_5,Desayuno,Tarjeta de crédito,10.37,Ocupada,26,Uruguay,""Plato_4, Plato_13, Plato_7"""
+"4,Cliente_775,2,2023-04-01 01:19:00,2023-04-01 02:27:00,Mesero_5,Almuerzo,Tarjeta de crédito,19.27,Ocupada,27,Brasil,""Plato_8, Plato_10"""
+"2,Cliente_358,2,2023-04-01 00:49:00,2023-04-01 03:16:00,Mesero_4,Cena,Tarjeta de crédito,41.22,Reservada,28,Argentina,""Plato_4, Plato_9"""
+"20,Cliente_377,5,2023-04-01 03:02:00,2023-04-01 06:10:00,Mesero_2,Almuerzo,Tarjeta de crédito,14.83,Ocupada,29,Ecuador,""Plato_1, Plato_4, Plato_17"""
+"14,Cliente_361,4,2023-04-01 02:55:00,2023-04-01 06:13:00,Mesero_4,Almuerzo,Efectivo,26.29,Libre,30,Venezuela,""Plato_10, Plato_3"""
+"13,Cliente_229,3,2023-04-01 02:51:00,2023-04-01 06:02:00,Mesero_2,Desayuno,Tarjeta de crédito,19.81,Ocupada,31,Argentina,""Plato_9, Plato_12"""
+"5,Cliente_27,1,2023-04-01 03:08:00,2023-04-01 06:49:00,Mesero_1,Almuerzo,Tarjeta de crédito,28.25,Ocupada,32,Uruguay,""Plato_15, Plato_11, Plato_10, Plato_4"""
+"4,Cliente_103,5,2023-04-01 03:33:00,2023-04-01 06:21:00,Mesero_4,Cena,Tarjeta de débito,20.38,Ocupada,33,Perú,""Plato_8, Plato_6, Plato_15, Plato_10"""
+"15,Cliente_1,1,2023-04-01 02:16:00,2023-04-01 06:07:00,Mesero_4,Desayuno,Tarjeta de crédito,13.08,Libre,34,Perú,""Plato_18, Plato_10"""
+"13,Cliente_828,2,2023-04-01 03:18:00,2023-04-01 05:55:00,Mesero_3,Almuerzo,Tarjeta de crédito,15.75,Ocupada,35,Perú,""Plato_2, Plato_9, Plato_11, Plato_17"""
+5,Cliente_874,5,2023-04-01 03:27:00,2023-04-01 06:26:00,Mesero_2,Almuerzo,Tarjeta de crédito,45.28,Ocupada,36,Bolivia,Plato_2
+20,Cliente_999,1,2023-04-01 03:24:00,2023-04-01 06:02:00,Mesero_5,Cena,Tarjeta de crédito,10.39,Ocupada,37,Brasil,Plato_13
+"10,Cliente_167,6,2023-04-01 02:38:00,2023-04-01 03:53:00,Mesero_4,Almuerzo,Tarjeta de débito,16.31,Reservada,38,Chile,""Plato_17, Plato_8, Plato_19"""
+15,Cliente_606,3,2023-04-01 03:41:00,2023-04-01 07:39:00,Mesero_2,Cena,Efectivo,48.36,Ocupada,39,Bolivia,Plato_19
+"1,Cliente_710,1,2023-04-01 02:00:00,2023-04-01 04:05:00,Mesero_3,Almuerzo,Efectivo,13.68,Libre,40,Argentina,""Plato_9, Plato_11, Plato_16"""
+"7,Cliente_870,4,2023-04-01 02:14:00,2023-04-01 04:20:00,Mesero_2,Almuerzo,Tarjeta de crédito,15.24,Ocupada,41,Perú,""Plato_15, Plato_10, Plato_2"""
+"14,Cliente_230,1,2023-04-01 00:25:00,2023-04-01 01:46:00,Mesero_2,Almuerzo,Tarjeta de crédito,49.58,Reservada,42,Bolivia,""Plato_5, Plato_20"""
+"8,Cliente_814,6,2023-04-01 01:02:00,2023-04-01 03:14:00,Mesero_4,Almuerzo,Tarjeta de crédito,32.19,Ocupada,43,Perú,""Plato_15, Plato_18, Plato_7, Plato_17"""
+"18,Cliente_710,1,2023-04-01 03:06:00,2023-04-01 06:18:00,Mesero_4,Almuerzo,Tarjeta de crédito,42.6,Libre,44,España,""Plato_10, Plato_1, Plato_13"""
+17,Cliente_640,2,2023-04-01 02:15:00,2023-04-01 04:01:00,Mesero_2,Almuerzo,Tarjeta de crédito,25.41,Reservada,45,Perú,Plato_4
+"10,Cliente_623,1,2023-04-01 01:47:00,2023-04-01 03:39:00,Mesero_5,Almuerzo,Tarjeta de crédito,27.97,Libre,46,Chile,""Plato_2, Plato_18, Plato_14"""
+"18,Cliente_72,3,2023-04-01 03:30:00,2023-04-01 07:29:00,Mesero_2,Almuerzo,Tarjeta de crédito,10.98,Ocupada,47,Brasil,""Plato_11, Plato_14, Plato_3"""
+"17,Cliente_963,2,2023-04-01 00:28:00,2023-04-01 04:02:00,Mesero_3,Desayuno,Tarjeta de crédito,25.31,Libre,48,Bolivia,""Plato_6, Plato_5, Plato_11"""
+"8,Cliente_929,3,2023-04-01 01:44:00,2023-04-01 05:29:00,Mesero_2,Almuerzo,Tarjeta de crédito,20.92,Libre,49,Uruguay,""Plato_7, Plato_15, Plato_4"""
+"19,Cliente_708,5,2023-04-01 03:54:00,2023-04-01 06:57:00,Mesero_4,Almuerzo,Tarjeta de débito,16.74,Ocupada,50,Argentina,""Plato_15, Plato_5"""
+"12,Cliente_631,1,2023-04-01 01:42:00,2023-04-01 03:02:00,Mesero_5,Cena,Tarjeta de crédito,37.08,Reservada,51,España,""Plato_14, Plato_11, Plato_5, Plato_4"""
+"7,Cliente_894,4,2023-04-01 00:01:00,2023-04-01 01:11:00,Mesero_3,Almuerzo,Tarjeta de crédito,46.88,Libre,52,Paraguay,""Plato_11, Plato_17, Plato_18"""
+"16,Cliente_63,5,2023-04-01 03:01:00,2023-04-01 04:44:00,Mesero_5,Almuerzo,Tarjeta de débito,36.88,Libre,53,Paraguay,""Plato_14, Plato_2, Plato_19"""
+"6,Cliente_144,6,2023-04-01 00:40:00,2023-04-01 04:14:00,Mesero_4,Cena,Tarjeta de crédito,23.36,Reservada,54,Bolivia,""Plato_8, Plato_17, Plato_4, Plato_11"""
+"20,Cliente_390,5,2023-04-01 01:30:00,2023-04-01 05:00:00,Mesero_4,Cena,Tarjeta de crédito,45.49,Ocupada,55,Perú,""Plato_11, Plato_7, Plato_19, Plato_15"""
+"1,Cliente_728,3,2023-04-01 01:20:00,2023-04-01 04:57:00,Mesero_5,Almuerzo,Tarjeta de débito,43.2,Libre,56,Ecuador,""Plato_9, Plato_12"""
+"18,Cliente_886,2,2023-04-01 03:04:00,2023-04-01 04:52:00,Mesero_2,Almuerzo,Tarjeta de crédito,45.45,Libre,57,Colombia,""Plato_8, Plato_20, Plato_5, Plato_19"""
+"8,Cliente_510,3,2023-04-01 01:31:00,2023-04-01 04:21:00,Mesero_1,Cena,Tarjeta de crédito,30.7,Reservada,58,Brasil,""Plato_5, Plato_3"""
+"8,Cliente_878,4,2023-04-01 01:21:00,2023-04-01 05:04:00,Mesero_1,Almuerzo,Efectivo,33.89,Libre,59,Colombia,""Plato_12, Plato_14, Plato_4, Plato_20"""
+"6,Cliente_977,1,2023-04-01 02:09:00,2023-04-01 05:46:00,Mesero_1,Almuerzo,Tarjeta de crédito,19.54,Reservada,60,Bolivia,""Plato_4, Plato_11"""
+"10,Cliente_553,5,2023-04-01 03:49:00,2023-04-01 06:22:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.87,Ocupada,61,Chile,""Plato_20, Plato_4, Plato_2, Plato_16"""
+"2,Cliente_792,1,2023-04-01 02:47:00,2023-04-01 06:24:00,Mesero_1,Cena,Tarjeta de crédito,37.93,Ocupada,62,Argentina,""Plato_2, Plato_12, Plato_17"""
+"17,Cliente_881,4,2023-04-01 00:41:00,2023-04-01 04:06:00,Mesero_4,Almuerzo,Tarjeta de crédito,33.34,Reservada,63,Colombia,""Plato_3, Plato_8"""
+"3,Cliente_265,3,2023-04-01 01:40:00,2023-04-01 04:02:00,Mesero_5,Desayuno,Efectivo,34.77,Reservada,64,Perú,""Plato_3, Plato_20, Plato_19"""
+"5,Cliente_946,1,2023-04-01 01:54:00,2023-04-01 03:03:00,Mesero_3,Almuerzo,Tarjeta de débito,14.0,Ocupada,65,Bolivia,""Plato_16, Plato_17, Plato_12, Plato_20"""
+"18,Cliente_614,2,2023-04-01 02:28:00,2023-04-01 06:18:00,Mesero_5,Almuerzo,Tarjeta de crédito,10.88,Reservada,66,España,""Plato_19, Plato_20, Plato_4"""
+"2,Cliente_352,6,2023-04-01 03:45:00,2023-04-01 05:10:00,Mesero_2,Almuerzo,Tarjeta de débito,21.25,Reservada,67,Perú,""Plato_20, Plato_19, Plato_10, Plato_2"""
+"8,Cliente_784,4,2023-04-01 00:02:00,2023-04-01 03:15:00,Mesero_5,Cena,Tarjeta de crédito,45.65,Ocupada,68,Brasil,""Plato_14, Plato_16, Plato_15, Plato_1"""
+"5,Cliente_118,4,2023-04-01 02:02:00,2023-04-01 03:57:00,Mesero_2,Almuerzo,Tarjeta de crédito,31.49,Libre,69,Perú,""Plato_13, Plato_7, Plato_11"""
+"17,Cliente_61,4,2023-04-01 00:11:00,2023-04-01 01:22:00,Mesero_4,Almuerzo,Tarjeta de débito,28.26,Libre,70,Paraguay,""Plato_1, Plato_18"""
+"18,Cliente_440,4,2023-04-01 01:57:00,2023-04-01 05:56:00,Mesero_3,Almuerzo,Tarjeta de crédito,24.01,Ocupada,71,Paraguay,""Plato_2, Plato_14"""
+"17,Cliente_258,1,2023-04-01 02:42:00,2023-04-01 05:51:00,Mesero_2,Almuerzo,Tarjeta de crédito,15.28,Reservada,72,Perú,""Plato_13, Plato_4"""
+1,Cliente_742,4,2023-04-01 02:39:00,2023-04-01 06:09:00,Mesero_4,Desayuno,Tarjeta de crédito,34.51,Libre,73,Argentina,Plato_6
+"19,Cliente_865,4,2023-04-01 01:04:00,2023-04-01 04:13:00,Mesero_4,Almuerzo,Tarjeta de crédito,30.83,Libre,74,Brasil,""Plato_10, Plato_18, Plato_15"""
+"19,Cliente_79,5,2023-04-01 03:36:00,2023-04-01 04:49:00,Mesero_5,Almuerzo,Tarjeta de crédito,45.23,Ocupada,75,Venezuela,""Plato_20, Plato_14"""
+"17,Cliente_42,3,2023-04-01 02:57:00,2023-04-01 05:24:00,Mesero_1,Almuerzo,Tarjeta de crédito,17.76,Reservada,76,Argentina,""Plato_2, Plato_4, Plato_7, Plato_10"""
+"3,Cliente_374,1,2023-04-01 02:46:00,2023-04-01 06:15:00,Mesero_3,Cena,Tarjeta de crédito,19.88,Libre,77,Bolivia,""Plato_4, Plato_7, Plato_11"""
+7,Cliente_636,4,2023-04-01 01:34:00,2023-04-01 03:03:00,Mesero_3,Almuerzo,Tarjeta de crédito,20.02,Libre,78,Colombia,Plato_12
+"16,Cliente_753,2,2023-04-01 01:34:00,2023-04-01 05:08:00,Mesero_3,Almuerzo,Tarjeta de crédito,34.01,Libre,79,Venezuela,""Plato_9, Plato_11, Plato_3, Plato_13"""
+"18,Cliente_632,6,2023-04-01 02:14:00,2023-04-01 03:46:00,Mesero_4,Almuerzo,Tarjeta de crédito,39.05,Libre,80,Venezuela,""Plato_5, Plato_9, Plato_7"""
+17,Cliente_969,4,2023-04-01 03:40:00,2023-04-01 06:31:00,Mesero_5,Cena,Tarjeta de crédito,23.69,Ocupada,81,Uruguay,Plato_17
+"16,Cliente_574,3,2023-04-01 03:25:00,2023-04-01 07:10:00,Mesero_5,Desayuno,Tarjeta de crédito,38.6,Libre,82,Paraguay,""Plato_1, Plato_2"""
+"15,Cliente_292,1,2023-04-01 03:42:00,2023-04-01 06:39:00,Mesero_1,Cena,Tarjeta de crédito,24.94,Ocupada,83,Argentina,""Plato_6, Plato_3, Plato_15"""
+19,Cliente_148,5,2023-04-01 01:42:00,2023-04-01 03:18:00,Mesero_4,Almuerzo,Tarjeta de crédito,15.11,Ocupada,84,Perú,Plato_2
+"8,Cliente_747,3,2023-04-01 02:35:00,2023-04-01 04:31:00,Mesero_2,Cena,Tarjeta de crédito,45.96,Libre,85,Ecuador,""Plato_16, Plato_19, Plato_3, Plato_15"""
+20,Cliente_501,3,2023-04-01 00:02:00,2023-04-01 02:08:00,Mesero_5,Almuerzo,Tarjeta de débito,11.84,Libre,86,España,Plato_1
+"3,Cliente_733,2,2023-04-01 01:46:00,2023-04-01 03:18:00,Mesero_4,Almuerzo,Tarjeta de crédito,29.46,Ocupada,87,Venezuela,""Plato_4, Plato_15, Plato_17"""
+"18,Cliente_36,1,2023-04-01 03:30:00,2023-04-01 06:40:00,Mesero_4,Almuerzo,Tarjeta de débito,23.93,Reservada,88,Ecuador,""Plato_20, Plato_12, Plato_10"""
+"11,Cliente_553,4,2023-04-01 00:42:00,2023-04-01 02:19:00,Mesero_5,Desayuno,Tarjeta de débito,12.28,Libre,89,Uruguay,""Plato_14, Plato_18, Plato_5"""
+6,Cliente_1000,3,2023-04-01 01:17:00,2023-04-01 03:13:00,Mesero_5,Almuerzo,Tarjeta de débito,30.69,Reservada,90,Ecuador,Plato_18
+"1,Cliente_607,5,2023-04-01 03:38:00,2023-04-01 05:24:00,Mesero_5,Almuerzo,Tarjeta de crédito,39.1,Reservada,91,España,""Plato_8, Plato_13, Plato_5, Plato_6"""
+"6,Cliente_378,2,2023-04-01 03:35:00,2023-04-01 06:09:00,Mesero_2,Desayuno,Tarjeta de crédito,12.75,Libre,92,Venezuela,""Plato_9, Plato_7"""
+2,Cliente_612,2,2023-04-01 01:39:00,2023-04-01 03:48:00,Mesero_2,Almuerzo,Tarjeta de crédito,45.66,Libre,93,Perú,Plato_9
+"12,Cliente_452,1,2023-04-01 01:52:00,2023-04-01 04:53:00,Mesero_4,Almuerzo,Tarjeta de crédito,28.36,Ocupada,94,Chile,""Plato_2, Plato_15, Plato_11"""
+"12,Cliente_244,5,2023-04-01 03:19:00,2023-04-01 06:07:00,Mesero_2,Cena,Tarjeta de crédito,24.68,Ocupada,95,España,""Plato_12, Plato_15"""
+"16,Cliente_840,5,2023-04-01 01:59:00,2023-04-01 05:26:00,Mesero_4,Desayuno,Tarjeta de crédito,33.63,Libre,96,Bolivia,""Plato_11, Plato_12, Plato_7"""
+"14,Cliente_993,2,2023-04-01 01:46:00,2023-04-01 03:03:00,Mesero_2,Cena,Tarjeta de crédito,19.22,Ocupada,97,Ecuador,""Plato_10, Plato_3, Plato_18"""
+"7,Cliente_29,3,2023-04-01 01:01:00,2023-04-01 03:22:00,Mesero_5,Almuerzo,Tarjeta de crédito,17.15,Ocupada,98,Bolivia,""Plato_3, Plato_9, Plato_12"""
+"2,Cliente_873,6,2023-04-01 02:22:00,2023-04-01 06:18:00,Mesero_2,Almuerzo,Tarjeta de crédito,33.55,Ocupada,99,Chile,""Plato_2, Plato_17, Plato_12, Plato_9"""
+"18,Cliente_965,1,2023-04-01 03:32:00,2023-04-01 06:45:00,Mesero_1,Almuerzo,Tarjeta de crédito,15.15,Reservada,100,Paraguay,""Plato_7, Plato_5, Plato_1"""
+"1,Cliente_313,5,2023-04-01 00:14:00,2023-04-01 02:15:00,Mesero_4,Almuerzo,Tarjeta de crédito,15.09,Libre,101,Venezuela,""Plato_17, Plato_1, Plato_5, Plato_8"""
+"19,Cliente_520,2,2023-04-01 01:33:00,2023-04-01 04:14:00,Mesero_3,Almuerzo,Tarjeta de crédito,12.65,Reservada,102,Venezuela,""Plato_16, Plato_9"""
+"13,Cliente_388,3,2023-04-01 01:42:00,2023-04-01 05:10:00,Mesero_4,Almuerzo,Tarjeta de débito,26.75,Reservada,103,Brasil,""Plato_13, Plato_18, Plato_4"""
+"14,Cliente_384,4,2023-04-01 01:28:00,2023-04-01 02:44:00,Mesero_3,Desayuno,Tarjeta de débito,11.12,Reservada,104,Uruguay,""Plato_14, Plato_17"""
+"14,Cliente_517,6,2023-04-01 01:18:00,2023-04-01 04:00:00,Mesero_3,Almuerzo,Tarjeta de crédito,15.64,Libre,105,Brasil,""Plato_3, Plato_6"""
+15,Cliente_711,3,2023-04-01 02:00:00,2023-04-01 05:08:00,Mesero_4,Desayuno,Efectivo,22.72,Libre,106,Uruguay,Plato_18
+"11,Cliente_651,5,2023-04-01 01:29:00,2023-04-01 02:58:00,Mesero_2,Almuerzo,Tarjeta de débito,48.77,Reservada,107,Bolivia,""Plato_15, Plato_9, Plato_18"""
+"3,Cliente_545,3,2023-04-01 01:32:00,2023-04-01 03:37:00,Mesero_4,Desayuno,Tarjeta de débito,23.26,Reservada,108,Paraguay,""Plato_9, Plato_4, Plato_3, Plato_16"""
+"10,Cliente_116,2,2023-04-01 01:25:00,2023-04-01 02:26:00,Mesero_4,Desayuno,Tarjeta de crédito,42.95,Libre,109,Ecuador,""Plato_18, Plato_14, Plato_5"""
+"5,Cliente_170,1,2023-04-01 03:32:00,2023-04-01 06:37:00,Mesero_1,Almuerzo,Tarjeta de crédito,47.91,Reservada,110,Paraguay,""Plato_9, Plato_10, Plato_6"""
+"3,Cliente_92,2,2023-04-01 01:48:00,2023-04-01 05:07:00,Mesero_3,Desayuno,Tarjeta de crédito,18.82,Reservada,111,Ecuador,""Plato_15, Plato_5, Plato_7, Plato_9"""
+6,Cliente_552,2,2023-04-01 01:49:00,2023-04-01 04:01:00,Mesero_2,Cena,Efectivo,35.36,Ocupada,112,Perú,Plato_3
+4,Cliente_627,2,2023-04-01 01:12:00,2023-04-01 04:21:00,Mesero_3,Almuerzo,Tarjeta de crédito,29.74,Ocupada,113,Brasil,Plato_18
+"7,Cliente_588,6,2023-04-01 00:49:00,2023-04-01 03:30:00,Mesero_1,Almuerzo,Tarjeta de crédito,38.81,Ocupada,114,Chile,""Plato_2, Plato_9, Plato_4, Plato_5"""
+"12,Cliente_313,6,2023-04-01 03:43:00,2023-04-01 06:26:00,Mesero_1,Cena,Tarjeta de débito,46.46,Ocupada,115,Uruguay,""Plato_6, Plato_2, Plato_15"""
+"8,Cliente_949,5,2023-04-01 03:15:00,2023-04-01 06:33:00,Mesero_1,Almuerzo,Tarjeta de crédito,47.69,Ocupada,116,Chile,""Plato_15, Plato_8, Plato_19, Plato_18"""
+8,Cliente_863,4,2023-04-01 02:55:00,2023-04-01 05:45:00,Mesero_3,Desayuno,Tarjeta de crédito,11.65,Ocupada,117,Chile,Plato_8
+"13,Cliente_140,1,2023-04-01 00:34:00,2023-04-01 01:45:00,Mesero_5,Cena,Tarjeta de débito,49.32,Libre,118,Bolivia,""Plato_4, Plato_14, Plato_6, Plato_15"""
+"17,Cliente_523,3,2023-04-02 03:24:00,2023-04-02 05:03:00,Mesero_2,Desayuno,Tarjeta de crédito,11.5,Reservada,119,Perú,""Plato_10, Plato_19, Plato_4"""
+"4,Cliente_916,2,2023-04-02 00:38:00,2023-04-02 01:42:00,Mesero_1,Almuerzo,Efectivo,12.51,Reservada,120,Uruguay,""Plato_17, Plato_10"""
+5,Cliente_416,4,2023-04-02 03:45:00,2023-04-02 06:13:00,Mesero_4,Almuerzo,Tarjeta de crédito,12.3,Reservada,121,Paraguay,Plato_10
+6,Cliente_346,6,2023-04-02 01:23:00,2023-04-02 02:48:00,Mesero_1,Almuerzo,Tarjeta de débito,20.38,Ocupada,122,Colombia,Plato_8
+16,Cliente_381,6,2023-04-02 03:09:00,2023-04-02 04:10:00,Mesero_4,Almuerzo,Tarjeta de débito,46.88,Reservada,123,Argentina,Plato_7
+"16,Cliente_791,5,2023-04-02 03:39:00,2023-04-02 05:22:00,Mesero_3,Almuerzo,Tarjeta de débito,10.85,Libre,124,España,""Plato_3, Plato_1, Plato_11, Plato_9"""
+"14,Cliente_697,2,2023-04-02 02:56:00,2023-04-02 06:13:00,Mesero_3,Almuerzo,Tarjeta de crédito,24.66,Libre,125,Bolivia,""Plato_16, Plato_18, Plato_3"""
+"18,Cliente_516,3,2023-04-02 02:45:00,2023-04-02 05:12:00,Mesero_1,Almuerzo,Tarjeta de crédito,41.82,Libre,126,Perú,""Plato_16, Plato_8, Plato_7, Plato_2"""
+6,Cliente_541,4,2023-04-02 00:42:00,2023-04-02 02:28:00,Mesero_4,Almuerzo,Tarjeta de crédito,32.82,Libre,127,Argentina,Plato_19
+"2,Cliente_830,5,2023-04-02 01:31:00,2023-04-02 03:28:00,Mesero_2,Almuerzo,Efectivo,49.36,Ocupada,128,Uruguay,""Plato_1, Plato_4, Plato_7, Plato_17"""
+"16,Cliente_656,5,2023-04-02 00:41:00,2023-04-02 02:41:00,Mesero_2,Almuerzo,Tarjeta de crédito,49.3,Reservada,129,Perú,""Plato_12, Plato_3, Plato_9"""
+10,Cliente_486,4,2023-04-02 00:26:00,2023-04-02 01:32:00,Mesero_2,Almuerzo,Tarjeta de crédito,38.13,Libre,130,Colombia,Plato_8
+"7,Cliente_728,5,2023-04-02 00:43:00,2023-04-02 04:18:00,Mesero_4,Almuerzo,Tarjeta de crédito,42.41,Ocupada,131,Ecuador,""Plato_20, Plato_4, Plato_13"""
+"9,Cliente_774,2,2023-04-02 01:26:00,2023-04-02 02:43:00,Mesero_3,Cena,Tarjeta de débito,30.96,Reservada,132,Bolivia,""Plato_14, Plato_19, Plato_13, Plato_8"""
+"20,Cliente_26,6,2023-04-02 00:54:00,2023-04-02 03:52:00,Mesero_2,Almuerzo,Tarjeta de crédito,39.74,Ocupada,133,Chile,""Plato_15, Plato_18, Plato_17, Plato_4"""
+"3,Cliente_273,6,2023-04-02 00:07:00,2023-04-02 03:52:00,Mesero_1,Cena,Tarjeta de crédito,30.1,Libre,134,Uruguay,""Plato_7, Plato_15"""
+"11,Cliente_798,1,2023-04-02 01:00:00,2023-04-02 03:01:00,Mesero_5,Cena,Tarjeta de crédito,34.7,Ocupada,135,Brasil,""Plato_17, Plato_20, Plato_9"""
+6,Cliente_8,1,2023-04-02 01:50:00,2023-04-02 05:01:00,Mesero_1,Almuerzo,Tarjeta de crédito,30.25,Ocupada,136,Bolivia,Plato_20
+13,Cliente_31,3,2023-04-02 01:21:00,2023-04-02 04:11:00,Mesero_4,Desayuno,Tarjeta de crédito,12.4,Ocupada,137,Colombia,Plato_13
+"6,Cliente_658,2,2023-04-02 03:48:00,2023-04-02 05:09:00,Mesero_2,Desayuno,Tarjeta de débito,32.79,Ocupada,138,Venezuela,""Plato_17, Plato_12, Plato_10, Plato_2"""
+16,Cliente_773,3,2023-04-02 00:40:00,2023-04-02 04:39:00,Mesero_2,Almuerzo,Tarjeta de crédito,47.2,Libre,139,Chile,Plato_8
+"11,Cliente_158,4,2023-04-02 03:49:00,2023-04-02 06:29:00,Mesero_2,Almuerzo,Efectivo,32.13,Libre,140,Paraguay,""Plato_1, Plato_8, Plato_4"""
+4,Cliente_569,4,2023-04-02 01:58:00,2023-04-02 05:45:00,Mesero_3,Desayuno,Tarjeta de crédito,41.56,Reservada,141,Ecuador,Plato_13
+"14,Cliente_286,3,2023-04-02 02:05:00,2023-04-02 04:05:00,Mesero_4,Almuerzo,Tarjeta de crédito,16.29,Ocupada,142,Argentina,""Plato_7, Plato_14, Plato_20"""
+9,Cliente_199,4,2023-04-02 00:32:00,2023-04-02 04:30:00,Mesero_4,Almuerzo,Efectivo,48.26,Libre,143,Perú,Plato_1
+"18,Cliente_712,1,2023-04-02 02:58:00,2023-04-02 05:32:00,Mesero_4,Cena,Tarjeta de crédito,11.22,Ocupada,144,Perú,""Plato_19, Plato_12, Plato_9, Plato_18"""
+"2,Cliente_56,5,2023-04-02 00:37:00,2023-04-02 01:42:00,Mesero_2,Cena,Tarjeta de crédito,11.32,Ocupada,145,Venezuela,""Plato_5, Plato_2"""
+8,Cliente_670,6,2023-04-02 01:40:00,2023-04-02 02:54:00,Mesero_3,Almuerzo,Tarjeta de crédito,38.4,Reservada,146,Paraguay,Plato_17
+"5,Cliente_909,4,2023-04-02 03:18:00,2023-04-02 04:58:00,Mesero_3,Desayuno,Tarjeta de crédito,27.14,Reservada,147,Colombia,""Plato_20, Plato_5"""
+"10,Cliente_402,6,2023-04-02 03:52:00,2023-04-02 05:59:00,Mesero_3,Almuerzo,Tarjeta de débito,46.26,Ocupada,148,Colombia,""Plato_9, Plato_18, Plato_3, Plato_10"""
+"18,Cliente_709,4,2023-04-02 01:35:00,2023-04-02 04:50:00,Mesero_5,Desayuno,Tarjeta de crédito,15.92,Ocupada,149,Brasil,""Plato_18, Plato_2, Plato_4, Plato_9"""
+"18,Cliente_533,6,2023-04-02 00:37:00,2023-04-02 03:10:00,Mesero_1,Almuerzo,Tarjeta de débito,48.43,Libre,150,Argentina,""Plato_5, Plato_11, Plato_3"""
+"6,Cliente_953,2,2023-04-02 03:15:00,2023-04-02 06:53:00,Mesero_4,Cena,Tarjeta de crédito,41.51,Ocupada,151,Ecuador,""Plato_14, Plato_13"""
+5,Cliente_380,6,2023-04-02 01:14:00,2023-04-02 02:52:00,Mesero_4,Almuerzo,Tarjeta de débito,25.57,Reservada,152,Ecuador,Plato_16
+"10,Cliente_870,1,2023-04-02 03:06:00,2023-04-02 05:26:00,Mesero_2,Desayuno,Tarjeta de débito,42.84,Ocupada,153,Paraguay,""Plato_11, Plato_7, Plato_20"""
+"11,Cliente_964,6,2023-04-02 02:09:00,2023-04-02 03:36:00,Mesero_1,Desayuno,Tarjeta de crédito,17.2,Libre,154,Ecuador,""Plato_19, Plato_4"""
+"7,Cliente_939,2,2023-04-02 01:53:00,2023-04-02 04:44:00,Mesero_5,Almuerzo,Tarjeta de crédito,25.72,Reservada,155,Venezuela,""Plato_6, Plato_17, Plato_3"""
+6,Cliente_536,4,2023-04-02 00:40:00,2023-04-02 04:17:00,Mesero_3,Cena,Tarjeta de crédito,19.03,Libre,156,España,Plato_16
+"13,Cliente_5,5,2023-04-02 03:22:00,2023-04-02 06:15:00,Mesero_3,Desayuno,Tarjeta de crédito,28.48,Ocupada,157,Perú,""Plato_1, Plato_16, Plato_2, Plato_19"""
+"5,Cliente_115,5,2023-04-02 02:45:00,2023-04-02 03:59:00,Mesero_3,Almuerzo,Tarjeta de crédito,48.75,Libre,158,Chile,""Plato_12, Plato_10, Plato_19, Plato_8"""
+"16,Cliente_580,1,2023-04-02 00:10:00,2023-04-02 01:15:00,Mesero_3,Desayuno,Tarjeta de crédito,47.81,Ocupada,159,Brasil,""Plato_9, Plato_17, Plato_4, Plato_11"""
+"19,Cliente_788,6,2023-04-02 01:06:00,2023-04-02 04:33:00,Mesero_2,Almuerzo,Tarjeta de crédito,26.02,Reservada,160,Colombia,""Plato_19, Plato_7"""
+13,Cliente_892,6,2023-04-02 00:45:00,2023-04-02 04:23:00,Mesero_2,Almuerzo,Tarjeta de crédito,18.86,Reservada,161,Paraguay,Plato_16
+14,Cliente_406,4,2023-04-02 00:57:00,2023-04-02 02:34:00,Mesero_1,Almuerzo,Tarjeta de crédito,17.55,Reservada,162,Paraguay,Plato_7
+"6,Cliente_295,1,2023-04-02 01:35:00,2023-04-02 04:09:00,Mesero_5,Almuerzo,Tarjeta de crédito,14.94,Ocupada,163,Chile,""Plato_17, Plato_2, Plato_11, Plato_5"""
+"8,Cliente_547,2,2023-04-02 02:34:00,2023-04-02 06:02:00,Mesero_4,Cena,Tarjeta de crédito,47.53,Reservada,164,Colombia,""Plato_5, Plato_19, Plato_15, Plato_7"""
+"10,Cliente_156,3,2023-04-02 02:21:00,2023-04-02 05:12:00,Mesero_3,Cena,Tarjeta de crédito,41.9,Ocupada,165,Perú,""Plato_7, Plato_13"""
+12,Cliente_768,1,2023-04-02 01:18:00,2023-04-02 02:44:00,Mesero_4,Almuerzo,Efectivo,43.95,Ocupada,166,Perú,Plato_14
+"5,Cliente_359,6,2023-04-02 01:19:00,2023-04-02 02:46:00,Mesero_2,Almuerzo,Tarjeta de débito,42.74,Reservada,167,Argentina,""Plato_12, Plato_18, Plato_17"""
+17,Cliente_131,4,2023-04-02 02:05:00,2023-04-02 03:23:00,Mesero_1,Almuerzo,Tarjeta de crédito,17.09,Reservada,168,Venezuela,Plato_5
+"19,Cliente_485,1,2023-04-02 01:56:00,2023-04-02 05:14:00,Mesero_3,Almuerzo,Tarjeta de débito,16.62,Libre,169,Paraguay,""Plato_13, Plato_18, Plato_5"""
+"12,Cliente_493,2,2023-04-02 02:37:00,2023-04-02 05:26:00,Mesero_2,Cena,Tarjeta de crédito,25.98,Libre,170,Colombia,""Plato_3, Plato_9, Plato_19, Plato_2"""
+"16,Cliente_282,6,2023-04-02 01:53:00,2023-04-02 03:04:00,Mesero_2,Cena,Tarjeta de crédito,46.56,Libre,171,Brasil,""Plato_10, Plato_9"""
+12,Cliente_850,3,2023-04-02 02:49:00,2023-04-02 06:06:00,Mesero_1,Almuerzo,Tarjeta de crédito,45.17,Ocupada,172,Bolivia,Plato_18
+"11,Cliente_301,3,2023-04-02 00:18:00,2023-04-02 03:43:00,Mesero_4,Almuerzo,Tarjeta de crédito,48.73,Ocupada,173,Chile,""Plato_6, Plato_15"""
+10,Cliente_124,5,2023-04-02 00:09:00,2023-04-02 01:12:00,Mesero_4,Almuerzo,Tarjeta de crédito,48.24,Reservada,174,Venezuela,Plato_2
+"14,Cliente_747,3,2023-04-02 01:27:00,2023-04-02 03:04:00,Mesero_3,Almuerzo,Tarjeta de crédito,27.94,Reservada,175,Colombia,""Plato_15, Plato_7"""
+20,Cliente_741,4,2023-04-02 02:27:00,2023-04-02 04:32:00,Mesero_2,Almuerzo,Tarjeta de crédito,30.5,Ocupada,176,Chile,Plato_13
+"4,Cliente_610,1,2023-04-02 00:14:00,2023-04-02 01:14:00,Mesero_4,Cena,Tarjeta de crédito,10.39,Ocupada,177,Perú,""Plato_7, Plato_10, Plato_13, Plato_12"""
+"11,Cliente_681,6,2023-04-02 01:53:00,2023-04-02 05:18:00,Mesero_3,Cena,Tarjeta de crédito,31.6,Reservada,178,Venezuela,""Plato_2, Plato_8, Plato_5, Plato_11"""
+12,Cliente_173,2,2023-04-02 00:44:00,2023-04-02 03:08:00,Mesero_4,Desayuno,Tarjeta de crédito,13.3,Reservada,179,Colombia,Plato_17
+"10,Cliente_55,1,2023-04-02 02:21:00,2023-04-02 05:09:00,Mesero_2,Cena,Tarjeta de crédito,46.61,Reservada,180,Brasil,""Plato_9, Plato_2, Plato_3, Plato_6"""
+15,Cliente_653,1,2023-04-02 02:45:00,2023-04-02 03:54:00,Mesero_1,Cena,Tarjeta de crédito,42.58,Ocupada,181,Paraguay,Plato_6
+18,Cliente_628,2,2023-04-02 03:53:00,2023-04-02 06:30:00,Mesero_3,Almuerzo,Tarjeta de débito,38.36,Libre,182,Paraguay,Plato_12
+"18,Cliente_715,1,2023-04-02 02:46:00,2023-04-02 06:28:00,Mesero_1,Almuerzo,Tarjeta de crédito,11.69,Ocupada,183,Uruguay,""Plato_15, Plato_10, Plato_3, Plato_8"""
+"4,Cliente_321,6,2023-04-02 03:55:00,2023-04-02 07:01:00,Mesero_5,Almuerzo,Tarjeta de crédito,24.24,Ocupada,184,Chile,""Plato_16, Plato_6, Plato_3"""
+"16,Cliente_670,2,2023-04-02 02:47:00,2023-04-02 06:26:00,Mesero_1,Desayuno,Tarjeta de crédito,28.07,Libre,185,Uruguay,""Plato_13, Plato_16"""
+"13,Cliente_442,6,2023-04-02 00:40:00,2023-04-02 04:14:00,Mesero_1,Almuerzo,Tarjeta de crédito,17.55,Reservada,186,Colombia,""Plato_6, Plato_15, Plato_17"""
+"5,Cliente_752,1,2023-04-02 02:23:00,2023-04-02 05:28:00,Mesero_4,Almuerzo,Tarjeta de crédito,17.4,Libre,187,Venezuela,""Plato_18, Plato_10, Plato_9, Plato_6"""
+"20,Cliente_727,4,2023-04-02 03:40:00,2023-04-02 05:21:00,Mesero_3,Desayuno,Tarjeta de crédito,13.95,Reservada,188,Colombia,""Plato_17, Plato_10"""
+"11,Cliente_548,4,2023-04-02 03:48:00,2023-04-02 06:10:00,Mesero_2,Almuerzo,Tarjeta de crédito,41.66,Reservada,189,España,""Plato_18, Plato_10, Plato_7"""
+"5,Cliente_709,2,2023-04-02 01:31:00,2023-04-02 03:22:00,Mesero_2,Almuerzo,Tarjeta de crédito,38.88,Libre,190,Colombia,""Plato_4, Plato_20, Plato_8, Plato_14"""
+"12,Cliente_30,6,2023-04-02 00:00:00,2023-04-02 02:36:00,Mesero_2,Almuerzo,Tarjeta de crédito,24.36,Ocupada,191,Paraguay,""Plato_1, Plato_9"""
+17,Cliente_412,4,2023-04-02 02:36:00,2023-04-02 04:53:00,Mesero_2,Desayuno,Efectivo,15.99,Libre,192,Chile,Plato_1
+"3,Cliente_646,5,2023-04-02 00:12:00,2023-04-02 03:04:00,Mesero_5,Desayuno,Tarjeta de crédito,24.85,Reservada,193,Argentina,""Plato_10, Plato_19, Plato_6, Plato_14"""
+"3,Cliente_151,6,2023-04-02 02:40:00,2023-04-02 03:56:00,Mesero_5,Almuerzo,Tarjeta de débito,11.41,Reservada,194,Perú,""Plato_11, Plato_2"""
+2,Cliente_318,1,2023-04-02 03:04:00,2023-04-02 04:09:00,Mesero_3,Almuerzo,Tarjeta de débito,10.06,Ocupada,195,Colombia,Plato_1
+"4,Cliente_965,3,2023-04-02 00:11:00,2023-04-02 04:10:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.65,Reservada,196,España,""Plato_3, Plato_14, Plato_9, Plato_16"""
+"5,Cliente_336,6,2023-04-02 02:46:00,2023-04-02 04:54:00,Mesero_2,Desayuno,Tarjeta de débito,20.11,Ocupada,197,Colombia,""Plato_18, Plato_6"""
+9,Cliente_560,4,2023-04-02 00:36:00,2023-04-02 03:05:00,Mesero_1,Almuerzo,Tarjeta de crédito,36.72,Reservada,198,España,Plato_6
+"11,Cliente_367,5,2023-04-02 01:56:00,2023-04-02 05:40:00,Mesero_2,Cena,Tarjeta de débito,13.26,Libre,199,Paraguay,""Plato_9, Plato_8, Plato_13, Plato_6"""
+"11,Cliente_765,4,2023-04-02 02:35:00,2023-04-02 05:26:00,Mesero_3,Almuerzo,Tarjeta de crédito,48.73,Reservada,200,Colombia,""Plato_12, Plato_1"""
+3,Cliente_679,5,2023-04-02 00:18:00,2023-04-02 01:50:00,Mesero_1,Cena,Tarjeta de crédito,19.84,Reservada,201,Perú,Plato_7
+"16,Cliente_512,5,2023-04-02 00:58:00,2023-04-02 02:00:00,Mesero_3,Almuerzo,Tarjeta de crédito,24.19,Ocupada,202,Bolivia,""Plato_19, Plato_20, Plato_7, Plato_2"""
+"5,Cliente_701,2,2023-04-02 03:57:00,2023-04-02 05:21:00,Mesero_1,Almuerzo,Tarjeta de crédito,40.19,Libre,203,Perú,""Plato_17, Plato_13"""
+16,Cliente_331,5,2023-04-02 00:17:00,2023-04-02 02:25:00,Mesero_1,Almuerzo,Efectivo,49.56,Libre,204,Uruguay,Plato_7
+"14,Cliente_83,1,2023-04-02 02:15:00,2023-04-02 06:14:00,Mesero_2,Almuerzo,Tarjeta de débito,26.49,Libre,205,Chile,""Plato_15, Plato_9"""
+4,Cliente_339,6,2023-04-02 03:27:00,2023-04-02 06:09:00,Mesero_4,Almuerzo,Tarjeta de crédito,36.96,Ocupada,206,Bolivia,Plato_2
+"20,Cliente_323,3,2023-04-02 02:49:00,2023-04-02 04:02:00,Mesero_5,Cena,Tarjeta de crédito,46.54,Reservada,207,Brasil,""Plato_10, Plato_8, Plato_17"""
+"16,Cliente_678,4,2023-04-02 03:33:00,2023-04-02 06:36:00,Mesero_1,Almuerzo,Tarjeta de débito,36.7,Ocupada,208,Perú,""Plato_15, Plato_19, Plato_3"""
+"9,Cliente_74,6,2023-04-02 01:31:00,2023-04-02 04:06:00,Mesero_1,Cena,Efectivo,34.49,Reservada,209,Bolivia,""Plato_14, Plato_18, Plato_1, Plato_10"""
+"10,Cliente_146,4,2023-04-02 02:43:00,2023-04-02 04:29:00,Mesero_2,Desayuno,Tarjeta de crédito,14.67,Libre,210,Venezuela,""Plato_13, Plato_2, Plato_7, Plato_20"""
+"1,Cliente_212,2,2023-04-02 03:40:00,2023-04-02 05:26:00,Mesero_1,Almuerzo,Tarjeta de débito,11.13,Reservada,211,Argentina,""Plato_13, Plato_4, Plato_1, Plato_3"""
+"14,Cliente_36,6,2023-04-02 02:35:00,2023-04-02 03:40:00,Mesero_4,Almuerzo,Tarjeta de débito,18.85,Ocupada,212,Perú,""Plato_2, Plato_10, Plato_13, Plato_16"""
+"13,Cliente_3,6,2023-04-02 01:46:00,2023-04-02 04:58:00,Mesero_5,Almuerzo,Tarjeta de crédito,28.1,Libre,213,Perú,""Plato_6, Plato_2"""
+"2,Cliente_176,4,2023-04-02 03:18:00,2023-04-02 05:09:00,Mesero_1,Almuerzo,Tarjeta de débito,33.39,Ocupada,214,Argentina,""Plato_18, Plato_20, Plato_3"""
+"6,Cliente_551,4,2023-04-02 03:52:00,2023-04-02 06:25:00,Mesero_3,Almuerzo,Tarjeta de débito,35.64,Ocupada,215,Uruguay,""Plato_18, Plato_2"""
+"17,Cliente_240,6,2023-04-02 01:46:00,2023-04-02 05:36:00,Mesero_2,Almuerzo,Tarjeta de crédito,35.69,Libre,216,Uruguay,""Plato_1, Plato_13, Plato_6"""
+1,Cliente_124,2,2023-04-02 00:54:00,2023-04-02 04:45:00,Mesero_3,Cena,Tarjeta de crédito,31.17,Ocupada,217,Colombia,Plato_15
+"13,Cliente_759,3,2023-04-02 00:27:00,2023-04-02 03:41:00,Mesero_5,Almuerzo,Tarjeta de crédito,23.34,Ocupada,218,Argentina,""Plato_12, Plato_6, Plato_14"""
+"1,Cliente_959,5,2023-04-02 02:33:00,2023-04-02 04:49:00,Mesero_3,Almuerzo,Tarjeta de crédito,46.96,Libre,219,Venezuela,""Plato_14, Plato_17"""
+15,Cliente_151,6,2023-04-02 01:01:00,2023-04-02 04:57:00,Mesero_5,Almuerzo,Tarjeta de crédito,48.5,Reservada,220,Ecuador,Plato_7
+"16,Cliente_744,1,2023-04-02 01:51:00,2023-04-02 03:05:00,Mesero_3,Almuerzo,Tarjeta de crédito,17.83,Libre,221,Chile,""Plato_15, Plato_18, Plato_9"""
+"3,Cliente_189,3,2023-04-02 03:38:00,2023-04-02 06:42:00,Mesero_5,Cena,Tarjeta de débito,32.58,Libre,222,Ecuador,""Plato_14, Plato_16"""
+19,Cliente_576,2,2023-04-02 01:16:00,2023-04-02 02:50:00,Mesero_5,Cena,Tarjeta de crédito,49.62,Reservada,223,Argentina,Plato_15
+7,Cliente_474,6,2023-04-02 02:07:00,2023-04-02 05:47:00,Mesero_3,Almuerzo,Tarjeta de crédito,17.61,Ocupada,224,Bolivia,Plato_10
+"19,Cliente_990,4,2023-04-02 00:14:00,2023-04-02 01:24:00,Mesero_3,Desayuno,Tarjeta de crédito,35.02,Reservada,225,Perú,""Plato_11, Plato_14"""
+"7,Cliente_67,6,2023-04-02 00:58:00,2023-04-02 04:09:00,Mesero_1,Cena,Tarjeta de crédito,39.48,Reservada,226,Venezuela,""Plato_3, Plato_13, Plato_6, Plato_9"""
+"17,Cliente_378,6,2023-04-02 01:49:00,2023-04-02 04:52:00,Mesero_5,Almuerzo,Tarjeta de crédito,41.05,Libre,227,Chile,""Plato_7, Plato_17, Plato_16, Plato_11"""
+16,Cliente_445,4,2023-04-02 01:40:00,2023-04-02 04:02:00,Mesero_3,Almuerzo,Tarjeta de crédito,10.66,Ocupada,228,Ecuador,Plato_14
+"14,Cliente_984,3,2023-04-02 02:34:00,2023-04-02 04:30:00,Mesero_2,Cena,Tarjeta de crédito,28.58,Reservada,229,Bolivia,""Plato_1, Plato_8, Plato_19, Plato_16"""
+"5,Cliente_167,5,2023-04-02 02:15:00,2023-04-02 04:48:00,Mesero_2,Almuerzo,Tarjeta de crédito,15.84,Libre,230,Venezuela,""Plato_15, Plato_16, Plato_17"""
+"8,Cliente_877,2,2023-04-02 01:12:00,2023-04-02 03:10:00,Mesero_2,Almuerzo,Tarjeta de crédito,49.1,Ocupada,231,Perú,""Plato_13, Plato_18, Plato_17, Plato_11"""
+"2,Cliente_494,2,2023-04-02 02:04:00,2023-04-02 03:25:00,Mesero_1,Almuerzo,Tarjeta de crédito,15.43,Reservada,232,Argentina,""Plato_7, Plato_6, Plato_2, Plato_10"""
+8,Cliente_881,1,2023-04-02 00:52:00,2023-04-02 02:39:00,Mesero_2,Desayuno,Tarjeta de débito,45.64,Libre,233,Argentina,Plato_12
+"17,Cliente_264,6,2023-04-02 02:46:00,2023-04-02 05:28:00,Mesero_3,Desayuno,Tarjeta de crédito,10.22,Libre,234,Brasil,""Plato_2, Plato_7, Plato_17"""
+13,Cliente_230,5,2023-04-02 00:22:00,2023-04-02 02:48:00,Mesero_3,Cena,Tarjeta de crédito,26.37,Reservada,235,España,Plato_11
+"12,Cliente_142,2,2023-04-02 00:52:00,2023-04-02 02:26:00,Mesero_3,Almuerzo,Tarjeta de crédito,39.81,Libre,236,Argentina,""Plato_11, Plato_5, Plato_8, Plato_15"""
+"4,Cliente_55,6,2023-04-02 02:45:00,2023-04-02 06:00:00,Mesero_2,Almuerzo,Tarjeta de crédito,13.15,Ocupada,237,Perú,""Plato_14, Plato_2"""
+13,Cliente_599,6,2023-04-02 02:17:00,2023-04-02 04:56:00,Mesero_2,Desayuno,Tarjeta de crédito,33.02,Libre,238,Brasil,Plato_19
+"12,Cliente_856,6,2023-04-02 02:46:00,2023-04-02 06:07:00,Mesero_4,Almuerzo,Efectivo,11.76,Reservada,239,Brasil,""Plato_10, Plato_7"""
+"9,Cliente_722,1,2023-04-02 00:16:00,2023-04-02 03:10:00,Mesero_3,Almuerzo,Tarjeta de débito,33.81,Libre,240,Perú,""Plato_17, Plato_14, Plato_4, Plato_15"""
+12,Cliente_935,4,2023-04-02 00:04:00,2023-04-02 01:04:00,Mesero_5,Almuerzo,Tarjeta de crédito,38.97,Ocupada,241,Brasil,Plato_4
+"12,Cliente_961,2,2023-04-02 03:42:00,2023-04-02 05:09:00,Mesero_2,Almuerzo,Tarjeta de crédito,31.29,Reservada,242,Venezuela,""Plato_10, Plato_1, Plato_11"""
+4,Cliente_924,4,2023-04-02 00:42:00,2023-04-02 04:11:00,Mesero_2,Almuerzo,Tarjeta de crédito,21.45,Libre,243,España,Plato_20
+"17,Cliente_390,6,2023-04-02 03:44:00,2023-04-02 06:01:00,Mesero_3,Almuerzo,Efectivo,17.65,Reservada,244,Perú,""Plato_20, Plato_12"""
+"11,Cliente_579,1,2023-04-02 03:31:00,2023-04-02 06:57:00,Mesero_1,Almuerzo,Tarjeta de crédito,14.82,Reservada,245,Bolivia,""Plato_4, Plato_17, Plato_20, Plato_19"""
+"2,Cliente_961,6,2023-04-02 01:50:00,2023-04-02 04:09:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.75,Libre,246,Bolivia,""Plato_6, Plato_7, Plato_8, Plato_17"""
+11,Cliente_788,6,2023-04-02 02:34:00,2023-04-02 05:21:00,Mesero_2,Almuerzo,Tarjeta de crédito,49.07,Ocupada,247,Ecuador,Plato_11
+"12,Cliente_567,6,2023-04-02 00:26:00,2023-04-02 02:18:00,Mesero_2,Almuerzo,Tarjeta de débito,18.69,Ocupada,248,Chile,""Plato_18, Plato_9, Plato_6, Plato_1"""
+"8,Cliente_927,6,2023-04-02 00:58:00,2023-04-02 03:55:00,Mesero_2,Cena,Tarjeta de crédito,47.71,Ocupada,249,España,""Plato_5, Plato_4"""
+8,Cliente_539,2,2023-04-02 02:56:00,2023-04-02 06:33:00,Mesero_4,Almuerzo,Tarjeta de crédito,23.21,Libre,250,España,Plato_3
+"12,Cliente_872,6,2023-04-02 01:20:00,2023-04-02 04:24:00,Mesero_1,Almuerzo,Tarjeta de crédito,13.69,Ocupada,251,Uruguay,""Plato_10, Plato_5, Plato_14, Plato_12"""
+"4,Cliente_425,3,2023-04-02 00:39:00,2023-04-02 04:24:00,Mesero_4,Almuerzo,Tarjeta de crédito,43.81,Libre,252,Colombia,""Plato_1, Plato_10"""
+"8,Cliente_700,2,2023-04-02 00:54:00,2023-04-02 03:45:00,Mesero_3,Cena,Tarjeta de crédito,34.69,Ocupada,253,Argentina,""Plato_1, Plato_13, Plato_9"""
+"10,Cliente_665,6,2023-04-02 03:05:00,2023-04-02 05:47:00,Mesero_1,Cena,Tarjeta de crédito,36.43,Reservada,254,Paraguay,""Plato_17, Plato_10, Plato_18, Plato_16"""
+8,Cliente_978,4,2023-04-02 02:23:00,2023-04-02 03:59:00,Mesero_2,Cena,Efectivo,13.34,Reservada,255,Uruguay,Plato_1
+5,Cliente_577,2,2023-04-02 00:23:00,2023-04-02 03:27:00,Mesero_5,Desayuno,Efectivo,49.88,Reservada,256,Argentina,Plato_13
+12,Cliente_429,5,2023-04-02 02:08:00,2023-04-02 03:17:00,Mesero_2,Almuerzo,Tarjeta de crédito,26.78,Reservada,257,Ecuador,Plato_14
+"12,Cliente_811,1,2023-04-02 00:39:00,2023-04-02 04:32:00,Mesero_2,Desayuno,Tarjeta de crédito,47.99,Reservada,258,Bolivia,""Plato_1, Plato_3, Plato_15, Plato_20"""
+10,Cliente_553,5,2023-04-02 03:27:00,2023-04-02 06:16:00,Mesero_1,Almuerzo,Tarjeta de crédito,46.72,Ocupada,259,Venezuela,Plato_6
+20,Cliente_228,6,2023-04-02 01:23:00,2023-04-02 04:38:00,Mesero_5,Almuerzo,Efectivo,47.55,Ocupada,260,Uruguay,Plato_14
+"8,Cliente_249,1,2023-04-02 01:08:00,2023-04-02 02:55:00,Mesero_4,Almuerzo,Tarjeta de crédito,32.42,Ocupada,261,Chile,""Plato_15, Plato_9"""
+"18,Cliente_326,4,2023-04-02 03:44:00,2023-04-02 07:21:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.83,Ocupada,262,Venezuela,""Plato_5, Plato_17"""
+"5,Cliente_697,1,2023-04-02 02:53:00,2023-04-02 05:26:00,Mesero_1,Desayuno,Tarjeta de crédito,42.96,Libre,263,Uruguay,""Plato_15, Plato_8, Plato_2, Plato_7"""
+"2,Cliente_281,1,2023-04-02 03:11:00,2023-04-02 04:26:00,Mesero_1,Almuerzo,Tarjeta de crédito,49.21,Libre,264,Bolivia,""Plato_8, Plato_15, Plato_2, Plato_1"""
+"6,Cliente_686,1,2023-04-02 02:54:00,2023-04-02 06:15:00,Mesero_2,Desayuno,Tarjeta de débito,21.48,Libre,265,Chile,""Plato_14, Plato_17, Plato_6, Plato_2"""
+"4,Cliente_418,4,2023-04-02 00:30:00,2023-04-02 02:04:00,Mesero_2,Almuerzo,Tarjeta de crédito,24.75,Reservada,266,Paraguay,""Plato_7, Plato_1"""
+"7,Cliente_397,5,2023-04-03 02:07:00,2023-04-03 03:48:00,Mesero_2,Cena,Tarjeta de crédito,44.66,Ocupada,267,España,""Plato_15, Plato_16, Plato_2"""
+"14,Cliente_477,1,2023-04-03 00:46:00,2023-04-03 03:44:00,Mesero_3,Almuerzo,Tarjeta de débito,23.16,Libre,268,Uruguay,""Plato_7, Plato_5"""
+"11,Cliente_300,2,2023-04-03 02:58:00,2023-04-03 04:15:00,Mesero_2,Almuerzo,Tarjeta de débito,39.17,Libre,269,Venezuela,""Plato_19, Plato_20, Plato_18"""
+10,Cliente_775,1,2023-04-03 01:11:00,2023-04-03 04:59:00,Mesero_4,Almuerzo,Tarjeta de crédito,10.13,Libre,270,Ecuador,Plato_18
+3,Cliente_928,3,2023-04-03 01:40:00,2023-04-03 05:10:00,Mesero_3,Almuerzo,Tarjeta de crédito,16.11,Ocupada,271,Bolivia,Plato_5
+"7,Cliente_132,1,2023-04-03 00:34:00,2023-04-03 04:24:00,Mesero_4,Almuerzo,Tarjeta de crédito,42.73,Reservada,272,España,""Plato_7, Plato_8"""
+"20,Cliente_709,5,2023-04-03 01:47:00,2023-04-03 03:29:00,Mesero_2,Almuerzo,Efectivo,36.3,Ocupada,273,Colombia,""Plato_15, Plato_5, Plato_1"""
+"7,Cliente_53,1,2023-04-03 03:15:00,2023-04-03 05:52:00,Mesero_1,Almuerzo,Tarjeta de débito,19.93,Ocupada,274,Brasil,""Plato_10, Plato_12"""
+"5,Cliente_765,3,2023-04-03 02:13:00,2023-04-03 05:58:00,Mesero_2,Almuerzo,Tarjeta de crédito,49.67,Reservada,275,Bolivia,""Plato_11, Plato_17, Plato_10"""
+"15,Cliente_673,6,2023-04-03 02:35:00,2023-04-03 05:34:00,Mesero_4,Almuerzo,Tarjeta de débito,20.98,Reservada,276,Ecuador,""Plato_5, Plato_10"""
+4,Cliente_243,2,2023-04-03 01:28:00,2023-04-03 03:56:00,Mesero_5,Almuerzo,Tarjeta de crédito,10.29,Libre,277,España,Plato_17
+"5,Cliente_999,4,2023-04-03 03:10:00,2023-04-03 05:12:00,Mesero_3,Almuerzo,Efectivo,41.36,Libre,278,Venezuela,""Plato_17, Plato_7"""
+"11,Cliente_510,5,2023-04-03 00:15:00,2023-04-03 02:35:00,Mesero_2,Cena,Tarjeta de crédito,43.53,Libre,279,Venezuela,""Plato_20, Plato_8, Plato_4, Plato_16"""
+"14,Cliente_730,6,2023-04-03 00:30:00,2023-04-03 02:41:00,Mesero_5,Almuerzo,Tarjeta de crédito,36.08,Reservada,280,Ecuador,""Plato_7, Plato_14"""
+18,Cliente_617,2,2023-04-03 03:52:00,2023-04-03 07:50:00,Mesero_4,Desayuno,Efectivo,44.3,Ocupada,281,Perú,Plato_11
+"6,Cliente_827,1,2023-04-03 01:11:00,2023-04-03 05:02:00,Mesero_4,Almuerzo,Tarjeta de crédito,19.05,Libre,282,Uruguay,""Plato_4, Plato_3"""
+19,Cliente_184,5,2023-04-03 01:04:00,2023-04-03 04:48:00,Mesero_5,Cena,Tarjeta de crédito,43.07,Libre,283,Brasil,Plato_10
+"11,Cliente_345,4,2023-04-03 02:28:00,2023-04-03 04:37:00,Mesero_5,Almuerzo,Tarjeta de débito,29.99,Ocupada,284,Perú,""Plato_3, Plato_6, Plato_12, Plato_11"""
+18,Cliente_277,6,2023-04-03 03:03:00,2023-04-03 06:05:00,Mesero_4,Almuerzo,Tarjeta de débito,10.94,Reservada,285,España,Plato_13
+15,Cliente_244,6,2023-04-03 00:22:00,2023-04-03 02:28:00,Mesero_3,Almuerzo,Tarjeta de crédito,41.96,Ocupada,286,Argentina,Plato_18
+"20,Cliente_286,2,2023-04-03 03:37:00,2023-04-03 04:44:00,Mesero_5,Almuerzo,Tarjeta de débito,31.67,Reservada,287,Colombia,""Plato_15, Plato_14, Plato_2"""
+"15,Cliente_981,3,2023-04-03 02:08:00,2023-04-03 05:33:00,Mesero_5,Cena,Tarjeta de crédito,13.3,Reservada,288,Uruguay,""Plato_7, Plato_12"""
+"15,Cliente_24,5,2023-04-03 03:08:00,2023-04-03 06:23:00,Mesero_5,Almuerzo,Tarjeta de débito,26.56,Libre,289,España,""Plato_3, Plato_10"""
+19,Cliente_26,3,2023-04-03 02:06:00,2023-04-03 04:33:00,Mesero_3,Almuerzo,Tarjeta de crédito,14.59,Ocupada,290,España,Plato_20
+"2,Cliente_463,6,2023-04-03 03:18:00,2023-04-03 06:09:00,Mesero_2,Desayuno,Efectivo,15.44,Ocupada,291,Bolivia,""Plato_18, Plato_1, Plato_8, Plato_17"""
+10,Cliente_746,3,2023-04-03 00:09:00,2023-04-03 01:51:00,Mesero_3,Cena,Tarjeta de débito,29.72,Reservada,292,Argentina,Plato_16
+"16,Cliente_409,4,2023-04-03 02:55:00,2023-04-03 04:35:00,Mesero_3,Almuerzo,Tarjeta de débito,33.11,Reservada,293,Argentina,""Plato_16, Plato_2, Plato_19"""
+"17,Cliente_339,6,2023-04-03 00:26:00,2023-04-03 03:57:00,Mesero_2,Desayuno,Tarjeta de crédito,20.36,Libre,294,Colombia,""Plato_17, Plato_19, Plato_4, Plato_18"""
+"3,Cliente_729,1,2023-04-03 00:10:00,2023-04-03 02:01:00,Mesero_2,Almuerzo,Tarjeta de crédito,46.42,Reservada,295,Uruguay,""Plato_15, Plato_2, Plato_17, Plato_13"""
+"14,Cliente_565,1,2023-04-03 02:49:00,2023-04-03 05:58:00,Mesero_2,Cena,Tarjeta de crédito,29.07,Ocupada,296,España,""Plato_14, Plato_19"""
+"4,Cliente_873,3,2023-04-03 01:03:00,2023-04-03 04:27:00,Mesero_1,Almuerzo,Tarjeta de crédito,43.46,Ocupada,297,España,""Plato_9, Plato_4, Plato_13"""
+"11,Cliente_195,4,2023-04-03 03:14:00,2023-04-03 05:29:00,Mesero_5,Desayuno,Tarjeta de crédito,23.24,Reservada,298,Bolivia,""Plato_6, Plato_19, Plato_5"""
+"6,Cliente_211,1,2023-04-03 01:19:00,2023-04-03 02:45:00,Mesero_5,Cena,Efectivo,29.68,Ocupada,299,Uruguay,""Plato_3, Plato_19, Plato_7, Plato_4"""
+"18,Cliente_516,6,2023-04-03 02:17:00,2023-04-03 04:19:00,Mesero_2,Desayuno,Tarjeta de crédito,38.38,Reservada,300,Paraguay,""Plato_20, Plato_4, Plato_10, Plato_2"""
+"8,Cliente_385,6,2023-04-03 02:14:00,2023-04-03 04:08:00,Mesero_5,Almuerzo,Tarjeta de crédito,16.52,Reservada,301,Uruguay,""Plato_17, Plato_10, Plato_9, Plato_3"""
+5,Cliente_929,2,2023-04-03 01:20:00,2023-04-03 04:56:00,Mesero_1,Desayuno,Tarjeta de crédito,39.89,Reservada,302,Colombia,Plato_15
+"14,Cliente_986,5,2023-04-03 03:38:00,2023-04-03 06:24:00,Mesero_5,Desayuno,Tarjeta de débito,16.49,Ocupada,303,Brasil,""Plato_3, Plato_20, Plato_10, Plato_7"""
+"6,Cliente_994,4,2023-04-03 03:24:00,2023-04-03 04:40:00,Mesero_1,Almuerzo,Tarjeta de crédito,22.05,Reservada,304,Colombia,""Plato_15, Plato_13, Plato_20, Plato_17"""
+"1,Cliente_648,2,2023-04-03 00:45:00,2023-04-03 04:13:00,Mesero_1,Almuerzo,Tarjeta de crédito,37.92,Reservada,305,Chile,""Plato_8, Plato_14"""
+7,Cliente_702,4,2023-04-03 00:03:00,2023-04-03 02:32:00,Mesero_5,Almuerzo,Tarjeta de crédito,16.96,Ocupada,306,Chile,Plato_15
+20,Cliente_175,5,2023-04-03 03:09:00,2023-04-03 05:39:00,Mesero_1,Almuerzo,Efectivo,31.66,Libre,307,Perú,Plato_13
+"14,Cliente_846,6,2023-04-03 01:55:00,2023-04-03 04:39:00,Mesero_2,Almuerzo,Tarjeta de crédito,33.79,Reservada,308,Uruguay,""Plato_18, Plato_8, Plato_17, Plato_16"""
+"9,Cliente_620,3,2023-04-03 00:28:00,2023-04-03 04:05:00,Mesero_1,Almuerzo,Tarjeta de crédito,36.09,Reservada,309,Argentina,""Plato_20, Plato_17, Plato_8"""
+"17,Cliente_672,3,2023-04-03 03:04:00,2023-04-03 06:23:00,Mesero_5,Cena,Tarjeta de crédito,11.47,Libre,310,Uruguay,""Plato_10, Plato_2"""
+"6,Cliente_735,4,2023-04-03 01:40:00,2023-04-03 02:43:00,Mesero_3,Desayuno,Efectivo,39.27,Ocupada,311,Paraguay,""Plato_7, Plato_9"""
+"2,Cliente_268,4,2023-04-03 03:07:00,2023-04-03 06:12:00,Mesero_3,Almuerzo,Tarjeta de crédito,30.89,Reservada,312,Uruguay,""Plato_15, Plato_8"""
+"10,Cliente_974,3,2023-04-03 02:23:00,2023-04-03 05:46:00,Mesero_1,Desayuno,Tarjeta de débito,43.14,Reservada,313,España,""Plato_12, Plato_17, Plato_19, Plato_7"""
+20,Cliente_161,5,2023-04-03 00:46:00,2023-04-03 03:53:00,Mesero_4,Almuerzo,Tarjeta de débito,32.18,Ocupada,314,Chile,Plato_6
+"14,Cliente_600,1,2023-04-03 00:12:00,2023-04-03 03:29:00,Mesero_2,Almuerzo,Tarjeta de crédito,20.6,Libre,315,Chile,""Plato_1, Plato_16, Plato_9, Plato_13"""
+"2,Cliente_654,2,2023-04-03 01:38:00,2023-04-03 05:32:00,Mesero_5,Desayuno,Tarjeta de crédito,31.13,Reservada,316,Perú,""Plato_4, Plato_13, Plato_6, Plato_20"""
+"17,Cliente_440,2,2023-04-03 02:25:00,2023-04-03 06:16:00,Mesero_2,Desayuno,Efectivo,24.55,Libre,317,Uruguay,""Plato_5, Plato_18, Plato_15"""
+13,Cliente_269,3,2023-04-03 03:33:00,2023-04-03 05:09:00,Mesero_3,Cena,Tarjeta de crédito,10.08,Reservada,318,Venezuela,Plato_9
+"1,Cliente_12,1,2023-04-03 00:48:00,2023-04-03 03:59:00,Mesero_1,Almuerzo,Efectivo,30.05,Libre,319,Bolivia,""Plato_15, Plato_8, Plato_20, Plato_17"""
+"9,Cliente_294,1,2023-04-03 01:30:00,2023-04-03 04:17:00,Mesero_3,Almuerzo,Tarjeta de débito,44.02,Reservada,320,España,""Plato_13, Plato_5, Plato_18"""
+"18,Cliente_659,5,2023-04-03 02:04:00,2023-04-03 04:18:00,Mesero_1,Almuerzo,Tarjeta de crédito,23.59,Libre,321,Venezuela,""Plato_16, Plato_5, Plato_14"""
+"12,Cliente_47,1,2023-04-03 03:41:00,2023-04-03 05:47:00,Mesero_2,Cena,Tarjeta de crédito,24.69,Ocupada,322,Ecuador,""Plato_15, Plato_13"""
+"8,Cliente_544,1,2023-04-03 01:23:00,2023-04-03 04:19:00,Mesero_5,Desayuno,Efectivo,44.3,Libre,323,Chile,""Plato_5, Plato_9, Plato_7, Plato_4"""
+"9,Cliente_633,6,2023-04-03 00:43:00,2023-04-03 01:51:00,Mesero_1,Cena,Tarjeta de crédito,21.6,Libre,324,Perú,""Plato_2, Plato_6, Plato_10"""
+"18,Cliente_154,1,2023-04-03 01:00:00,2023-04-03 02:18:00,Mesero_2,Almuerzo,Tarjeta de crédito,32.5,Reservada,325,Perú,""Plato_13, Plato_17, Plato_8, Plato_15"""
+"14,Cliente_489,4,2023-04-04 01:39:00,2023-04-04 05:34:00,Mesero_1,Desayuno,Tarjeta de débito,13.85,Ocupada,326,Perú,""Plato_8, Plato_4, Plato_16"""
+"12,Cliente_336,5,2023-04-04 02:59:00,2023-04-04 04:36:00,Mesero_5,Cena,Tarjeta de crédito,15.08,Reservada,327,Colombia,""Plato_18, Plato_4, Plato_6"""
+4,Cliente_350,3,2023-04-04 01:44:00,2023-04-04 04:07:00,Mesero_2,Cena,Tarjeta de crédito,13.85,Reservada,328,Chile,Plato_8
+"13,Cliente_797,1,2023-04-04 00:26:00,2023-04-04 02:41:00,Mesero_2,Almuerzo,Tarjeta de crédito,38.89,Ocupada,329,Bolivia,""Plato_13, Plato_20, Plato_17, Plato_14"""
+"10,Cliente_436,6,2023-04-04 01:50:00,2023-04-04 03:57:00,Mesero_3,Desayuno,Tarjeta de crédito,32.17,Ocupada,330,Bolivia,""Plato_1, Plato_16, Plato_14, Plato_13"""
+"20,Cliente_597,3,2023-04-04 03:06:00,2023-04-04 06:17:00,Mesero_4,Cena,Tarjeta de débito,36.61,Reservada,331,Paraguay,""Plato_12, Plato_8, Plato_7, Plato_1"""
+6,Cliente_823,1,2023-04-04 00:14:00,2023-04-04 01:29:00,Mesero_2,Almuerzo,Tarjeta de débito,25.21,Reservada,332,Argentina,Plato_20
+"6,Cliente_690,1,2023-04-04 03:10:00,2023-04-04 04:29:00,Mesero_4,Cena,Tarjeta de crédito,13.19,Libre,333,Paraguay,""Plato_19, Plato_4"""
+"12,Cliente_216,4,2023-04-04 02:51:00,2023-04-04 06:31:00,Mesero_1,Desayuno,Tarjeta de crédito,17.5,Libre,334,Argentina,""Plato_13, Plato_14, Plato_7, Plato_2"""
+"14,Cliente_546,3,2023-04-04 01:56:00,2023-04-04 03:09:00,Mesero_4,Almuerzo,Tarjeta de débito,41.56,Libre,335,Brasil,""Plato_2, Plato_16"""
+"4,Cliente_524,5,2023-04-04 01:35:00,2023-04-04 04:51:00,Mesero_2,Cena,Tarjeta de crédito,17.93,Libre,336,Argentina,""Plato_13, Plato_12, Plato_10"""
+"11,Cliente_193,2,2023-04-04 01:38:00,2023-04-04 04:31:00,Mesero_5,Cena,Tarjeta de crédito,19.28,Reservada,337,Brasil,""Plato_7, Plato_16"""
+"18,Cliente_794,2,2023-04-04 00:32:00,2023-04-04 03:30:00,Mesero_5,Almuerzo,Tarjeta de débito,30.62,Reservada,338,Ecuador,""Plato_18, Plato_13, Plato_15, Plato_3"""
+"13,Cliente_602,2,2023-04-04 00:00:00,2023-04-04 02:01:00,Mesero_3,Desayuno,Tarjeta de débito,19.6,Reservada,339,Perú,""Plato_9, Plato_14"""
+"15,Cliente_296,1,2023-04-04 01:12:00,2023-04-04 04:38:00,Mesero_3,Almuerzo,Tarjeta de crédito,38.52,Libre,340,España,""Plato_20, Plato_16"""
+"14,Cliente_568,5,2023-04-04 02:05:00,2023-04-04 04:19:00,Mesero_3,Desayuno,Tarjeta de crédito,47.05,Libre,341,Perú,""Plato_16, Plato_5, Plato_8"""
+"19,Cliente_897,5,2023-04-04 02:30:00,2023-04-04 06:11:00,Mesero_3,Desayuno,Tarjeta de crédito,20.06,Libre,342,Bolivia,""Plato_14, Plato_16"""
+"12,Cliente_816,1,2023-04-04 03:56:00,2023-04-04 05:45:00,Mesero_5,Almuerzo,Tarjeta de crédito,23.01,Ocupada,343,Perú,""Plato_18, Plato_14"""
+"15,Cliente_221,3,2023-04-04 00:46:00,2023-04-04 02:04:00,Mesero_2,Almuerzo,Tarjeta de crédito,33.01,Ocupada,344,Chile,""Plato_8, Plato_17, Plato_15, Plato_5"""
+16,Cliente_755,3,2023-04-04 01:18:00,2023-04-04 04:19:00,Mesero_4,Almuerzo,Tarjeta de crédito,13.98,Ocupada,345,Chile,Plato_12
+1,Cliente_289,5,2023-04-04 00:40:00,2023-04-04 03:56:00,Mesero_5,Almuerzo,Tarjeta de débito,35.93,Reservada,346,Argentina,Plato_19
+7,Cliente_476,4,2023-04-04 01:49:00,2023-04-04 04:34:00,Mesero_4,Almuerzo,Tarjeta de crédito,48.52,Reservada,347,Chile,Plato_8
+"16,Cliente_940,2,2023-04-04 01:17:00,2023-04-04 04:59:00,Mesero_2,Almuerzo,Tarjeta de crédito,30.78,Ocupada,348,Paraguay,""Plato_10, Plato_3"""
+"13,Cliente_707,1,2023-04-04 03:48:00,2023-04-04 07:31:00,Mesero_5,Desayuno,Tarjeta de crédito,40.63,Ocupada,349,Brasil,""Plato_2, Plato_12, Plato_8"""
+"2,Cliente_644,6,2023-04-04 00:35:00,2023-04-04 02:59:00,Mesero_5,Desayuno,Tarjeta de débito,36.21,Reservada,350,Colombia,""Plato_17, Plato_6"""
+"1,Cliente_619,6,2023-04-04 03:52:00,2023-04-04 06:09:00,Mesero_1,Desayuno,Tarjeta de crédito,48.93,Libre,351,Brasil,""Plato_15, Plato_8"""
+1,Cliente_780,3,2023-04-04 00:17:00,2023-04-04 02:53:00,Mesero_3,Desayuno,Efectivo,17.55,Reservada,352,Paraguay,Plato_11
+"7,Cliente_833,5,2023-04-04 03:46:00,2023-04-04 07:36:00,Mesero_5,Cena,Tarjeta de crédito,27.37,Reservada,353,Brasil,""Plato_5, Plato_2, Plato_8, Plato_18"""
+"12,Cliente_899,6,2023-04-04 00:26:00,2023-04-04 03:24:00,Mesero_5,Desayuno,Tarjeta de crédito,29.58,Ocupada,354,Paraguay,""Plato_12, Plato_15, Plato_4, Plato_7"""
+4,Cliente_523,4,2023-04-04 01:41:00,2023-04-04 05:07:00,Mesero_5,Desayuno,Tarjeta de crédito,30.53,Reservada,355,España,Plato_10
+1,Cliente_498,1,2023-04-04 00:12:00,2023-04-04 02:18:00,Mesero_3,Desayuno,Tarjeta de crédito,28.92,Ocupada,356,Brasil,Plato_4
+"17,Cliente_470,2,2023-04-04 01:19:00,2023-04-04 04:26:00,Mesero_3,Desayuno,Tarjeta de débito,26.87,Ocupada,357,Chile,""Plato_1, Plato_3, Plato_6, Plato_5"""
+"13,Cliente_827,5,2023-04-04 02:37:00,2023-04-04 05:57:00,Mesero_5,Cena,Tarjeta de crédito,42.1,Reservada,358,Uruguay,""Plato_10, Plato_4, Plato_3"""
+"11,Cliente_92,2,2023-04-04 00:41:00,2023-04-04 04:10:00,Mesero_2,Almuerzo,Tarjeta de crédito,12.2,Reservada,359,Perú,""Plato_5, Plato_16, Plato_9, Plato_10"""
+"16,Cliente_191,3,2023-04-04 01:10:00,2023-04-04 04:58:00,Mesero_3,Almuerzo,Tarjeta de crédito,39.26,Ocupada,360,Perú,""Plato_13, Plato_2, Plato_10, Plato_15"""
+"16,Cliente_183,1,2023-04-04 01:53:00,2023-04-04 05:28:00,Mesero_2,Cena,Efectivo,41.73,Libre,361,Colombia,""Plato_9, Plato_7"""
+"15,Cliente_681,2,2023-04-04 02:03:00,2023-04-04 05:59:00,Mesero_1,Almuerzo,Tarjeta de crédito,47.21,Libre,362,Uruguay,""Plato_3, Plato_7, Plato_4"""
+"5,Cliente_499,2,2023-04-04 01:46:00,2023-04-04 03:29:00,Mesero_3,Almuerzo,Tarjeta de crédito,49.02,Ocupada,363,Brasil,""Plato_2, Plato_7, Plato_19, Plato_11"""
+"15,Cliente_495,2,2023-04-04 03:50:00,2023-04-04 07:10:00,Mesero_5,Almuerzo,Tarjeta de débito,48.28,Reservada,364,Brasil,""Plato_16, Plato_5, Plato_1, Plato_9"""
+4,Cliente_54,1,2023-04-04 01:03:00,2023-04-04 04:33:00,Mesero_3,Almuerzo,Efectivo,34.97,Ocupada,365,Chile,Plato_19
+"17,Cliente_923,5,2023-04-04 01:33:00,2023-04-04 04:46:00,Mesero_3,Almuerzo,Efectivo,10.57,Reservada,366,Chile,""Plato_6, Plato_8, Plato_20"""
+"12,Cliente_453,2,2023-04-04 00:53:00,2023-04-04 03:45:00,Mesero_3,Cena,Tarjeta de crédito,12.62,Libre,367,Chile,""Plato_10, Plato_9, Plato_3"""
+"13,Cliente_14,1,2023-04-04 03:24:00,2023-04-04 05:33:00,Mesero_1,Desayuno,Tarjeta de débito,37.65,Ocupada,368,Colombia,""Plato_11, Plato_7"""
+"20,Cliente_611,2,2023-04-04 02:11:00,2023-04-04 05:54:00,Mesero_5,Almuerzo,Tarjeta de crédito,34.83,Libre,369,Uruguay,""Plato_17, Plato_14, Plato_16, Plato_10"""
+13,Cliente_666,6,2023-04-04 02:20:00,2023-04-04 03:23:00,Mesero_3,Almuerzo,Tarjeta de crédito,47.79,Libre,370,Uruguay,Plato_19
+"4,Cliente_505,3,2023-04-04 01:16:00,2023-04-04 04:31:00,Mesero_4,Cena,Tarjeta de crédito,32.51,Ocupada,371,Ecuador,""Plato_17, Plato_19, Plato_16, Plato_14"""
+14,Cliente_858,5,2023-04-04 02:46:00,2023-04-04 06:14:00,Mesero_2,Almuerzo,Tarjeta de crédito,17.17,Reservada,372,Brasil,Plato_4
+"19,Cliente_882,2,2023-04-04 00:37:00,2023-04-04 03:11:00,Mesero_5,Desayuno,Tarjeta de débito,26.62,Ocupada,373,Argentina,""Plato_13, Plato_8, Plato_5, Plato_3"""
+18,Cliente_275,3,2023-04-04 03:19:00,2023-04-04 04:24:00,Mesero_2,Almuerzo,Tarjeta de crédito,33.35,Libre,374,Paraguay,Plato_8
+18,Cliente_871,1,2023-04-04 00:17:00,2023-04-04 03:09:00,Mesero_3,Almuerzo,Tarjeta de crédito,22.3,Reservada,375,España,Plato_17
+16,Cliente_183,4,2023-04-04 02:53:00,2023-04-04 05:12:00,Mesero_1,Almuerzo,Efectivo,27.51,Ocupada,376,Ecuador,Plato_14
+"5,Cliente_841,1,2023-04-04 01:18:00,2023-04-04 04:46:00,Mesero_4,Almuerzo,Tarjeta de crédito,14.96,Libre,377,Paraguay,""Plato_18, Plato_15"""
+"3,Cliente_789,1,2023-04-04 03:55:00,2023-04-04 05:18:00,Mesero_1,Almuerzo,Efectivo,40.31,Libre,378,Perú,""Plato_2, Plato_12"""
+4,Cliente_442,2,2023-04-04 01:31:00,2023-04-04 03:57:00,Mesero_3,Desayuno,Tarjeta de crédito,10.61,Ocupada,379,Chile,Plato_8
+"5,Cliente_964,1,2023-04-04 00:58:00,2023-04-04 04:33:00,Mesero_3,Cena,Tarjeta de débito,22.53,Libre,380,Argentina,""Plato_11, Plato_12"""
+"4,Cliente_141,1,2023-04-04 00:57:00,2023-04-04 04:32:00,Mesero_1,Desayuno,Tarjeta de débito,27.69,Libre,381,Uruguay,""Plato_10, Plato_11"""
+20,Cliente_742,6,2023-04-04 03:09:00,2023-04-04 06:27:00,Mesero_2,Cena,Tarjeta de débito,19.8,Reservada,382,Ecuador,Plato_9
+6,Cliente_992,6,2023-04-04 03:29:00,2023-04-04 06:33:00,Mesero_4,Almuerzo,Tarjeta de crédito,31.33,Libre,383,Chile,Plato_19
+"1,Cliente_622,5,2023-04-04 00:11:00,2023-04-04 02:33:00,Mesero_1,Desayuno,Tarjeta de débito,39.32,Reservada,384,Venezuela,""Plato_4, Plato_12, Plato_6"""
+6,Cliente_508,6,2023-04-05 03:37:00,2023-04-05 06:43:00,Mesero_3,Desayuno,Tarjeta de crédito,11.14,Ocupada,385,España,Plato_2
+5,Cliente_436,2,2023-04-05 00:33:00,2023-04-05 02:58:00,Mesero_4,Almuerzo,Tarjeta de débito,28.96,Ocupada,386,Venezuela,Plato_11
+6,Cliente_676,5,2023-04-05 03:09:00,2023-04-05 06:10:00,Mesero_5,Almuerzo,Efectivo,20.84,Ocupada,387,Venezuela,Plato_17
+"18,Cliente_768,2,2023-04-05 00:33:00,2023-04-05 03:35:00,Mesero_2,Almuerzo,Tarjeta de crédito,27.03,Libre,388,España,""Plato_17, Plato_19, Plato_9, Plato_11"""
+19,Cliente_667,5,2023-04-05 00:02:00,2023-04-05 02:15:00,Mesero_3,Almuerzo,Tarjeta de crédito,39.14,Reservada,389,Venezuela,Plato_11
+"9,Cliente_874,2,2023-04-05 02:59:00,2023-04-05 05:19:00,Mesero_3,Almuerzo,Tarjeta de crédito,42.68,Reservada,390,Chile,""Plato_5, Plato_10, Plato_13"""
+15,Cliente_609,1,2023-04-05 02:05:00,2023-04-05 04:09:00,Mesero_3,Almuerzo,Tarjeta de crédito,48.6,Reservada,391,Ecuador,Plato_5
+"14,Cliente_471,3,2023-04-05 00:33:00,2023-04-05 04:08:00,Mesero_2,Almuerzo,Tarjeta de crédito,32.73,Ocupada,392,Bolivia,""Plato_15, Plato_7"""
+"13,Cliente_196,3,2023-04-05 02:33:00,2023-04-05 05:17:00,Mesero_4,Almuerzo,Tarjeta de crédito,12.54,Ocupada,393,Colombia,""Plato_12, Plato_8, Plato_13, Plato_5"""
+"17,Cliente_740,1,2023-04-05 03:26:00,2023-04-05 07:02:00,Mesero_3,Almuerzo,Tarjeta de crédito,18.05,Ocupada,394,Brasil,""Plato_7, Plato_9"""
+2,Cliente_563,1,2023-04-05 01:37:00,2023-04-05 05:34:00,Mesero_2,Almuerzo,Tarjeta de débito,40.9,Libre,395,Ecuador,Plato_12
+"11,Cliente_991,1,2023-04-05 00:32:00,2023-04-05 03:36:00,Mesero_2,Cena,Efectivo,34.5,Libre,396,Perú,""Plato_3, Plato_13"""
+"4,Cliente_289,2,2023-04-05 00:20:00,2023-04-05 01:34:00,Mesero_4,Desayuno,Tarjeta de débito,37.79,Libre,397,Chile,""Plato_6, Plato_17"""
+"9,Cliente_330,5,2023-04-05 03:10:00,2023-04-05 07:05:00,Mesero_1,Desayuno,Tarjeta de crédito,48.96,Libre,398,Perú,""Plato_16, Plato_11"""
+"7,Cliente_943,6,2023-04-05 02:48:00,2023-04-05 05:40:00,Mesero_5,Almuerzo,Tarjeta de crédito,27.32,Libre,399,España,""Plato_11, Plato_19"""
+"9,Cliente_285,4,2023-04-05 02:11:00,2023-04-05 04:14:00,Mesero_4,Almuerzo,Tarjeta de crédito,42.96,Reservada,400,Brasil,""Plato_20, Plato_16, Plato_17"""
+16,Cliente_12,2,2023-04-05 03:51:00,2023-04-05 06:57:00,Mesero_2,Almuerzo,Tarjeta de crédito,15.87,Ocupada,401,Paraguay,Plato_13
+"18,Cliente_905,1,2023-04-05 02:41:00,2023-04-05 05:08:00,Mesero_3,Almuerzo,Tarjeta de crédito,31.02,Reservada,402,Colombia,""Plato_1, Plato_12, Plato_5"""
+"14,Cliente_543,5,2023-04-05 02:15:00,2023-04-05 05:15:00,Mesero_1,Almuerzo,Tarjeta de crédito,14.76,Libre,403,Chile,""Plato_5, Plato_4, Plato_15, Plato_7"""
+"17,Cliente_897,2,2023-04-05 00:38:00,2023-04-05 04:29:00,Mesero_5,Almuerzo,Tarjeta de crédito,32.56,Libre,404,España,""Plato_13, Plato_3, Plato_20"""
+"5,Cliente_239,6,2023-04-05 02:39:00,2023-04-05 04:59:00,Mesero_2,Cena,Tarjeta de crédito,14.56,Reservada,405,Argentina,""Plato_10, Plato_20, Plato_3"""
+"14,Cliente_927,5,2023-04-05 00:29:00,2023-04-05 02:37:00,Mesero_2,Cena,Efectivo,34.03,Ocupada,406,España,""Plato_3, Plato_8, Plato_1"""
+"4,Cliente_315,1,2023-04-05 02:13:00,2023-04-05 04:51:00,Mesero_4,Desayuno,Tarjeta de débito,22.98,Reservada,407,Ecuador,""Plato_3, Plato_8"""
+"17,Cliente_195,3,2023-04-05 00:56:00,2023-04-05 04:05:00,Mesero_2,Almuerzo,Tarjeta de crédito,10.14,Ocupada,408,Chile,""Plato_1, Plato_7, Plato_18"""
+"15,Cliente_166,5,2023-04-05 01:55:00,2023-04-05 03:01:00,Mesero_1,Almuerzo,Tarjeta de crédito,48.7,Reservada,409,Chile,""Plato_13, Plato_20, Plato_16, Plato_7"""
+"1,Cliente_157,3,2023-04-05 02:47:00,2023-04-05 05:23:00,Mesero_4,Cena,Tarjeta de crédito,43.65,Reservada,410,Perú,""Plato_3, Plato_19"""
+"3,Cliente_212,3,2023-04-05 02:11:00,2023-04-05 05:04:00,Mesero_1,Almuerzo,Tarjeta de débito,21.88,Ocupada,411,Colombia,""Plato_20, Plato_4, Plato_6"""
+11,Cliente_912,4,2023-04-05 00:22:00,2023-04-05 02:03:00,Mesero_5,Cena,Tarjeta de crédito,12.94,Ocupada,412,Perú,Plato_17
+13,Cliente_736,3,2023-04-05 02:36:00,2023-04-05 04:58:00,Mesero_4,Cena,Tarjeta de crédito,23.01,Ocupada,413,Argentina,Plato_8
+14,Cliente_328,6,2023-04-05 03:43:00,2023-04-05 07:12:00,Mesero_5,Desayuno,Tarjeta de crédito,13.17,Reservada,414,España,Plato_11
+"14,Cliente_919,4,2023-04-05 00:39:00,2023-04-05 04:35:00,Mesero_4,Cena,Tarjeta de crédito,20.51,Ocupada,415,Brasil,""Plato_6, Plato_18, Plato_19"""
+20,Cliente_958,2,2023-04-05 03:03:00,2023-04-05 06:37:00,Mesero_1,Cena,Tarjeta de crédito,12.9,Reservada,416,Uruguay,Plato_1
+"7,Cliente_395,2,2023-04-05 03:25:00,2023-04-05 04:33:00,Mesero_2,Cena,Tarjeta de crédito,35.08,Libre,417,Venezuela,""Plato_9, Plato_20, Plato_12, Plato_6"""
+"17,Cliente_287,4,2023-04-05 00:52:00,2023-04-05 03:31:00,Mesero_3,Cena,Tarjeta de crédito,35.51,Reservada,418,España,""Plato_1, Plato_17"""
+"11,Cliente_479,4,2023-04-05 03:14:00,2023-04-05 05:43:00,Mesero_5,Almuerzo,Tarjeta de crédito,14.09,Ocupada,419,Argentina,""Plato_18, Plato_11"""
+"18,Cliente_33,6,2023-04-05 02:18:00,2023-04-05 05:29:00,Mesero_2,Almuerzo,Tarjeta de crédito,31.49,Ocupada,420,Bolivia,""Plato_18, Plato_3, Plato_1, Plato_15"""
+"10,Cliente_160,1,2023-04-05 01:37:00,2023-04-05 04:07:00,Mesero_1,Almuerzo,Tarjeta de crédito,17.57,Ocupada,421,Chile,""Plato_17, Plato_4"""
+"12,Cliente_109,6,2023-04-05 00:36:00,2023-04-05 03:09:00,Mesero_2,Almuerzo,Tarjeta de crédito,39.72,Reservada,422,España,""Plato_10, Plato_19"""
+"4,Cliente_151,2,2023-04-05 02:34:00,2023-04-05 04:57:00,Mesero_1,Almuerzo,Efectivo,34.13,Libre,423,Ecuador,""Plato_16, Plato_15"""
+"13,Cliente_342,3,2023-04-05 01:08:00,2023-04-05 03:17:00,Mesero_2,Cena,Efectivo,11.02,Reservada,424,Colombia,""Plato_5, Plato_6"""
+18,Cliente_332,3,2023-04-05 01:24:00,2023-04-05 03:45:00,Mesero_2,Almuerzo,Tarjeta de crédito,49.43,Reservada,425,Perú,Plato_12
+"5,Cliente_689,2,2023-04-05 03:11:00,2023-04-05 05:02:00,Mesero_4,Almuerzo,Tarjeta de crédito,47.8,Reservada,426,Brasil,""Plato_11, Plato_16, Plato_1, Plato_19"""
+"2,Cliente_953,4,2023-04-05 02:34:00,2023-04-05 03:43:00,Mesero_2,Almuerzo,Efectivo,43.74,Libre,427,Bolivia,""Plato_1, Plato_8, Plato_14, Plato_12"""
+"7,Cliente_518,5,2023-04-05 03:18:00,2023-04-05 06:03:00,Mesero_4,Desayuno,Tarjeta de crédito,15.6,Reservada,428,Ecuador,""Plato_20, Plato_14, Plato_1, Plato_17"""
+8,Cliente_348,1,2023-04-05 00:10:00,2023-04-05 03:46:00,Mesero_4,Almuerzo,Tarjeta de crédito,10.95,Reservada,429,Brasil,Plato_10
+7,Cliente_259,3,2023-04-05 02:21:00,2023-04-05 03:59:00,Mesero_4,Almuerzo,Tarjeta de débito,42.09,Reservada,430,Venezuela,Plato_1
+15,Cliente_243,5,2023-04-05 03:33:00,2023-04-05 07:25:00,Mesero_5,Almuerzo,Tarjeta de crédito,39.82,Libre,431,Argentina,Plato_2
+"10,Cliente_869,2,2023-04-05 03:31:00,2023-04-05 05:54:00,Mesero_4,Cena,Tarjeta de crédito,18.71,Libre,432,Colombia,""Plato_3, Plato_13, Plato_16"""
+"10,Cliente_306,4,2023-04-05 01:14:00,2023-04-05 03:09:00,Mesero_4,Almuerzo,Tarjeta de crédito,45.77,Reservada,433,Bolivia,""Plato_2, Plato_7"""
+"15,Cliente_842,4,2023-04-05 00:15:00,2023-04-05 03:55:00,Mesero_4,Almuerzo,Tarjeta de crédito,37.15,Reservada,434,Bolivia,""Plato_10, Plato_5"""
+"17,Cliente_349,6,2023-04-05 03:53:00,2023-04-05 06:01:00,Mesero_5,Almuerzo,Tarjeta de crédito,30.48,Ocupada,435,España,""Plato_10, Plato_13, Plato_2"""
+10,Cliente_316,3,2023-04-05 00:12:00,2023-04-05 04:04:00,Mesero_5,Almuerzo,Tarjeta de crédito,10.14,Ocupada,436,Brasil,Plato_16
+16,Cliente_600,6,2023-04-05 03:02:00,2023-04-05 05:25:00,Mesero_3,Almuerzo,Tarjeta de crédito,12.56,Reservada,437,Paraguay,Plato_8
+2,Cliente_732,1,2023-04-05 03:58:00,2023-04-05 07:33:00,Mesero_1,Almuerzo,Tarjeta de crédito,19.3,Libre,438,Argentina,Plato_11
+"15,Cliente_807,1,2023-04-05 00:00:00,2023-04-05 01:23:00,Mesero_3,Cena,Tarjeta de crédito,25.56,Libre,439,Bolivia,""Plato_11, Plato_10"""
+"13,Cliente_900,1,2023-04-05 01:59:00,2023-04-05 05:48:00,Mesero_2,Almuerzo,Tarjeta de crédito,38.85,Ocupada,440,Argentina,""Plato_14, Plato_12"""
+"13,Cliente_143,6,2023-04-05 01:04:00,2023-04-05 03:23:00,Mesero_2,Almuerzo,Efectivo,23.31,Ocupada,441,España,""Plato_8, Plato_10"""
+"15,Cliente_405,3,2023-04-05 02:04:00,2023-04-05 03:18:00,Mesero_4,Cena,Tarjeta de crédito,21.07,Ocupada,442,Uruguay,""Plato_18, Plato_1, Plato_19"""
+"4,Cliente_332,2,2023-04-05 01:15:00,2023-04-05 03:14:00,Mesero_2,Almuerzo,Tarjeta de débito,14.48,Libre,443,Venezuela,""Plato_14, Plato_15, Plato_10, Plato_16"""
+"8,Cliente_894,5,2023-04-05 03:23:00,2023-04-05 06:08:00,Mesero_1,Almuerzo,Tarjeta de crédito,25.26,Libre,444,Argentina,""Plato_14, Plato_7"""
+6,Cliente_473,5,2023-04-05 01:01:00,2023-04-05 03:09:00,Mesero_1,Desayuno,Tarjeta de crédito,14.28,Libre,445,Paraguay,Plato_6
+12,Cliente_606,2,2023-04-05 02:48:00,2023-04-05 06:13:00,Mesero_1,Almuerzo,Tarjeta de crédito,35.24,Libre,446,Ecuador,Plato_13
+"8,Cliente_404,2,2023-04-05 03:53:00,2023-04-05 07:24:00,Mesero_4,Cena,Tarjeta de crédito,28.68,Libre,447,España,""Plato_3, Plato_12, Plato_16"""
+"4,Cliente_216,5,2023-04-05 00:07:00,2023-04-05 03:35:00,Mesero_4,Cena,Tarjeta de crédito,35.68,Ocupada,448,Venezuela,""Plato_12, Plato_11"""
+3,Cliente_717,3,2023-04-05 03:25:00,2023-04-05 05:02:00,Mesero_3,Almuerzo,Efectivo,42.25,Ocupada,449,Brasil,Plato_15
+"9,Cliente_783,6,2023-04-05 03:51:00,2023-04-05 05:01:00,Mesero_3,Almuerzo,Tarjeta de crédito,48.9,Ocupada,450,Bolivia,""Plato_4, Plato_19"""
+"3,Cliente_240,1,2023-04-05 01:17:00,2023-04-05 02:26:00,Mesero_5,Desayuno,Tarjeta de crédito,46.37,Libre,451,Bolivia,""Plato_8, Plato_14, Plato_18"""
+"9,Cliente_589,1,2023-04-05 02:53:00,2023-04-05 05:19:00,Mesero_4,Almuerzo,Tarjeta de crédito,43.48,Reservada,452,Uruguay,""Plato_17, Plato_5, Plato_13"""
+"6,Cliente_284,1,2023-04-05 03:42:00,2023-04-05 05:07:00,Mesero_2,Desayuno,Tarjeta de crédito,36.83,Libre,453,Chile,""Plato_18, Plato_15"""
+"1,Cliente_342,3,2023-04-05 03:26:00,2023-04-05 04:53:00,Mesero_1,Almuerzo,Tarjeta de crédito,39.62,Libre,454,Colombia,""Plato_6, Plato_12, Plato_19, Plato_1"""
+12,Cliente_665,6,2023-04-05 03:58:00,2023-04-05 05:54:00,Mesero_5,Desayuno,Tarjeta de débito,19.7,Reservada,455,Colombia,Plato_7
+"13,Cliente_207,6,2023-04-05 02:12:00,2023-04-05 05:15:00,Mesero_4,Almuerzo,Tarjeta de crédito,21.94,Libre,456,Argentina,""Plato_20, Plato_18"""
+"18,Cliente_531,6,2023-04-05 03:48:00,2023-04-05 07:32:00,Mesero_2,Almuerzo,Efectivo,17.26,Reservada,457,Bolivia,""Plato_11, Plato_12"""
+"4,Cliente_420,3,2023-04-05 02:41:00,2023-04-05 04:21:00,Mesero_4,Almuerzo,Tarjeta de crédito,15.21,Ocupada,458,Bolivia,""Plato_16, Plato_18, Plato_11, Plato_5"""
+20,Cliente_989,1,2023-04-05 00:24:00,2023-04-05 02:12:00,Mesero_1,Almuerzo,Tarjeta de crédito,32.77,Ocupada,459,Argentina,Plato_16
+"19,Cliente_964,6,2023-04-05 03:27:00,2023-04-05 06:56:00,Mesero_4,Cena,Tarjeta de crédito,49.6,Libre,460,Ecuador,""Plato_16, Plato_10, Plato_1, Plato_7"""
+"4,Cliente_421,3,2023-04-05 02:43:00,2023-04-05 05:55:00,Mesero_5,Cena,Efectivo,21.51,Libre,461,Perú,""Plato_8, Plato_9"""
+9,Cliente_27,2,2023-04-05 02:12:00,2023-04-05 04:27:00,Mesero_2,Almuerzo,Tarjeta de crédito,21.17,Reservada,462,España,Plato_11
+7,Cliente_194,2,2023-04-05 00:53:00,2023-04-05 03:13:00,Mesero_2,Almuerzo,Tarjeta de débito,17.07,Ocupada,463,Paraguay,Plato_17
+"16,Cliente_440,1,2023-04-05 01:21:00,2023-04-05 04:39:00,Mesero_4,Almuerzo,Tarjeta de crédito,48.5,Reservada,464,Chile,""Plato_10, Plato_6, Plato_5"""
+"4,Cliente_876,2,2023-04-05 01:11:00,2023-04-05 03:38:00,Mesero_1,Almuerzo,Tarjeta de crédito,44.9,Ocupada,465,Uruguay,""Plato_1, Plato_14"""
+"4,Cliente_365,1,2023-04-05 01:54:00,2023-04-05 04:20:00,Mesero_1,Almuerzo,Tarjeta de crédito,26.63,Libre,466,Bolivia,""Plato_5, Plato_2, Plato_16"""
+"15,Cliente_185,3,2023-04-05 02:42:00,2023-04-05 04:14:00,Mesero_1,Almuerzo,Tarjeta de débito,42.31,Reservada,467,Perú,""Plato_11, Plato_5"""
+"14,Cliente_558,6,2023-04-05 02:59:00,2023-04-05 05:45:00,Mesero_2,Desayuno,Tarjeta de crédito,14.28,Reservada,468,Argentina,""Plato_12, Plato_3, Plato_16"""
+"1,Cliente_535,2,2023-04-05 02:57:00,2023-04-05 05:22:00,Mesero_1,Cena,Tarjeta de crédito,25.26,Reservada,469,Colombia,""Plato_8, Plato_15"""
+"17,Cliente_18,3,2023-04-05 01:41:00,2023-04-05 04:17:00,Mesero_4,Almuerzo,Tarjeta de crédito,47.46,Ocupada,470,Uruguay,""Plato_7, Plato_4"""
+7,Cliente_696,6,2023-04-05 03:36:00,2023-04-05 05:38:00,Mesero_4,Desayuno,Tarjeta de débito,28.49,Reservada,471,Perú,Plato_8
+"20,Cliente_704,2,2023-04-05 03:57:00,2023-04-05 06:52:00,Mesero_2,Almuerzo,Efectivo,36.79,Ocupada,472,Uruguay,""Plato_8, Plato_5"""
+"13,Cliente_720,4,2023-04-06 03:36:00,2023-04-06 07:04:00,Mesero_2,Almuerzo,Tarjeta de débito,15.63,Ocupada,473,Paraguay,""Plato_5, Plato_8"""
+"2,Cliente_624,6,2023-04-06 01:52:00,2023-04-06 03:32:00,Mesero_4,Almuerzo,Tarjeta de crédito,21.66,Libre,474,Perú,""Plato_18, Plato_9, Plato_17, Plato_16"""
+"18,Cliente_289,4,2023-04-06 03:17:00,2023-04-06 05:50:00,Mesero_5,Cena,Tarjeta de débito,19.55,Ocupada,475,Paraguay,""Plato_7, Plato_18"""
+"13,Cliente_434,2,2023-04-06 00:03:00,2023-04-06 01:47:00,Mesero_3,Desayuno,Tarjeta de débito,43.53,Ocupada,476,Paraguay,""Plato_7, Plato_18, Plato_15, Plato_20"""
+"8,Cliente_149,6,2023-04-06 01:39:00,2023-04-06 02:58:00,Mesero_4,Desayuno,Tarjeta de crédito,33.85,Reservada,477,Colombia,""Plato_18, Plato_14, Plato_7, Plato_13"""
+"7,Cliente_29,5,2023-04-06 00:01:00,2023-04-06 03:28:00,Mesero_1,Almuerzo,Efectivo,32.78,Ocupada,478,Bolivia,""Plato_2, Plato_9"""
+"1,Cliente_708,3,2023-04-06 00:42:00,2023-04-06 04:30:00,Mesero_3,Almuerzo,Tarjeta de débito,39.58,Reservada,479,Argentina,""Plato_4, Plato_18"""
+"1,Cliente_125,5,2023-04-06 03:26:00,2023-04-06 07:19:00,Mesero_5,Desayuno,Efectivo,18.63,Reservada,480,Uruguay,""Plato_8, Plato_6"""
+9,Cliente_618,4,2023-04-06 01:57:00,2023-04-06 04:43:00,Mesero_1,Almuerzo,Tarjeta de crédito,42.02,Reservada,481,Perú,Plato_10
+9,Cliente_115,4,2023-04-06 00:41:00,2023-04-06 02:59:00,Mesero_3,Desayuno,Tarjeta de crédito,18.84,Libre,482,Colombia,Plato_13
+2,Cliente_527,4,2023-04-06 03:50:00,2023-04-06 07:01:00,Mesero_1,Almuerzo,Tarjeta de crédito,12.74,Reservada,483,Ecuador,Plato_6
+18,Cliente_71,2,2023-04-06 01:33:00,2023-04-06 04:31:00,Mesero_4,Almuerzo,Tarjeta de crédito,22.76,Libre,484,Chile,Plato_1
+"6,Cliente_524,5,2023-04-06 01:00:00,2023-04-06 02:52:00,Mesero_5,Cena,Tarjeta de crédito,39.07,Reservada,485,Bolivia,""Plato_7, Plato_19"""
+"15,Cliente_437,3,2023-04-06 02:47:00,2023-04-06 06:12:00,Mesero_1,Desayuno,Tarjeta de débito,12.66,Ocupada,486,Colombia,""Plato_19, Plato_3, Plato_18, Plato_7"""
+"17,Cliente_946,1,2023-04-06 01:34:00,2023-04-06 03:50:00,Mesero_1,Almuerzo,Tarjeta de crédito,45.76,Ocupada,487,Paraguay,""Plato_18, Plato_17, Plato_5"""
+"10,Cliente_719,4,2023-04-06 00:00:00,2023-04-06 01:58:00,Mesero_3,Almuerzo,Tarjeta de débito,37.38,Libre,488,Argentina,""Plato_4, Plato_14, Plato_17"""
+"3,Cliente_354,1,2023-04-06 02:57:00,2023-04-06 05:27:00,Mesero_3,Desayuno,Tarjeta de crédito,22.27,Ocupada,489,Argentina,""Plato_20, Plato_14"""
+"1,Cliente_194,2,2023-04-06 03:20:00,2023-04-06 04:57:00,Mesero_5,Almuerzo,Tarjeta de crédito,26.79,Libre,490,Colombia,""Plato_10, Plato_15, Plato_18"""
+"7,Cliente_160,4,2023-04-06 00:07:00,2023-04-06 02:37:00,Mesero_4,Desayuno,Tarjeta de crédito,34.68,Ocupada,491,España,""Plato_9, Plato_2"""
+"4,Cliente_363,4,2023-04-06 01:03:00,2023-04-06 04:36:00,Mesero_1,Almuerzo,Tarjeta de crédito,16.62,Reservada,492,Colombia,""Plato_11, Plato_13, Plato_7"""
+2,Cliente_140,2,2023-04-06 00:31:00,2023-04-06 01:46:00,Mesero_5,Almuerzo,Tarjeta de crédito,32.67,Ocupada,493,Perú,Plato_4
+"20,Cliente_546,5,2023-04-06 01:28:00,2023-04-06 04:49:00,Mesero_1,Desayuno,Tarjeta de crédito,11.85,Reservada,494,Paraguay,""Plato_15, Plato_19"""
+"11,Cliente_778,6,2023-04-06 03:01:00,2023-04-06 06:50:00,Mesero_2,Desayuno,Tarjeta de crédito,33.96,Libre,495,Venezuela,""Plato_20, Plato_6, Plato_16, Plato_11"""
+"1,Cliente_402,3,2023-04-06 02:34:00,2023-04-06 06:22:00,Mesero_1,Almuerzo,Tarjeta de crédito,39.42,Reservada,496,Argentina,""Plato_11, Plato_18, Plato_12, Plato_17"""
+"13,Cliente_784,6,2023-04-06 03:30:00,2023-04-06 06:58:00,Mesero_3,Almuerzo,Tarjeta de débito,29.93,Reservada,497,Argentina,""Plato_2, Plato_20"""
+20,Cliente_259,3,2023-04-06 00:17:00,2023-04-06 03:46:00,Mesero_3,Almuerzo,Tarjeta de crédito,21.99,Libre,498,España,Plato_12
+"5,Cliente_919,5,2023-04-06 01:21:00,2023-04-06 04:28:00,Mesero_2,Cena,Tarjeta de débito,22.69,Reservada,499,Brasil,""Plato_10, Plato_2, Plato_1"""
+"4,Cliente_354,5,2023-04-06 01:17:00,2023-04-06 05:15:00,Mesero_4,Desayuno,Tarjeta de débito,37.62,Ocupada,500,Argentina,""Plato_6, Plato_5"""
+"7,Cliente_637,1,2023-04-06 03:44:00,2023-04-06 06:31:00,Mesero_1,Cena,Tarjeta de crédito,28.38,Ocupada,501,Venezuela,""Plato_20, Plato_13, Plato_16"""
+"5,Cliente_759,2,2023-04-06 00:45:00,2023-04-06 01:57:00,Mesero_5,Almuerzo,Tarjeta de crédito,32.9,Reservada,502,Bolivia,""Plato_5, Plato_4, Plato_11"""
+"3,Cliente_948,1,2023-04-06 02:20:00,2023-04-06 04:02:00,Mesero_3,Almuerzo,Tarjeta de crédito,35.84,Reservada,503,España,""Plato_20, Plato_12"""
+2,Cliente_172,5,2023-04-06 02:10:00,2023-04-06 04:48:00,Mesero_5,Cena,Efectivo,31.31,Reservada,504,Brasil,Plato_6
+"5,Cliente_70,1,2023-04-06 02:38:00,2023-04-06 06:07:00,Mesero_2,Cena,Tarjeta de crédito,25.76,Reservada,505,Colombia,""Plato_20, Plato_1"""
+18,Cliente_835,2,2023-04-06 02:01:00,2023-04-06 04:02:00,Mesero_3,Cena,Tarjeta de crédito,11.65,Ocupada,506,Paraguay,Plato_8
+"18,Cliente_989,4,2023-04-06 03:26:00,2023-04-06 04:30:00,Mesero_2,Desayuno,Tarjeta de crédito,43.42,Libre,507,Bolivia,""Plato_18, Plato_19"""
+6,Cliente_821,1,2023-04-06 02:50:00,2023-04-06 06:35:00,Mesero_5,Almuerzo,Tarjeta de crédito,42.8,Reservada,508,Brasil,Plato_15
+5,Cliente_977,3,2023-04-06 03:12:00,2023-04-06 06:02:00,Mesero_1,Desayuno,Tarjeta de crédito,16.26,Ocupada,509,Brasil,Plato_20
+6,Cliente_509,4,2023-04-06 03:32:00,2023-04-06 04:33:00,Mesero_4,Almuerzo,Tarjeta de crédito,14.97,Libre,510,Paraguay,Plato_19
+"2,Cliente_951,1,2023-04-06 01:38:00,2023-04-06 03:23:00,Mesero_1,Almuerzo,Tarjeta de crédito,35.95,Libre,511,Argentina,""Plato_14, Plato_18"""
+"2,Cliente_285,1,2023-04-06 01:19:00,2023-04-06 02:26:00,Mesero_5,Almuerzo,Tarjeta de crédito,37.37,Ocupada,512,España,""Plato_3, Plato_19"""
+8,Cliente_873,6,2023-04-06 01:28:00,2023-04-06 04:51:00,Mesero_3,Desayuno,Tarjeta de crédito,22.74,Ocupada,513,Bolivia,Plato_4
+"18,Cliente_819,5,2023-04-06 01:19:00,2023-04-06 04:36:00,Mesero_4,Almuerzo,Tarjeta de crédito,38.84,Libre,514,Chile,""Plato_10, Plato_12, Plato_3, Plato_15"""
+19,Cliente_690,2,2023-04-06 00:58:00,2023-04-06 02:03:00,Mesero_2,Almuerzo,Tarjeta de crédito,43.79,Ocupada,515,Chile,Plato_4
+"7,Cliente_334,2,2023-04-06 03:55:00,2023-04-06 04:59:00,Mesero_4,Almuerzo,Tarjeta de crédito,20.85,Reservada,516,Paraguay,""Plato_12, Plato_14, Plato_3"""
+"4,Cliente_508,5,2023-04-06 01:35:00,2023-04-06 05:30:00,Mesero_4,Almuerzo,Efectivo,23.92,Reservada,517,Ecuador,""Plato_7, Plato_12, Plato_5"""
+"5,Cliente_830,6,2023-04-06 02:08:00,2023-04-06 06:02:00,Mesero_4,Desayuno,Tarjeta de crédito,18.48,Ocupada,518,Colombia,""Plato_11, Plato_5"""
+"6,Cliente_787,2,2023-04-06 00:48:00,2023-04-06 03:49:00,Mesero_5,Almuerzo,Tarjeta de crédito,34.59,Libre,519,Paraguay,""Plato_6, Plato_20, Plato_5"""
+"4,Cliente_616,4,2023-04-06 03:35:00,2023-04-06 06:23:00,Mesero_4,Cena,Tarjeta de crédito,43.99,Libre,520,Colombia,""Plato_9, Plato_18, Plato_17, Plato_2"""
+"18,Cliente_422,2,2023-04-06 00:43:00,2023-04-06 02:54:00,Mesero_4,Almuerzo,Tarjeta de crédito,15.18,Libre,521,Bolivia,""Plato_1, Plato_9, Plato_18"""
+2,Cliente_740,5,2023-04-06 01:38:00,2023-04-06 04:26:00,Mesero_4,Almuerzo,Efectivo,35.35,Libre,522,Uruguay,Plato_16
+4,Cliente_930,3,2023-04-06 01:39:00,2023-04-06 04:42:00,Mesero_5,Almuerzo,Tarjeta de crédito,45.41,Ocupada,523,Argentina,Plato_6
+"16,Cliente_218,4,2023-04-06 00:03:00,2023-04-06 02:32:00,Mesero_3,Almuerzo,Tarjeta de crédito,26.91,Ocupada,524,Perú,""Plato_5, Plato_6"""
+"16,Cliente_318,3,2023-04-06 03:27:00,2023-04-06 07:14:00,Mesero_3,Almuerzo,Tarjeta de crédito,32.87,Ocupada,525,Venezuela,""Plato_14, Plato_8, Plato_17"""
+4,Cliente_257,6,2023-04-06 03:44:00,2023-04-06 05:41:00,Mesero_4,Cena,Tarjeta de débito,43.02,Libre,526,Bolivia,Plato_11
+19,Cliente_112,4,2023-04-06 03:41:00,2023-04-06 05:55:00,Mesero_1,Desayuno,Efectivo,22.95,Ocupada,527,España,Plato_6
+"14,Cliente_95,2,2023-04-06 01:47:00,2023-04-06 03:48:00,Mesero_2,Almuerzo,Tarjeta de débito,15.62,Reservada,528,Bolivia,""Plato_3, Plato_20, Plato_4"""
+"1,Cliente_866,2,2023-04-06 01:58:00,2023-04-06 04:42:00,Mesero_3,Almuerzo,Tarjeta de crédito,25.91,Ocupada,529,España,""Plato_18, Plato_19, Plato_14, Plato_16"""
+"7,Cliente_232,5,2023-04-06 02:13:00,2023-04-06 06:07:00,Mesero_5,Almuerzo,Tarjeta de crédito,30.19,Ocupada,530,Paraguay,""Plato_4, Plato_16, Plato_1"""
+"9,Cliente_882,6,2023-04-06 03:03:00,2023-04-06 05:04:00,Mesero_2,Cena,Efectivo,34.39,Libre,531,Paraguay,""Plato_13, Plato_20, Plato_4, Plato_9"""
+"13,Cliente_63,3,2023-04-06 01:48:00,2023-04-06 05:26:00,Mesero_3,Desayuno,Tarjeta de débito,17.95,Reservada,532,Argentina,""Plato_13, Plato_10, Plato_15"""
+"1,Cliente_336,3,2023-04-06 03:14:00,2023-04-06 05:20:00,Mesero_5,Cena,Tarjeta de débito,20.09,Libre,533,Ecuador,""Plato_3, Plato_13"""
+"1,Cliente_113,6,2023-04-06 01:02:00,2023-04-06 04:29:00,Mesero_4,Cena,Tarjeta de crédito,23.59,Reservada,534,Brasil,""Plato_7, Plato_9, Plato_8"""
+"15,Cliente_711,3,2023-04-06 00:57:00,2023-04-06 03:32:00,Mesero_1,Desayuno,Tarjeta de crédito,39.45,Libre,535,Chile,""Plato_20, Plato_9, Plato_7, Plato_13"""
+"9,Cliente_785,2,2023-04-06 02:31:00,2023-04-06 04:39:00,Mesero_4,Almuerzo,Tarjeta de crédito,46.0,Reservada,536,Chile,""Plato_4, Plato_9, Plato_14, Plato_2"""
+18,Cliente_486,6,2023-04-06 00:24:00,2023-04-06 02:09:00,Mesero_3,Desayuno,Tarjeta de débito,28.68,Ocupada,537,Perú,Plato_13
+"14,Cliente_397,4,2023-04-06 03:19:00,2023-04-06 05:33:00,Mesero_4,Cena,Tarjeta de débito,41.35,Libre,538,Colombia,""Plato_2, Plato_14, Plato_11, Plato_16"""
+"18,Cliente_554,3,2023-04-06 03:51:00,2023-04-06 07:00:00,Mesero_2,Desayuno,Efectivo,20.9,Libre,539,Colombia,""Plato_2, Plato_6, Plato_9, Plato_4"""
+"6,Cliente_320,4,2023-04-06 03:46:00,2023-04-06 06:56:00,Mesero_1,Almuerzo,Tarjeta de crédito,47.85,Reservada,540,Uruguay,""Plato_4, Plato_8"""
+"19,Cliente_427,2,2023-04-06 00:33:00,2023-04-06 04:32:00,Mesero_1,Desayuno,Tarjeta de débito,33.7,Reservada,541,Colombia,""Plato_12, Plato_11, Plato_9, Plato_14"""
+"9,Cliente_791,5,2023-04-06 02:47:00,2023-04-06 04:43:00,Mesero_3,Desayuno,Tarjeta de crédito,49.05,Reservada,542,Chile,""Plato_18, Plato_10, Plato_6"""
+"19,Cliente_996,5,2023-04-06 00:47:00,2023-04-06 03:37:00,Mesero_4,Cena,Tarjeta de crédito,49.37,Reservada,543,Paraguay,""Plato_16, Plato_6, Plato_15"""
+7,Cliente_392,4,2023-04-06 03:17:00,2023-04-06 04:45:00,Mesero_5,Almuerzo,Tarjeta de crédito,44.91,Ocupada,544,Ecuador,Plato_8
+"20,Cliente_615,5,2023-04-06 02:39:00,2023-04-06 04:26:00,Mesero_2,Almuerzo,Efectivo,12.18,Ocupada,545,Chile,""Plato_11, Plato_17"""
+"5,Cliente_968,2,2023-04-06 03:14:00,2023-04-06 05:29:00,Mesero_4,Almuerzo,Tarjeta de débito,47.81,Reservada,546,Bolivia,""Plato_15, Plato_16"""
+"9,Cliente_206,3,2023-04-06 02:43:00,2023-04-06 04:36:00,Mesero_5,Cena,Tarjeta de crédito,20.04,Ocupada,547,Colombia,""Plato_17, Plato_11, Plato_8"""
+"4,Cliente_669,2,2023-04-06 00:55:00,2023-04-06 04:03:00,Mesero_2,Almuerzo,Tarjeta de crédito,28.88,Libre,548,Chile,""Plato_18, Plato_17"""
+"12,Cliente_195,2,2023-04-06 01:33:00,2023-04-06 05:26:00,Mesero_1,Almuerzo,Tarjeta de crédito,35.34,Libre,549,Colombia,""Plato_1, Plato_8, Plato_18"""
+"1,Cliente_900,6,2023-04-06 01:08:00,2023-04-06 02:39:00,Mesero_3,Almuerzo,Tarjeta de crédito,28.33,Ocupada,550,Brasil,""Plato_2, Plato_7, Plato_3"""
+"4,Cliente_705,2,2023-04-06 02:58:00,2023-04-06 04:10:00,Mesero_3,Desayuno,Tarjeta de crédito,17.54,Reservada,551,Paraguay,""Plato_2, Plato_3, Plato_4, Plato_13"""
+"11,Cliente_462,6,2023-04-06 00:26:00,2023-04-06 03:54:00,Mesero_3,Cena,Tarjeta de débito,10.28,Libre,552,España,""Plato_20, Plato_13, Plato_3"""
+"14,Cliente_809,2,2023-04-06 02:45:00,2023-04-06 05:24:00,Mesero_3,Almuerzo,Tarjeta de crédito,44.38,Libre,553,Brasil,""Plato_2, Plato_1, Plato_5, Plato_12"""
+"10,Cliente_21,6,2023-04-06 01:30:00,2023-04-06 02:55:00,Mesero_3,Almuerzo,Tarjeta de débito,19.6,Ocupada,554,España,""Plato_14, Plato_20"""
+20,Cliente_110,1,2023-04-06 01:59:00,2023-04-06 05:02:00,Mesero_2,Desayuno,Efectivo,41.08,Libre,555,Brasil,Plato_2
+"9,Cliente_814,6,2023-04-06 03:57:00,2023-04-06 07:41:00,Mesero_2,Almuerzo,Tarjeta de débito,14.09,Libre,556,Paraguay,""Plato_5, Plato_4"""
+"7,Cliente_381,5,2023-04-06 03:52:00,2023-04-06 07:39:00,Mesero_2,Almuerzo,Efectivo,35.88,Ocupada,557,Ecuador,""Plato_15, Plato_13, Plato_1"""
+"6,Cliente_284,4,2023-04-06 00:18:00,2023-04-06 03:06:00,Mesero_1,Almuerzo,Tarjeta de crédito,45.26,Reservada,558,Paraguay,""Plato_15, Plato_1, Plato_11"""
+11,Cliente_728,1,2023-04-06 00:14:00,2023-04-06 03:59:00,Mesero_2,Almuerzo,Tarjeta de crédito,24.36,Reservada,559,Uruguay,Plato_11
+"6,Cliente_610,6,2023-04-06 00:15:00,2023-04-06 03:17:00,Mesero_5,Cena,Tarjeta de débito,31.53,Reservada,560,Argentina,""Plato_4, Plato_1"""
+"4,Cliente_190,2,2023-04-06 01:13:00,2023-04-06 03:39:00,Mesero_1,Almuerzo,Tarjeta de crédito,44.24,Reservada,561,Chile,""Plato_4, Plato_14"""
+"20,Cliente_454,3,2023-04-06 02:36:00,2023-04-06 06:20:00,Mesero_1,Cena,Tarjeta de crédito,21.49,Libre,562,Venezuela,""Plato_20, Plato_9, Plato_7, Plato_17"""
+12,Cliente_865,3,2023-04-06 03:04:00,2023-04-06 04:43:00,Mesero_5,Desayuno,Efectivo,20.07,Ocupada,563,Argentina,Plato_6
+"9,Cliente_825,3,2023-04-06 00:31:00,2023-04-06 02:23:00,Mesero_5,Cena,Efectivo,33.08,Reservada,564,Venezuela,""Plato_19, Plato_20, Plato_3"""
+"3,Cliente_134,6,2023-04-06 02:39:00,2023-04-06 05:29:00,Mesero_1,Almuerzo,Tarjeta de crédito,15.11,Libre,565,Venezuela,""Plato_15, Plato_4, Plato_11, Plato_8"""
+4,Cliente_88,3,2023-04-06 01:45:00,2023-04-06 04:57:00,Mesero_3,Almuerzo,Tarjeta de crédito,42.62,Libre,566,Uruguay,Plato_10
+"15,Cliente_789,4,2023-04-06 01:59:00,2023-04-06 05:16:00,Mesero_4,Almuerzo,Tarjeta de débito,42.83,Ocupada,567,Chile,""Plato_16, Plato_11, Plato_18, Plato_13"""
+"5,Cliente_63,1,2023-04-06 01:39:00,2023-04-06 03:28:00,Mesero_4,Almuerzo,Tarjeta de débito,21.13,Ocupada,568,Colombia,""Plato_18, Plato_20"""
+"12,Cliente_555,5,2023-04-06 01:28:00,2023-04-06 03:05:00,Mesero_1,Almuerzo,Tarjeta de crédito,28.52,Reservada,569,Bolivia,""Plato_18, Plato_13"""
+"1,Cliente_887,6,2023-04-06 02:40:00,2023-04-06 04:27:00,Mesero_5,Almuerzo,Tarjeta de crédito,38.4,Libre,570,Colombia,""Plato_11, Plato_10"""
+15,Cliente_710,2,2023-04-06 01:21:00,2023-04-06 02:54:00,Mesero_5,Almuerzo,Tarjeta de crédito,49.54,Libre,571,Perú,Plato_6
+"19,Cliente_913,3,2023-04-06 02:53:00,2023-04-06 06:27:00,Mesero_4,Almuerzo,Efectivo,46.21,Ocupada,572,Brasil,""Plato_2, Plato_5"""
+"7,Cliente_41,3,2023-04-06 03:12:00,2023-04-06 07:09:00,Mesero_3,Almuerzo,Tarjeta de crédito,47.08,Ocupada,573,Chile,""Plato_13, Plato_18"""
+"20,Cliente_738,3,2023-04-06 00:31:00,2023-04-06 03:08:00,Mesero_5,Almuerzo,Tarjeta de crédito,42.57,Libre,574,Brasil,""Plato_10, Plato_19, Plato_4, Plato_13"""
+15,Cliente_268,4,2023-04-06 01:36:00,2023-04-06 04:44:00,Mesero_4,Almuerzo,Tarjeta de crédito,33.52,Libre,575,Paraguay,Plato_4
+"9,Cliente_280,1,2023-04-06 03:57:00,2023-04-06 07:06:00,Mesero_4,Cena,Efectivo,21.71,Reservada,576,Uruguay,""Plato_11, Plato_17, Plato_19"""
+"5,Cliente_117,4,2023-04-06 03:13:00,2023-04-06 06:40:00,Mesero_4,Almuerzo,Tarjeta de crédito,34.12,Libre,577,Perú,""Plato_4, Plato_5"""
+11,Cliente_83,6,2023-04-06 02:11:00,2023-04-06 04:24:00,Mesero_3,Almuerzo,Tarjeta de crédito,32.8,Ocupada,578,España,Plato_2
+9,Cliente_988,2,2023-04-06 00:10:00,2023-04-06 02:17:00,Mesero_3,Almuerzo,Tarjeta de crédito,35.96,Libre,579,Paraguay,Plato_1
+10,Cliente_606,5,2023-04-06 00:06:00,2023-04-06 01:18:00,Mesero_4,Almuerzo,Tarjeta de débito,44.54,Libre,580,Uruguay,Plato_11
+"18,Cliente_384,5,2023-04-06 03:33:00,2023-04-06 05:08:00,Mesero_4,Almuerzo,Tarjeta de crédito,13.27,Ocupada,581,Perú,""Plato_11, Plato_2"""
+3,Cliente_372,1,2023-04-06 03:48:00,2023-04-06 05:09:00,Mesero_2,Almuerzo,Tarjeta de crédito,20.23,Reservada,582,Uruguay,Plato_6
+"9,Cliente_429,2,2023-04-06 01:41:00,2023-04-06 03:34:00,Mesero_2,Cena,Tarjeta de débito,35.99,Libre,583,Brasil,""Plato_12, Plato_4, Plato_7, Plato_20"""
+"9,Cliente_283,4,2023-04-06 03:35:00,2023-04-06 06:59:00,Mesero_3,Almuerzo,Tarjeta de débito,36.98,Reservada,584,Chile,""Plato_13, Plato_17, Plato_16"""
+"3,Cliente_876,5,2023-04-06 01:23:00,2023-04-06 02:37:00,Mesero_3,Desayuno,Tarjeta de crédito,10.07,Libre,585,Ecuador,""Plato_15, Plato_8, Plato_4, Plato_1"""
+"17,Cliente_857,5,2023-04-06 00:44:00,2023-04-06 03:55:00,Mesero_3,Cena,Efectivo,32.79,Ocupada,586,Venezuela,""Plato_11, Plato_7"""
+7,Cliente_208,4,2023-04-06 03:38:00,2023-04-06 04:42:00,Mesero_3,Desayuno,Tarjeta de crédito,35.03,Ocupada,587,Uruguay,Plato_7
+"15,Cliente_21,2,2023-04-06 02:20:00,2023-04-06 05:58:00,Mesero_3,Cena,Efectivo,33.93,Libre,588,Paraguay,""Plato_10, Plato_1"""
+"10,Cliente_443,4,2023-04-06 03:14:00,2023-04-06 05:57:00,Mesero_4,Almuerzo,Tarjeta de débito,28.96,Libre,589,Uruguay,""Plato_14, Plato_18, Plato_13, Plato_15"""
+"3,Cliente_240,6,2023-04-06 02:45:00,2023-04-06 04:27:00,Mesero_2,Desayuno,Tarjeta de crédito,40.94,Ocupada,590,Venezuela,""Plato_18, Plato_3"""
+11,Cliente_138,6,2023-04-06 03:44:00,2023-04-06 06:19:00,Mesero_3,Desayuno,Tarjeta de crédito,44.33,Libre,591,Bolivia,Plato_20
+"5,Cliente_177,1,2023-04-06 00:48:00,2023-04-06 02:40:00,Mesero_2,Almuerzo,Tarjeta de crédito,35.67,Reservada,592,Ecuador,""Plato_5, Plato_1"""
+"17,Cliente_832,5,2023-04-06 00:25:00,2023-04-06 02:17:00,Mesero_4,Almuerzo,Tarjeta de débito,48.8,Reservada,593,España,""Plato_20, Plato_17, Plato_11, Plato_19"""
+"17,Cliente_480,1,2023-04-06 03:20:00,2023-04-06 04:49:00,Mesero_3,Almuerzo,Tarjeta de débito,46.01,Libre,594,Bolivia,""Plato_11, Plato_5, Plato_3"""
+"9,Cliente_290,5,2023-04-06 03:03:00,2023-04-06 05:27:00,Mesero_2,Almuerzo,Tarjeta de crédito,40.33,Ocupada,595,Paraguay,""Plato_13, Plato_2"""
+"18,Cliente_351,2,2023-04-06 01:21:00,2023-04-06 03:39:00,Mesero_2,Almuerzo,Tarjeta de débito,23.7,Ocupada,596,Ecuador,""Plato_14, Plato_7, Plato_15, Plato_1"""
+"16,Cliente_354,1,2023-04-06 00:51:00,2023-04-06 03:51:00,Mesero_1,Almuerzo,Tarjeta de crédito,45.46,Ocupada,597,Bolivia,""Plato_16, Plato_4, Plato_20, Plato_7"""
+"9,Cliente_344,6,2023-04-06 03:16:00,2023-04-06 06:59:00,Mesero_5,Almuerzo,Tarjeta de crédito,11.31,Reservada,598,España,""Plato_10, Plato_15, Plato_17"""
+"11,Cliente_564,3,2023-04-06 00:34:00,2023-04-06 04:21:00,Mesero_2,Almuerzo,Tarjeta de crédito,30.97,Libre,599,Paraguay,""Plato_18, Plato_17, Plato_8"""
+"14,Cliente_782,4,2023-04-06 03:58:00,2023-04-06 05:01:00,Mesero_3,Almuerzo,Tarjeta de débito,41.35,Ocupada,600,Chile,""Plato_16, Plato_2"""
+"13,Cliente_88,1,2023-04-06 02:43:00,2023-04-06 06:15:00,Mesero_4,Cena,Tarjeta de crédito,16.81,Libre,601,Perú,""Plato_20, Plato_16, Plato_14, Plato_8"""
+"12,Cliente_165,3,2023-04-06 03:52:00,2023-04-06 07:00:00,Mesero_2,Almuerzo,Efectivo,16.5,Reservada,602,España,""Plato_8, Plato_5, Plato_2, Plato_20"""
+19,Cliente_798,6,2023-04-06 00:51:00,2023-04-06 04:21:00,Mesero_1,Almuerzo,Tarjeta de crédito,24.2,Libre,603,Uruguay,Plato_17
+14,Cliente_959,5,2023-04-06 01:18:00,2023-04-06 05:16:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.6,Ocupada,604,Ecuador,Plato_8
+"19,Cliente_608,2,2023-04-06 02:49:00,2023-04-06 06:24:00,Mesero_3,Almuerzo,Efectivo,24.38,Ocupada,605,Uruguay,""Plato_3, Plato_20, Plato_8, Plato_2"""
+"1,Cliente_434,2,2023-04-06 03:14:00,2023-04-06 06:06:00,Mesero_5,Almuerzo,Tarjeta de crédito,31.58,Ocupada,606,Venezuela,""Plato_1, Plato_6, Plato_10"""
+"10,Cliente_377,1,2023-04-06 01:24:00,2023-04-06 03:29:00,Mesero_5,Almuerzo,Tarjeta de crédito,28.9,Ocupada,607,Paraguay,""Plato_20, Plato_16"""
+7,Cliente_657,6,2023-04-06 03:58:00,2023-04-06 07:20:00,Mesero_3,Almuerzo,Tarjeta de crédito,36.55,Reservada,608,España,Plato_9
+1,Cliente_331,4,2023-04-06 03:23:00,2023-04-06 07:02:00,Mesero_1,Almuerzo,Tarjeta de crédito,23.29,Reservada,609,Ecuador,Plato_15
+"19,Cliente_728,4,2023-04-06 02:12:00,2023-04-06 04:11:00,Mesero_5,Cena,Tarjeta de crédito,37.9,Ocupada,610,Paraguay,""Plato_10, Plato_4"""
+"13,Cliente_224,1,2023-04-06 03:55:00,2023-04-06 07:43:00,Mesero_1,Almuerzo,Tarjeta de crédito,44.28,Ocupada,611,Brasil,""Plato_13, Plato_19"""
+"11,Cliente_680,4,2023-04-06 01:12:00,2023-04-06 05:00:00,Mesero_5,Almuerzo,Tarjeta de crédito,23.54,Reservada,612,Paraguay,""Plato_6, Plato_19, Plato_16, Plato_3"""
+"1,Cliente_230,5,2023-04-06 01:57:00,2023-04-06 03:35:00,Mesero_2,Desayuno,Efectivo,23.56,Reservada,613,España,""Plato_12, Plato_14, Plato_4, Plato_8"""
+19,Cliente_823,6,2023-04-06 02:32:00,2023-04-06 04:37:00,Mesero_1,Desayuno,Tarjeta de débito,26.48,Reservada,614,Venezuela,Plato_7
+"7,Cliente_513,1,2023-04-06 00:46:00,2023-04-06 01:53:00,Mesero_5,Cena,Tarjeta de crédito,18.42,Ocupada,615,Ecuador,""Plato_17, Plato_14, Plato_1, Plato_15"""
+"4,Cliente_608,4,2023-04-06 00:14:00,2023-04-06 03:36:00,Mesero_5,Cena,Tarjeta de crédito,23.89,Ocupada,616,Venezuela,""Plato_7, Plato_2"""
+"13,Cliente_27,5,2023-04-06 01:20:00,2023-04-06 05:17:00,Mesero_2,Almuerzo,Tarjeta de crédito,38.18,Libre,617,Uruguay,""Plato_10, Plato_2"""
+"3,Cliente_973,5,2023-04-06 00:56:00,2023-04-06 03:12:00,Mesero_4,Desayuno,Tarjeta de crédito,25.93,Libre,618,Chile,""Plato_15, Plato_17, Plato_4, Plato_19"""
+"6,Cliente_619,4,2023-04-06 00:16:00,2023-04-06 02:41:00,Mesero_5,Cena,Tarjeta de crédito,16.44,Reservada,619,Ecuador,""Plato_6, Plato_10"""
+16,Cliente_592,3,2023-04-06 02:49:00,2023-04-06 06:07:00,Mesero_4,Almuerzo,Tarjeta de crédito,26.64,Reservada,620,Paraguay,Plato_12
+5,Cliente_575,2,2023-04-06 01:08:00,2023-04-06 02:27:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.27,Ocupada,621,Ecuador,Plato_8
+"7,Cliente_117,5,2023-04-06 02:07:00,2023-04-06 05:31:00,Mesero_3,Cena,Tarjeta de crédito,11.47,Reservada,622,Argentina,""Plato_17, Plato_16"""
+"13,Cliente_395,1,2023-04-06 00:45:00,2023-04-06 03:10:00,Mesero_3,Almuerzo,Efectivo,22.05,Libre,623,Uruguay,""Plato_5, Plato_8, Plato_1, Plato_15"""
+"1,Cliente_833,4,2023-04-06 01:56:00,2023-04-06 03:26:00,Mesero_1,Cena,Tarjeta de crédito,38.0,Reservada,624,Argentina,""Plato_19, Plato_7, Plato_13"""
+"5,Cliente_511,4,2023-04-06 00:09:00,2023-04-06 03:22:00,Mesero_4,Cena,Tarjeta de crédito,41.73,Ocupada,625,Chile,""Plato_4, Plato_20, Plato_13"""
+"14,Cliente_772,4,2023-04-06 02:45:00,2023-04-06 04:10:00,Mesero_4,Desayuno,Tarjeta de crédito,19.24,Libre,626,Argentina,""Plato_2, Plato_7, Plato_9"""
+4,Cliente_336,3,2023-04-06 02:23:00,2023-04-06 04:13:00,Mesero_3,Almuerzo,Tarjeta de crédito,44.24,Ocupada,627,Ecuador,Plato_13
+"2,Cliente_124,1,2023-04-06 00:09:00,2023-04-06 01:37:00,Mesero_3,Desayuno,Tarjeta de crédito,15.03,Reservada,628,Chile,""Plato_7, Plato_20"""
+"17,Cliente_828,2,2023-04-06 02:07:00,2023-04-06 05:55:00,Mesero_4,Cena,Tarjeta de débito,26.07,Ocupada,629,Argentina,""Plato_18, Plato_3, Plato_4"""
+"2,Cliente_385,2,2023-04-06 00:02:00,2023-04-06 02:49:00,Mesero_5,Almuerzo,Tarjeta de débito,36.62,Libre,630,Bolivia,""Plato_17, Plato_20"""
+6,Cliente_841,1,2023-04-06 00:21:00,2023-04-06 02:51:00,Mesero_5,Cena,Tarjeta de crédito,39.71,Reservada,631,Colombia,Plato_5
+"16,Cliente_605,2,2023-04-06 00:15:00,2023-04-06 02:55:00,Mesero_3,Desayuno,Tarjeta de crédito,22.41,Libre,632,Ecuador,""Plato_15, Plato_11"""
+"16,Cliente_197,5,2023-04-06 03:43:00,2023-04-06 05:28:00,Mesero_3,Almuerzo,Tarjeta de crédito,11.19,Reservada,633,Bolivia,""Plato_2, Plato_7, Plato_5, Plato_4"""
+"2,Cliente_285,1,2023-04-06 00:03:00,2023-04-06 03:36:00,Mesero_1,Desayuno,Tarjeta de crédito,29.25,Reservada,634,Venezuela,""Plato_5, Plato_20, Plato_1, Plato_8"""
+5,Cliente_19,2,2023-04-06 00:17:00,2023-04-06 03:04:00,Mesero_2,Almuerzo,Tarjeta de crédito,22.15,Libre,635,Perú,Plato_9
+"14,Cliente_586,3,2023-04-06 03:35:00,2023-04-06 05:48:00,Mesero_5,Cena,Tarjeta de débito,32.86,Libre,636,Ecuador,""Plato_7, Plato_12, Plato_13"""
+"6,Cliente_687,3,2023-04-06 01:55:00,2023-04-06 04:32:00,Mesero_4,Almuerzo,Tarjeta de crédito,36.58,Reservada,637,Ecuador,""Plato_11, Plato_18, Plato_1"""
+16,Cliente_406,6,2023-04-06 00:54:00,2023-04-06 02:16:00,Mesero_3,Cena,Tarjeta de crédito,30.71,Ocupada,638,Argentina,Plato_2
+"8,Cliente_415,4,2023-04-06 02:17:00,2023-04-06 05:19:00,Mesero_2,Cena,Tarjeta de crédito,18.97,Reservada,639,España,""Plato_10, Plato_17, Plato_12"""
+"14,Cliente_456,3,2023-04-06 00:41:00,2023-04-06 01:50:00,Mesero_3,Almuerzo,Tarjeta de débito,49.29,Libre,640,Venezuela,""Plato_10, Plato_13, Plato_11"""
+"2,Cliente_820,4,2023-04-06 01:08:00,2023-04-06 03:52:00,Mesero_1,Almuerzo,Tarjeta de débito,39.68,Reservada,641,Ecuador,""Plato_9, Plato_1, Plato_14"""
+"15,Cliente_698,1,2023-04-06 02:36:00,2023-04-06 05:24:00,Mesero_2,Almuerzo,Tarjeta de crédito,11.11,Ocupada,642,Argentina,""Plato_13, Plato_10, Plato_9"""
+17,Cliente_59,2,2023-04-06 00:17:00,2023-04-06 01:56:00,Mesero_2,Desayuno,Tarjeta de débito,28.81,Ocupada,643,Uruguay,Plato_11
+9,Cliente_799,6,2023-04-06 03:44:00,2023-04-06 07:10:00,Mesero_1,Almuerzo,Tarjeta de débito,13.86,Reservada,644,Ecuador,Plato_17
+"6,Cliente_196,6,2023-04-06 02:50:00,2023-04-06 06:25:00,Mesero_3,Cena,Efectivo,40.03,Libre,645,Bolivia,""Plato_11, Plato_6"""
+12,Cliente_623,2,2023-04-06 03:59:00,2023-04-06 06:38:00,Mesero_2,Almuerzo,Tarjeta de débito,12.59,Libre,646,Bolivia,Plato_8
+"12,Cliente_52,2,2023-04-06 02:55:00,2023-04-06 06:25:00,Mesero_2,Almuerzo,Tarjeta de crédito,42.79,Reservada,647,Bolivia,""Plato_4, Plato_17"""
+9,Cliente_946,1,2023-04-06 02:59:00,2023-04-06 04:55:00,Mesero_2,Cena,Tarjeta de crédito,17.43,Libre,648,Brasil,Plato_16
+"9,Cliente_278,1,2023-04-06 00:55:00,2023-04-06 03:45:00,Mesero_5,Almuerzo,Efectivo,15.98,Ocupada,649,Paraguay,""Plato_9, Plato_16, Plato_1, Plato_3"""
+"11,Cliente_232,3,2023-04-07 03:33:00,2023-04-07 05:02:00,Mesero_3,Almuerzo,Tarjeta de débito,38.21,Libre,650,Argentina,""Plato_13, Plato_9, Plato_15, Plato_8"""
+"16,Cliente_595,4,2023-04-07 02:04:00,2023-04-07 05:44:00,Mesero_4,Cena,Tarjeta de crédito,20.27,Libre,651,Argentina,""Plato_20, Plato_13, Plato_11"""
+"14,Cliente_968,5,2023-04-07 00:06:00,2023-04-07 02:26:00,Mesero_2,Almuerzo,Tarjeta de débito,23.26,Ocupada,652,Uruguay,""Plato_17, Plato_19"""
+"13,Cliente_2,5,2023-04-07 02:31:00,2023-04-07 04:20:00,Mesero_1,Almuerzo,Tarjeta de crédito,34.33,Libre,653,Venezuela,""Plato_16, Plato_2, Plato_8"""
+"12,Cliente_880,5,2023-04-07 00:02:00,2023-04-07 01:44:00,Mesero_5,Cena,Tarjeta de crédito,23.98,Ocupada,654,Uruguay,""Plato_5, Plato_3"""
+5,Cliente_626,4,2023-04-07 01:15:00,2023-04-07 04:49:00,Mesero_5,Almuerzo,Efectivo,21.7,Reservada,655,Brasil,Plato_17
+"19,Cliente_411,6,2023-04-07 03:36:00,2023-04-07 06:40:00,Mesero_1,Cena,Tarjeta de crédito,31.23,Reservada,656,Argentina,""Plato_14, Plato_3, Plato_12, Plato_19"""
+"1,Cliente_123,2,2023-04-07 00:51:00,2023-04-07 04:07:00,Mesero_1,Almuerzo,Efectivo,44.2,Reservada,657,Chile,""Plato_20, Plato_14, Plato_8"""
+"19,Cliente_910,5,2023-04-07 01:43:00,2023-04-07 05:02:00,Mesero_5,Desayuno,Efectivo,31.27,Reservada,658,Brasil,""Plato_15, Plato_6"""
+9,Cliente_539,4,2023-04-07 02:50:00,2023-04-07 04:03:00,Mesero_4,Almuerzo,Tarjeta de crédito,35.24,Ocupada,659,Perú,Plato_9
+"19,Cliente_483,4,2023-04-07 01:56:00,2023-04-07 05:51:00,Mesero_2,Desayuno,Tarjeta de crédito,15.91,Reservada,660,Brasil,""Plato_12, Plato_2, Plato_20"""
+"16,Cliente_949,4,2023-04-07 03:22:00,2023-04-07 06:52:00,Mesero_4,Cena,Tarjeta de crédito,32.54,Ocupada,661,Argentina,""Plato_14, Plato_17, Plato_1, Plato_16"""
+"15,Cliente_642,4,2023-04-07 02:01:00,2023-04-07 05:02:00,Mesero_1,Almuerzo,Tarjeta de crédito,11.64,Libre,662,Bolivia,""Plato_7, Plato_1, Plato_19"""
+"3,Cliente_962,1,2023-04-07 01:09:00,2023-04-07 03:47:00,Mesero_1,Almuerzo,Efectivo,41.8,Ocupada,663,España,""Plato_4, Plato_9, Plato_3"""
+"20,Cliente_883,6,2023-04-07 01:35:00,2023-04-07 03:53:00,Mesero_4,Desayuno,Tarjeta de débito,31.27,Reservada,664,Colombia,""Plato_4, Plato_12, Plato_5"""
+"6,Cliente_425,1,2023-04-07 02:05:00,2023-04-07 05:56:00,Mesero_5,Almuerzo,Tarjeta de crédito,25.32,Ocupada,665,Bolivia,""Plato_1, Plato_6"""
+8,Cliente_593,4,2023-04-07 01:04:00,2023-04-07 04:57:00,Mesero_2,Almuerzo,Tarjeta de crédito,11.86,Libre,666,Paraguay,Plato_3
+6,Cliente_368,5,2023-04-07 03:39:00,2023-04-07 07:07:00,Mesero_3,Almuerzo,Tarjeta de crédito,20.49,Reservada,667,Perú,Plato_19
+"12,Cliente_418,4,2023-04-07 01:43:00,2023-04-07 04:41:00,Mesero_1,Desayuno,Tarjeta de crédito,18.61,Reservada,668,Bolivia,""Plato_10, Plato_7, Plato_1"""
+"10,Cliente_693,4,2023-04-07 01:01:00,2023-04-07 04:34:00,Mesero_3,Almuerzo,Tarjeta de crédito,10.68,Libre,669,Venezuela,""Plato_17, Plato_6, Plato_15"""
+"16,Cliente_226,6,2023-04-07 01:52:00,2023-04-07 03:12:00,Mesero_2,Almuerzo,Efectivo,37.93,Ocupada,670,Bolivia,""Plato_14, Plato_8, Plato_19"""
+"17,Cliente_759,3,2023-04-07 02:18:00,2023-04-07 03:30:00,Mesero_3,Almuerzo,Efectivo,32.2,Reservada,671,Bolivia,""Plato_8, Plato_1, Plato_15"""
+"12,Cliente_517,6,2023-04-07 01:24:00,2023-04-07 03:51:00,Mesero_4,Cena,Tarjeta de crédito,29.19,Reservada,672,Chile,""Plato_15, Plato_13, Plato_12"""
+"20,Cliente_485,6,2023-04-07 00:37:00,2023-04-07 02:52:00,Mesero_5,Almuerzo,Tarjeta de crédito,36.5,Reservada,673,Venezuela,""Plato_20, Plato_8, Plato_2, Plato_1"""
+"1,Cliente_834,3,2023-04-07 00:03:00,2023-04-07 01:30:00,Mesero_5,Cena,Tarjeta de crédito,41.29,Libre,674,Paraguay,""Plato_12, Plato_4, Plato_17, Plato_13"""
+"5,Cliente_104,2,2023-04-07 00:54:00,2023-04-07 04:33:00,Mesero_2,Cena,Efectivo,30.74,Reservada,675,Ecuador,""Plato_1, Plato_3, Plato_19"""
+"7,Cliente_494,6,2023-04-07 00:28:00,2023-04-07 03:45:00,Mesero_3,Almuerzo,Tarjeta de crédito,41.6,Ocupada,676,Ecuador,""Plato_17, Plato_14, Plato_16, Plato_13"""
+"14,Cliente_331,6,2023-04-07 00:34:00,2023-04-07 02:37:00,Mesero_2,Almuerzo,Tarjeta de crédito,12.57,Ocupada,677,Bolivia,""Plato_3, Plato_8, Plato_18"""
+"19,Cliente_483,1,2023-04-07 03:01:00,2023-04-07 05:22:00,Mesero_3,Almuerzo,Tarjeta de crédito,26.76,Ocupada,678,Chile,""Plato_9, Plato_12, Plato_8, Plato_7"""
+"9,Cliente_26,4,2023-04-07 00:02:00,2023-04-07 03:03:00,Mesero_2,Almuerzo,Tarjeta de crédito,36.43,Ocupada,679,Chile,""Plato_13, Plato_10, Plato_16, Plato_1"""
+"5,Cliente_35,4,2023-04-07 01:23:00,2023-04-07 05:20:00,Mesero_3,Almuerzo,Efectivo,12.06,Reservada,680,Paraguay,""Plato_4, Plato_3, Plato_11"""
+"2,Cliente_840,4,2023-04-07 02:56:00,2023-04-07 06:50:00,Mesero_4,Almuerzo,Tarjeta de débito,37.07,Libre,681,Paraguay,""Plato_11, Plato_13"""
+1,Cliente_36,5,2023-04-07 01:26:00,2023-04-07 04:05:00,Mesero_5,Desayuno,Tarjeta de crédito,21.04,Ocupada,682,Venezuela,Plato_14
+"2,Cliente_837,6,2023-04-07 03:56:00,2023-04-07 06:22:00,Mesero_5,Almuerzo,Tarjeta de crédito,40.42,Ocupada,683,Colombia,""Plato_5, Plato_3, Plato_20, Plato_17"""
+"10,Cliente_514,6,2023-04-07 03:29:00,2023-04-07 04:40:00,Mesero_4,Cena,Tarjeta de crédito,48.15,Ocupada,684,Chile,""Plato_19, Plato_17, Plato_10, Plato_9"""
+5,Cliente_485,5,2023-04-07 00:28:00,2023-04-07 01:43:00,Mesero_2,Almuerzo,Tarjeta de débito,19.89,Libre,685,España,Plato_6
+"10,Cliente_832,6,2023-04-07 01:12:00,2023-04-07 03:39:00,Mesero_1,Almuerzo,Efectivo,15.83,Reservada,686,Paraguay,""Plato_17, Plato_3"""
+2,Cliente_778,6,2023-04-07 01:54:00,2023-04-07 05:39:00,Mesero_4,Almuerzo,Efectivo,10.53,Libre,687,España,Plato_19
+3,Cliente_725,1,2023-04-07 03:26:00,2023-04-07 05:03:00,Mesero_1,Almuerzo,Tarjeta de crédito,48.7,Ocupada,688,Argentina,Plato_9
+"14,Cliente_114,1,2023-04-07 00:36:00,2023-04-07 02:22:00,Mesero_1,Almuerzo,Tarjeta de crédito,10.25,Ocupada,689,Paraguay,""Plato_14, Plato_1, Plato_13"""
+"15,Cliente_95,4,2023-04-07 02:43:00,2023-04-07 05:43:00,Mesero_5,Cena,Tarjeta de débito,37.22,Reservada,690,España,""Plato_20, Plato_17, Plato_16, Plato_11"""
+19,Cliente_103,4,2023-04-07 01:43:00,2023-04-07 05:17:00,Mesero_3,Cena,Tarjeta de débito,13.9,Ocupada,691,Colombia,Plato_5
+"9,Cliente_30,2,2023-04-07 00:53:00,2023-04-07 04:26:00,Mesero_1,Cena,Tarjeta de crédito,25.92,Reservada,692,Argentina,""Plato_8, Plato_2, Plato_4, Plato_3"""
+"15,Cliente_330,4,2023-04-07 03:44:00,2023-04-07 07:31:00,Mesero_3,Almuerzo,Tarjeta de crédito,28.31,Libre,693,Ecuador,""Plato_19, Plato_13"""
+"5,Cliente_88,4,2023-04-07 01:51:00,2023-04-07 05:13:00,Mesero_2,Almuerzo,Tarjeta de crédito,23.66,Libre,694,Venezuela,""Plato_3, Plato_4, Plato_20, Plato_13"""
+"9,Cliente_211,1,2023-04-07 02:02:00,2023-04-07 05:32:00,Mesero_3,Almuerzo,Tarjeta de crédito,18.23,Ocupada,695,Venezuela,""Plato_16, Plato_2"""
+2,Cliente_282,6,2023-04-07 02:16:00,2023-04-07 06:11:00,Mesero_1,Cena,Tarjeta de crédito,18.76,Ocupada,696,Perú,Plato_14
+"4,Cliente_90,1,2023-04-07 03:48:00,2023-04-07 06:42:00,Mesero_2,Almuerzo,Tarjeta de crédito,34.35,Reservada,697,Uruguay,""Plato_14, Plato_11, Plato_2, Plato_6"""
+"19,Cliente_115,4,2023-04-07 02:30:00,2023-04-07 06:25:00,Mesero_1,Cena,Tarjeta de crédito,39.89,Libre,698,Bolivia,""Plato_6, Plato_10, Plato_14, Plato_13"""
+8,Cliente_143,6,2023-04-07 01:35:00,2023-04-07 02:56:00,Mesero_2,Almuerzo,Tarjeta de crédito,38.44,Reservada,699,España,Plato_9
+"8,Cliente_496,2,2023-04-07 00:23:00,2023-04-07 02:50:00,Mesero_2,Almuerzo,Tarjeta de crédito,21.66,Reservada,700,Argentina,""Plato_18, Plato_10, Plato_6"""
+"19,Cliente_58,5,2023-04-07 03:20:00,2023-04-07 05:45:00,Mesero_4,Almuerzo,Tarjeta de crédito,39.83,Libre,701,Bolivia,""Plato_11, Plato_4"""
+"13,Cliente_468,2,2023-04-07 02:30:00,2023-04-07 05:15:00,Mesero_3,Cena,Tarjeta de crédito,47.07,Libre,702,Brasil,""Plato_4, Plato_13, Plato_6, Plato_16"""
+9,Cliente_714,5,2023-04-07 00:17:00,2023-04-07 02:19:00,Mesero_1,Almuerzo,Tarjeta de crédito,22.24,Ocupada,703,Venezuela,Plato_13
+13,Cliente_950,6,2023-04-07 01:40:00,2023-04-07 04:29:00,Mesero_2,Cena,Tarjeta de crédito,33.29,Reservada,704,Bolivia,Plato_4
+"12,Cliente_372,3,2023-04-07 01:48:00,2023-04-07 02:53:00,Mesero_2,Almuerzo,Tarjeta de crédito,43.07,Libre,705,Venezuela,""Plato_3, Plato_10"""
+20,Cliente_663,6,2023-04-07 01:14:00,2023-04-07 04:54:00,Mesero_1,Almuerzo,Tarjeta de crédito,44.45,Ocupada,706,Argentina,Plato_4
+"15,Cliente_801,1,2023-04-07 03:05:00,2023-04-07 05:23:00,Mesero_2,Desayuno,Tarjeta de crédito,40.39,Reservada,707,Uruguay,""Plato_15, Plato_13, Plato_2, Plato_19"""
+5,Cliente_804,2,2023-04-07 03:36:00,2023-04-07 07:24:00,Mesero_3,Cena,Tarjeta de crédito,41.8,Ocupada,708,España,Plato_6
+"8,Cliente_208,4,2023-04-07 01:55:00,2023-04-07 03:40:00,Mesero_2,Almuerzo,Efectivo,26.15,Ocupada,709,Ecuador,""Plato_13, Plato_8, Plato_11, Plato_1"""
+"18,Cliente_716,1,2023-04-07 02:28:00,2023-04-07 03:38:00,Mesero_5,Almuerzo,Tarjeta de crédito,28.43,Ocupada,710,España,""Plato_3, Plato_12, Plato_4, Plato_14"""
+"20,Cliente_27,6,2023-04-07 01:51:00,2023-04-07 05:18:00,Mesero_1,Almuerzo,Tarjeta de débito,49.74,Ocupada,711,Uruguay,""Plato_18, Plato_15"""
+10,Cliente_786,5,2023-04-07 00:06:00,2023-04-07 02:27:00,Mesero_2,Desayuno,Efectivo,42.21,Reservada,712,Perú,Plato_7
+"6,Cliente_594,4,2023-04-07 00:15:00,2023-04-07 02:52:00,Mesero_1,Cena,Tarjeta de crédito,35.11,Libre,713,Uruguay,""Plato_11, Plato_9, Plato_15, Plato_10"""
+"19,Cliente_281,2,2023-04-07 02:21:00,2023-04-07 04:05:00,Mesero_5,Almuerzo,Tarjeta de crédito,10.69,Libre,714,Colombia,""Plato_18, Plato_2, Plato_11"""
+"12,Cliente_396,6,2023-04-07 01:45:00,2023-04-07 04:15:00,Mesero_3,Almuerzo,Tarjeta de débito,39.91,Ocupada,715,Perú,""Plato_2, Plato_6, Plato_1, Plato_4"""
+"12,Cliente_707,4,2023-04-07 01:47:00,2023-04-07 04:44:00,Mesero_2,Cena,Tarjeta de crédito,44.73,Ocupada,716,Brasil,""Plato_13, Plato_1, Plato_17"""
+"8,Cliente_392,5,2023-04-07 03:56:00,2023-04-07 06:03:00,Mesero_1,Almuerzo,Tarjeta de crédito,23.67,Libre,717,Bolivia,""Plato_5, Plato_2, Plato_6"""
+7,Cliente_489,6,2023-04-07 03:18:00,2023-04-07 07:06:00,Mesero_2,Desayuno,Tarjeta de crédito,37.21,Libre,718,Venezuela,Plato_3
+"16,Cliente_954,3,2023-04-07 01:18:00,2023-04-07 02:49:00,Mesero_1,Almuerzo,Tarjeta de débito,17.23,Libre,719,Colombia,""Plato_20, Plato_12, Plato_9"""
+"4,Cliente_263,5,2023-04-07 02:13:00,2023-04-07 05:46:00,Mesero_3,Almuerzo,Tarjeta de crédito,40.28,Reservada,720,Paraguay,""Plato_11, Plato_9, Plato_7"""
+"6,Cliente_733,2,2023-04-07 03:53:00,2023-04-07 07:01:00,Mesero_2,Desayuno,Tarjeta de crédito,47.13,Libre,721,Paraguay,""Plato_9, Plato_19, Plato_7, Plato_6"""
+"13,Cliente_438,5,2023-04-07 02:51:00,2023-04-07 04:08:00,Mesero_2,Almuerzo,Tarjeta de crédito,20.62,Libre,722,Ecuador,""Plato_13, Plato_5"""
+"12,Cliente_116,2,2023-04-07 01:35:00,2023-04-07 04:49:00,Mesero_4,Desayuno,Efectivo,27.79,Libre,723,Chile,""Plato_16, Plato_8"""
+8,Cliente_929,6,2023-04-07 02:56:00,2023-04-07 04:15:00,Mesero_5,Cena,Efectivo,14.12,Libre,724,Venezuela,Plato_5
+"10,Cliente_353,4,2023-04-07 01:48:00,2023-04-07 03:20:00,Mesero_4,Almuerzo,Efectivo,18.66,Ocupada,725,Chile,""Plato_18, Plato_5"""
+"11,Cliente_715,2,2023-04-07 02:28:00,2023-04-07 05:43:00,Mesero_5,Desayuno,Tarjeta de crédito,41.38,Reservada,726,España,""Plato_5, Plato_19, Plato_14"""
+17,Cliente_117,6,2023-04-07 00:31:00,2023-04-07 03:02:00,Mesero_2,Cena,Tarjeta de débito,13.24,Reservada,727,Colombia,Plato_3
+"9,Cliente_654,6,2023-04-07 02:06:00,2023-04-07 04:29:00,Mesero_1,Desayuno,Tarjeta de débito,34.28,Ocupada,728,Argentina,""Plato_4, Plato_6, Plato_15"""
+"20,Cliente_264,2,2023-04-07 02:49:00,2023-04-07 06:05:00,Mesero_5,Desayuno,Tarjeta de crédito,18.97,Ocupada,729,Uruguay,""Plato_18, Plato_3"""
+"8,Cliente_443,3,2023-04-07 00:29:00,2023-04-07 02:33:00,Mesero_3,Almuerzo,Tarjeta de crédito,15.02,Ocupada,730,España,""Plato_2, Plato_7"""
+17,Cliente_239,3,2023-04-07 03:16:00,2023-04-07 06:25:00,Mesero_2,Almuerzo,Tarjeta de crédito,14.35,Reservada,731,Chile,Plato_15
+"12,Cliente_770,3,2023-04-07 03:17:00,2023-04-07 07:13:00,Mesero_4,Almuerzo,Tarjeta de crédito,43.35,Reservada,732,Brasil,""Plato_20, Plato_10, Plato_19"""
+"14,Cliente_359,6,2023-04-07 03:40:00,2023-04-07 05:28:00,Mesero_4,Cena,Tarjeta de crédito,35.09,Libre,733,Argentina,""Plato_19, Plato_7, Plato_6"""
+"14,Cliente_888,2,2023-04-07 02:27:00,2023-04-07 04:57:00,Mesero_2,Almuerzo,Efectivo,46.82,Libre,734,Venezuela,""Plato_15, Plato_7, Plato_12"""
+"20,Cliente_154,4,2023-04-07 01:52:00,2023-04-07 03:47:00,Mesero_3,Desayuno,Tarjeta de crédito,38.43,Libre,735,España,""Plato_14, Plato_15"""
+"17,Cliente_301,2,2023-04-07 01:08:00,2023-04-07 03:24:00,Mesero_4,Desayuno,Tarjeta de crédito,25.91,Ocupada,736,España,""Plato_5, Plato_16, Plato_17"""
+"6,Cliente_635,1,2023-04-07 00:39:00,2023-04-07 03:06:00,Mesero_2,Desayuno,Tarjeta de débito,24.09,Reservada,737,Paraguay,""Plato_9, Plato_2"""
+"15,Cliente_70,1,2023-04-07 00:51:00,2023-04-07 02:04:00,Mesero_3,Almuerzo,Tarjeta de crédito,17.37,Ocupada,738,España,""Plato_10, Plato_16, Plato_4"""
+10,Cliente_484,5,2023-04-07 03:53:00,2023-04-07 06:10:00,Mesero_2,Almuerzo,Tarjeta de débito,33.69,Reservada,739,Colombia,Plato_14
+"16,Cliente_297,6,2023-04-07 03:49:00,2023-04-07 06:24:00,Mesero_1,Almuerzo,Tarjeta de débito,16.05,Reservada,740,Ecuador,""Plato_16, Plato_15, Plato_19, Plato_14"""
+"14,Cliente_196,4,2023-04-07 00:29:00,2023-04-07 04:23:00,Mesero_2,Almuerzo,Tarjeta de débito,40.31,Ocupada,741,Uruguay,""Plato_7, Plato_9, Plato_11, Plato_16"""
+"20,Cliente_320,4,2023-04-07 00:36:00,2023-04-07 02:22:00,Mesero_2,Desayuno,Tarjeta de crédito,10.51,Reservada,742,Colombia,""Plato_17, Plato_2, Plato_10, Plato_12"""
+"19,Cliente_597,2,2023-04-07 03:47:00,2023-04-07 07:44:00,Mesero_3,Almuerzo,Tarjeta de débito,25.7,Ocupada,743,Brasil,""Plato_10, Plato_4, Plato_14"""
+"11,Cliente_974,1,2023-04-07 01:59:00,2023-04-07 05:49:00,Mesero_1,Almuerzo,Tarjeta de crédito,26.5,Libre,744,España,""Plato_4, Plato_9"""
+"3,Cliente_90,1,2023-04-07 02:34:00,2023-04-07 04:52:00,Mesero_5,Almuerzo,Efectivo,18.75,Libre,745,Bolivia,""Plato_8, Plato_7, Plato_1, Plato_6"""
+"13,Cliente_950,2,2023-04-07 03:10:00,2023-04-07 06:27:00,Mesero_1,Almuerzo,Tarjeta de crédito,44.9,Ocupada,746,Chile,""Plato_8, Plato_15"""
+16,Cliente_446,3,2023-04-07 02:53:00,2023-04-07 04:49:00,Mesero_1,Desayuno,Tarjeta de débito,37.23,Reservada,747,Uruguay,Plato_1
+"2,Cliente_298,4,2023-04-07 02:32:00,2023-04-07 05:58:00,Mesero_2,Almuerzo,Tarjeta de crédito,12.55,Reservada,748,Venezuela,""Plato_15, Plato_10"""
+1,Cliente_446,2,2023-04-07 01:21:00,2023-04-07 02:52:00,Mesero_4,Almuerzo,Tarjeta de débito,24.12,Ocupada,749,Perú,Plato_8
+"6,Cliente_304,4,2023-04-07 01:46:00,2023-04-07 03:00:00,Mesero_1,Almuerzo,Tarjeta de crédito,21.82,Libre,750,Bolivia,""Plato_17, Plato_10"""
+"17,Cliente_157,6,2023-04-07 01:32:00,2023-04-07 03:10:00,Mesero_2,Desayuno,Tarjeta de crédito,49.35,Libre,751,Brasil,""Plato_9, Plato_1, Plato_5"""
+3,Cliente_736,5,2023-04-07 02:05:00,2023-04-07 04:23:00,Mesero_3,Almuerzo,Tarjeta de crédito,46.27,Libre,752,Perú,Plato_2
+"11,Cliente_827,4,2023-04-07 02:27:00,2023-04-07 04:38:00,Mesero_4,Almuerzo,Tarjeta de débito,26.24,Libre,753,Chile,""Plato_15, Plato_14, Plato_7, Plato_19"""
+"8,Cliente_871,3,2023-04-07 03:21:00,2023-04-07 04:36:00,Mesero_3,Almuerzo,Tarjeta de crédito,42.74,Reservada,754,España,""Plato_7, Plato_6, Plato_16"""
+"12,Cliente_743,3,2023-04-07 02:01:00,2023-04-07 04:27:00,Mesero_2,Almuerzo,Tarjeta de crédito,26.65,Ocupada,755,Brasil,""Plato_13, Plato_1, Plato_12, Plato_9"""
+"11,Cliente_428,1,2023-04-07 03:53:00,2023-04-07 07:51:00,Mesero_1,Cena,Tarjeta de crédito,31.75,Libre,756,Perú,""Plato_17, Plato_12"""
+3,Cliente_750,6,2023-04-07 01:47:00,2023-04-07 04:42:00,Mesero_2,Almuerzo,Tarjeta de débito,10.03,Reservada,757,Brasil,Plato_2
+"18,Cliente_808,4,2023-04-07 00:17:00,2023-04-07 02:10:00,Mesero_3,Desayuno,Efectivo,27.04,Reservada,758,Perú,""Plato_2, Plato_5"""
+"20,Cliente_376,5,2023-04-07 00:40:00,2023-04-07 03:45:00,Mesero_1,Almuerzo,Tarjeta de crédito,13.7,Reservada,759,Argentina,""Plato_11, Plato_6, Plato_1, Plato_9"""
+5,Cliente_721,6,2023-04-07 00:25:00,2023-04-07 01:40:00,Mesero_4,Almuerzo,Tarjeta de crédito,39.42,Libre,760,Argentina,Plato_8
+"4,Cliente_782,4,2023-04-07 02:39:00,2023-04-07 03:42:00,Mesero_3,Desayuno,Tarjeta de crédito,16.85,Libre,761,España,""Plato_7, Plato_16, Plato_14"""
+"4,Cliente_729,3,2023-04-07 01:18:00,2023-04-07 03:25:00,Mesero_5,Desayuno,Tarjeta de crédito,49.45,Reservada,762,Uruguay,""Plato_13, Plato_10"""
+"18,Cliente_351,3,2023-04-07 03:49:00,2023-04-07 05:12:00,Mesero_4,Almuerzo,Tarjeta de crédito,22.88,Reservada,763,Argentina,""Plato_11, Plato_12"""
+"20,Cliente_227,1,2023-04-07 03:30:00,2023-04-07 05:46:00,Mesero_4,Cena,Tarjeta de crédito,20.41,Ocupada,764,Colombia,""Plato_6, Plato_18, Plato_7"""
+"20,Cliente_825,4,2023-04-07 00:24:00,2023-04-07 01:37:00,Mesero_3,Cena,Tarjeta de crédito,30.77,Libre,765,Chile,""Plato_10, Plato_16, Plato_13, Plato_19"""
+"17,Cliente_175,6,2023-04-07 01:34:00,2023-04-07 04:50:00,Mesero_2,Cena,Tarjeta de crédito,12.57,Reservada,766,Argentina,""Plato_2, Plato_12, Plato_3, Plato_14"""
+"10,Cliente_757,3,2023-04-07 01:08:00,2023-04-07 03:57:00,Mesero_2,Desayuno,Tarjeta de crédito,15.98,Reservada,767,Ecuador,""Plato_9, Plato_7, Plato_13"""

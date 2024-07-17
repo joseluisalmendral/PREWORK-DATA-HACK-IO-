@@ -1,0 +1,1903 @@
+N√∫mero de Orden,N√∫mero de Mesa,Nombre del Plato,Descripci√≥n del Plato,Costo Unitario,Precio Unitario,Cantidad Ordenada,Tiempo de Preparaci√≥n,Observaciones
+1,10,Plato_7,Descripci√≥n del Plato_7,14,24,2,25,Ninguna
+1,10,Plato_2,Descripci√≥n del Plato_2,18,30,3,32,Sin cebolla
+2,6,Plato_17,Descripci√≥n del Plato_17,19,31,1,51,Ninguna
+2,6,Plato_6,Descripci√≥n del Plato_6,16,27,1,34,Sin cebolla
+3,20,Plato_20,Descripci√≥n del Plato_20,25,40,1,9,Sin cebolla
+3,20,Plato_17,Descripci√≥n del Plato_17,19,31,1,27,Ninguna
+3,20,Plato_19,Descripci√≥n del Plato_19,22,36,1,36,Ninguna
+3,20,Plato_9,Descripci√≥n del Plato_9,17,29,2,54,Sin cebolla
+4,3,Plato_11,Descripci√≥n del Plato_11,20,33,3,23,Sin cebolla
+4,3,Plato_16,Descripci√≥n del Plato_16,16,28,3,17,Ninguna
+5,8,Plato_12,Descripci√≥n del Plato_12,11,19,1,8,Ninguna
+5,8,Plato_7,Descripci√≥n del Plato_7,14,24,2,9,Sin cebolla
+6,7,Plato_8,Descripci√≥n del Plato_8,21,35,2,11,Sin cebolla
+7,17,Plato_15,Descripci√≥n del Plato_15,19,32,2,15,Sin cebolla
+7,17,Plato_19,Descripci√≥n del Plato_19,22,36,3,26,Ninguna
+8,11,Plato_5,Descripci√≥n del Plato_5,13,22,3,11,Ninguna
+8,11,Plato_16,Descripci√≥n del Plato_16,16,28,2,8,Ninguna
+8,11,Plato_20,Descripci√≥n del Plato_20,25,40,3,36,Ninguna
+9,15,Plato_2,Descripci√≥n del Plato_2,18,30,1,51,Ninguna
+9,15,Plato_7,Descripci√≥n del Plato_7,14,24,1,49,Sin cebolla
+9,15,Plato_12,Descripci√≥n del Plato_12,11,19,1,15,Ninguna
+9,15,Plato_15,Descripci√≥n del Plato_15,19,32,3,31,Ninguna
+10,17,Plato_18,Descripci√≥n del Plato_18,20,34,2,10,Sin cebolla
+10,17,Plato_20,Descripci√≥n del Plato_20,25,40,2,19,Ninguna
+11,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,32,Sin cebolla
+11,14,Plato_2,Descripci√≥n del Plato_2,18,30,2,24,Sin cebolla
+12,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,5,Sin cebolla
+12,14,Plato_19,Descripci√≥n del Plato_19,22,36,3,44,Ninguna
+12,14,Plato_8,Descripci√≥n del Plato_8,21,35,2,6,Ninguna
+12,14,Plato_20,Descripci√≥n del Plato_20,25,40,3,40,Ninguna
+13,2,Plato_9,Descripci√≥n del Plato_9,17,29,3,59,Sin cebolla
+14,16,Plato_3,Descripci√≥n del Plato_3,12,20,1,36,Ninguna
+14,16,Plato_11,Descripci√≥n del Plato_11,20,33,1,26,Ninguna
+14,16,Plato_14,Descripci√≥n del Plato_14,14,23,2,44,Sin cebolla
+14,16,Plato_2,Descripci√≥n del Plato_2,18,30,1,48,Ninguna
+15,6,Plato_16,Descripci√≥n del Plato_16,16,28,2,25,Ninguna
+15,6,Plato_13,Descripci√≥n del Plato_13,13,21,3,27,Ninguna
+15,6,Plato_8,Descripci√≥n del Plato_8,21,35,3,51,Ninguna
+16,20,Plato_16,Descripci√≥n del Plato_16,16,28,1,38,Ninguna
+17,14,Plato_8,Descripci√≥n del Plato_8,21,35,1,43,Sin cebolla
+17,14,Plato_4,Descripci√≥n del Plato_4,10,18,2,58,Ninguna
+17,14,Plato_5,Descripci√≥n del Plato_5,13,22,3,57,Sin cebolla
+18,9,Plato_9,Descripci√≥n del Plato_9,17,29,1,23,Ninguna
+18,9,Plato_20,Descripci√≥n del Plato_20,25,40,2,54,Ninguna
+18,9,Plato_10,Descripci√≥n del Plato_10,15,26,3,23,Ninguna
+18,9,Plato_15,Descripci√≥n del Plato_15,19,32,2,34,Ninguna
+19,18,Plato_20,Descripci√≥n del Plato_20,25,40,2,44,Sin cebolla
+20,8,Plato_8,Descripci√≥n del Plato_8,21,35,3,50,Sin cebolla
+20,8,Plato_1,Descripci√≥n del Plato_1,15,25,2,6,Sin cebolla
+20,8,Plato_14,Descripci√≥n del Plato_14,14,23,1,14,Sin cebolla
+21,12,Plato_20,Descripci√≥n del Plato_20,25,40,3,20,Ninguna
+21,12,Plato_3,Descripci√≥n del Plato_3,12,20,2,43,Ninguna
+21,12,Plato_15,Descripci√≥n del Plato_15,19,32,2,44,Sin cebolla
+21,12,Plato_1,Descripci√≥n del Plato_1,15,25,2,45,Sin cebolla
+22,15,Plato_4,Descripci√≥n del Plato_4,10,18,1,32,Ninguna
+22,15,Plato_18,Descripci√≥n del Plato_18,20,34,3,19,Ninguna
+22,15,Plato_9,Descripci√≥n del Plato_9,17,29,2,13,Sin cebolla
+22,15,Plato_8,Descripci√≥n del Plato_8,21,35,1,59,Sin cebolla
+23,1,Plato_12,Descripci√≥n del Plato_12,11,19,3,46,Sin cebolla
+23,1,Plato_6,Descripci√≥n del Plato_6,16,27,3,17,Sin cebolla
+24,5,Plato_10,Descripci√≥n del Plato_10,15,26,3,45,Ninguna
+24,5,Plato_9,Descripci√≥n del Plato_9,17,29,1,46,Ninguna
+24,5,Plato_14,Descripci√≥n del Plato_14,14,23,2,42,Sin cebolla
+24,5,Plato_20,Descripci√≥n del Plato_20,25,40,2,47,Sin cebolla
+25,12,Plato_18,Descripci√≥n del Plato_18,20,34,1,35,Sin cebolla
+26,18,Plato_4,Descripci√≥n del Plato_4,10,18,2,13,Sin cebolla
+26,18,Plato_13,Descripci√≥n del Plato_13,13,21,2,54,Ninguna
+26,18,Plato_7,Descripci√≥n del Plato_7,14,24,2,42,Sin cebolla
+27,4,Plato_8,Descripci√≥n del Plato_8,21,35,1,17,Ninguna
+27,4,Plato_10,Descripci√≥n del Plato_10,15,26,1,38,Sin cebolla
+28,2,Plato_4,Descripci√≥n del Plato_4,10,18,2,17,Sin cebolla
+28,2,Plato_9,Descripci√≥n del Plato_9,17,29,2,39,Sin cebolla
+29,20,Plato_1,Descripci√≥n del Plato_1,15,25,3,22,Sin cebolla
+29,20,Plato_4,Descripci√≥n del Plato_4,10,18,2,18,Ninguna
+29,20,Plato_17,Descripci√≥n del Plato_17,19,31,2,31,Sin cebolla
+30,14,Plato_10,Descripci√≥n del Plato_10,15,26,2,14,Ninguna
+30,14,Plato_3,Descripci√≥n del Plato_3,12,20,3,55,Ninguna
+31,13,Plato_9,Descripci√≥n del Plato_9,17,29,1,59,Sin cebolla
+31,13,Plato_12,Descripci√≥n del Plato_12,11,19,2,46,Sin cebolla
+32,5,Plato_15,Descripci√≥n del Plato_15,19,32,2,50,Sin cebolla
+32,5,Plato_11,Descripci√≥n del Plato_11,20,33,1,20,Sin cebolla
+32,5,Plato_10,Descripci√≥n del Plato_10,15,26,3,35,Ninguna
+32,5,Plato_4,Descripci√≥n del Plato_4,10,18,2,23,Ninguna
+33,4,Plato_8,Descripci√≥n del Plato_8,21,35,3,6,Sin cebolla
+33,4,Plato_6,Descripci√≥n del Plato_6,16,27,1,59,Ninguna
+33,4,Plato_15,Descripci√≥n del Plato_15,19,32,3,55,Sin cebolla
+33,4,Plato_10,Descripci√≥n del Plato_10,15,26,3,10,Ninguna
+34,15,Plato_18,Descripci√≥n del Plato_18,20,34,1,46,Ninguna
+34,15,Plato_10,Descripci√≥n del Plato_10,15,26,3,19,Sin cebolla
+35,13,Plato_2,Descripci√≥n del Plato_2,18,30,3,5,Sin cebolla
+35,13,Plato_9,Descripci√≥n del Plato_9,17,29,1,8,Ninguna
+35,13,Plato_11,Descripci√≥n del Plato_11,20,33,1,21,Ninguna
+35,13,Plato_17,Descripci√≥n del Plato_17,19,31,2,31,Sin cebolla
+36,5,Plato_2,Descripci√≥n del Plato_2,18,30,1,38,Ninguna
+37,20,Plato_13,Descripci√≥n del Plato_13,13,21,1,47,Ninguna
+38,10,Plato_17,Descripci√≥n del Plato_17,19,31,3,21,Sin cebolla
+38,10,Plato_8,Descripci√≥n del Plato_8,21,35,2,34,Ninguna
+38,10,Plato_19,Descripci√≥n del Plato_19,22,36,2,43,Ninguna
+39,15,Plato_19,Descripci√≥n del Plato_19,22,36,3,57,Ninguna
+40,1,Plato_9,Descripci√≥n del Plato_9,17,29,3,15,Sin cebolla
+40,1,Plato_11,Descripci√≥n del Plato_11,20,33,1,50,Sin cebolla
+40,1,Plato_16,Descripci√≥n del Plato_16,16,28,1,13,Sin cebolla
+41,7,Plato_15,Descripci√≥n del Plato_15,19,32,3,23,Sin cebolla
+41,7,Plato_10,Descripci√≥n del Plato_10,15,26,3,47,Sin cebolla
+41,7,Plato_2,Descripci√≥n del Plato_2,18,30,1,19,Sin cebolla
+42,14,Plato_5,Descripci√≥n del Plato_5,13,22,1,57,Sin cebolla
+42,14,Plato_20,Descripci√≥n del Plato_20,25,40,2,12,Sin cebolla
+43,8,Plato_15,Descripci√≥n del Plato_15,19,32,1,6,Sin cebolla
+43,8,Plato_18,Descripci√≥n del Plato_18,20,34,2,59,Sin cebolla
+43,8,Plato_7,Descripci√≥n del Plato_7,14,24,3,57,Ninguna
+43,8,Plato_17,Descripci√≥n del Plato_17,19,31,1,24,Ninguna
+44,18,Plato_10,Descripci√≥n del Plato_10,15,26,1,34,Sin cebolla
+44,18,Plato_1,Descripci√≥n del Plato_1,15,25,3,8,Ninguna
+44,18,Plato_13,Descripci√≥n del Plato_13,13,21,1,43,Ninguna
+45,17,Plato_4,Descripci√≥n del Plato_4,10,18,3,47,Ninguna
+46,10,Plato_2,Descripci√≥n del Plato_2,18,30,2,23,Sin cebolla
+46,10,Plato_18,Descripci√≥n del Plato_18,20,34,1,48,Sin cebolla
+46,10,Plato_14,Descripci√≥n del Plato_14,14,23,2,15,Ninguna
+47,18,Plato_11,Descripci√≥n del Plato_11,20,33,2,56,Ninguna
+47,18,Plato_14,Descripci√≥n del Plato_14,14,23,1,17,Sin cebolla
+47,18,Plato_3,Descripci√≥n del Plato_3,12,20,1,14,Sin cebolla
+48,17,Plato_6,Descripci√≥n del Plato_6,16,27,3,37,Sin cebolla
+48,17,Plato_5,Descripci√≥n del Plato_5,13,22,2,55,Ninguna
+48,17,Plato_11,Descripci√≥n del Plato_11,20,33,1,32,Sin cebolla
+49,8,Plato_7,Descripci√≥n del Plato_7,14,24,3,9,Ninguna
+49,8,Plato_15,Descripci√≥n del Plato_15,19,32,3,27,Ninguna
+49,8,Plato_4,Descripci√≥n del Plato_4,10,18,1,45,Sin cebolla
+50,19,Plato_15,Descripci√≥n del Plato_15,19,32,1,6,Ninguna
+50,19,Plato_5,Descripci√≥n del Plato_5,13,22,2,15,Ninguna
+51,12,Plato_14,Descripci√≥n del Plato_14,14,23,2,33,Sin cebolla
+51,12,Plato_11,Descripci√≥n del Plato_11,20,33,3,56,Ninguna
+51,12,Plato_5,Descripci√≥n del Plato_5,13,22,2,53,Ninguna
+51,12,Plato_4,Descripci√≥n del Plato_4,10,18,2,22,Ninguna
+52,7,Plato_11,Descripci√≥n del Plato_11,20,33,3,13,Ninguna
+52,7,Plato_17,Descripci√≥n del Plato_17,19,31,2,17,Sin cebolla
+52,7,Plato_18,Descripci√≥n del Plato_18,20,34,3,32,Ninguna
+53,16,Plato_14,Descripci√≥n del Plato_14,14,23,3,47,Sin cebolla
+53,16,Plato_2,Descripci√≥n del Plato_2,18,30,3,39,Sin cebolla
+53,16,Plato_19,Descripci√≥n del Plato_19,22,36,3,26,Ninguna
+54,6,Plato_8,Descripci√≥n del Plato_8,21,35,3,47,Ninguna
+54,6,Plato_17,Descripci√≥n del Plato_17,19,31,1,55,Sin cebolla
+54,6,Plato_4,Descripci√≥n del Plato_4,10,18,1,55,Sin cebolla
+54,6,Plato_11,Descripci√≥n del Plato_11,20,33,1,46,Sin cebolla
+55,20,Plato_11,Descripci√≥n del Plato_11,20,33,3,27,Sin cebolla
+55,20,Plato_7,Descripci√≥n del Plato_7,14,24,1,5,Ninguna
+55,20,Plato_19,Descripci√≥n del Plato_19,22,36,1,51,Sin cebolla
+55,20,Plato_15,Descripci√≥n del Plato_15,19,32,3,13,Ninguna
+56,1,Plato_9,Descripci√≥n del Plato_9,17,29,1,38,Ninguna
+56,1,Plato_12,Descripci√≥n del Plato_12,11,19,1,40,Sin cebolla
+57,18,Plato_8,Descripci√≥n del Plato_8,21,35,1,21,Sin cebolla
+57,18,Plato_20,Descripci√≥n del Plato_20,25,40,1,30,Sin cebolla
+57,18,Plato_5,Descripci√≥n del Plato_5,13,22,1,10,Ninguna
+57,18,Plato_19,Descripci√≥n del Plato_19,22,36,2,7,Sin cebolla
+58,8,Plato_5,Descripci√≥n del Plato_5,13,22,1,17,Sin cebolla
+58,8,Plato_3,Descripci√≥n del Plato_3,12,20,3,56,Sin cebolla
+59,8,Plato_12,Descripci√≥n del Plato_12,11,19,2,13,Ninguna
+59,8,Plato_14,Descripci√≥n del Plato_14,14,23,2,9,Ninguna
+59,8,Plato_4,Descripci√≥n del Plato_4,10,18,2,13,Sin cebolla
+59,8,Plato_20,Descripci√≥n del Plato_20,25,40,1,13,Sin cebolla
+60,6,Plato_4,Descripci√≥n del Plato_4,10,18,2,23,Ninguna
+60,6,Plato_11,Descripci√≥n del Plato_11,20,33,2,20,Sin cebolla
+61,10,Plato_20,Descripci√≥n del Plato_20,25,40,2,56,Ninguna
+61,10,Plato_4,Descripci√≥n del Plato_4,10,18,1,39,Sin cebolla
+61,10,Plato_2,Descripci√≥n del Plato_2,18,30,2,13,Ninguna
+61,10,Plato_16,Descripci√≥n del Plato_16,16,28,3,51,Sin cebolla
+62,2,Plato_2,Descripci√≥n del Plato_2,18,30,2,59,Sin cebolla
+62,2,Plato_12,Descripci√≥n del Plato_12,11,19,3,46,Sin cebolla
+62,2,Plato_17,Descripci√≥n del Plato_17,19,31,1,50,Sin cebolla
+63,17,Plato_3,Descripci√≥n del Plato_3,12,20,1,10,Sin cebolla
+63,17,Plato_8,Descripci√≥n del Plato_8,21,35,1,20,Ninguna
+64,3,Plato_3,Descripci√≥n del Plato_3,12,20,3,25,Ninguna
+64,3,Plato_20,Descripci√≥n del Plato_20,25,40,3,47,Sin cebolla
+64,3,Plato_19,Descripci√≥n del Plato_19,22,36,3,10,Ninguna
+65,5,Plato_16,Descripci√≥n del Plato_16,16,28,1,32,Sin cebolla
+65,5,Plato_17,Descripci√≥n del Plato_17,19,31,1,55,Sin cebolla
+65,5,Plato_12,Descripci√≥n del Plato_12,11,19,3,51,Ninguna
+65,5,Plato_20,Descripci√≥n del Plato_20,25,40,2,17,Ninguna
+66,18,Plato_19,Descripci√≥n del Plato_19,22,36,1,29,Ninguna
+66,18,Plato_20,Descripci√≥n del Plato_20,25,40,3,30,Ninguna
+66,18,Plato_4,Descripci√≥n del Plato_4,10,18,3,55,Sin cebolla
+67,2,Plato_20,Descripci√≥n del Plato_20,25,40,1,22,Ninguna
+67,2,Plato_19,Descripci√≥n del Plato_19,22,36,3,59,Sin cebolla
+67,2,Plato_10,Descripci√≥n del Plato_10,15,26,3,15,Sin cebolla
+67,2,Plato_2,Descripci√≥n del Plato_2,18,30,1,35,Sin cebolla
+68,8,Plato_14,Descripci√≥n del Plato_14,14,23,3,43,Ninguna
+68,8,Plato_16,Descripci√≥n del Plato_16,16,28,1,19,Sin cebolla
+68,8,Plato_15,Descripci√≥n del Plato_15,19,32,3,57,Sin cebolla
+68,8,Plato_1,Descripci√≥n del Plato_1,15,25,1,26,Sin cebolla
+69,5,Plato_13,Descripci√≥n del Plato_13,13,21,3,20,Ninguna
+69,5,Plato_7,Descripci√≥n del Plato_7,14,24,3,48,Sin cebolla
+69,5,Plato_11,Descripci√≥n del Plato_11,20,33,3,24,Sin cebolla
+70,17,Plato_1,Descripci√≥n del Plato_1,15,25,2,19,Sin cebolla
+70,17,Plato_18,Descripci√≥n del Plato_18,20,34,2,21,Sin cebolla
+71,18,Plato_2,Descripci√≥n del Plato_2,18,30,3,20,Sin cebolla
+71,18,Plato_14,Descripci√≥n del Plato_14,14,23,2,29,Sin cebolla
+72,17,Plato_13,Descripci√≥n del Plato_13,13,21,1,17,Sin cebolla
+72,17,Plato_4,Descripci√≥n del Plato_4,10,18,3,37,Sin cebolla
+73,1,Plato_6,Descripci√≥n del Plato_6,16,27,3,20,Ninguna
+74,19,Plato_10,Descripci√≥n del Plato_10,15,26,2,39,Sin cebolla
+74,19,Plato_18,Descripci√≥n del Plato_18,20,34,3,37,Ninguna
+74,19,Plato_15,Descripci√≥n del Plato_15,19,32,2,24,Sin cebolla
+75,19,Plato_20,Descripci√≥n del Plato_20,25,40,1,35,Ninguna
+75,19,Plato_14,Descripci√≥n del Plato_14,14,23,3,16,Sin cebolla
+76,17,Plato_2,Descripci√≥n del Plato_2,18,30,3,13,Sin cebolla
+76,17,Plato_4,Descripci√≥n del Plato_4,10,18,1,34,Sin cebolla
+76,17,Plato_7,Descripci√≥n del Plato_7,14,24,1,20,Ninguna
+76,17,Plato_10,Descripci√≥n del Plato_10,15,26,1,30,Ninguna
+77,3,Plato_4,Descripci√≥n del Plato_4,10,18,1,34,Sin cebolla
+77,3,Plato_7,Descripci√≥n del Plato_7,14,24,2,55,Ninguna
+77,3,Plato_11,Descripci√≥n del Plato_11,20,33,1,8,Sin cebolla
+78,7,Plato_12,Descripci√≥n del Plato_12,11,19,3,54,Sin cebolla
+79,16,Plato_9,Descripci√≥n del Plato_9,17,29,3,14,Ninguna
+79,16,Plato_11,Descripci√≥n del Plato_11,20,33,3,14,Sin cebolla
+79,16,Plato_3,Descripci√≥n del Plato_3,12,20,3,25,Ninguna
+79,16,Plato_13,Descripci√≥n del Plato_13,13,21,3,43,Ninguna
+80,18,Plato_5,Descripci√≥n del Plato_5,13,22,2,5,Ninguna
+80,18,Plato_9,Descripci√≥n del Plato_9,17,29,1,34,Sin cebolla
+80,18,Plato_7,Descripci√≥n del Plato_7,14,24,2,28,Ninguna
+81,17,Plato_17,Descripci√≥n del Plato_17,19,31,2,59,Sin cebolla
+82,16,Plato_1,Descripci√≥n del Plato_1,15,25,2,11,Sin cebolla
+82,16,Plato_2,Descripci√≥n del Plato_2,18,30,1,8,Sin cebolla
+83,15,Plato_6,Descripci√≥n del Plato_6,16,27,2,14,Ninguna
+83,15,Plato_3,Descripci√≥n del Plato_3,12,20,1,30,Sin cebolla
+83,15,Plato_15,Descripci√≥n del Plato_15,19,32,3,50,Ninguna
+84,19,Plato_2,Descripci√≥n del Plato_2,18,30,2,10,Sin cebolla
+85,8,Plato_16,Descripci√≥n del Plato_16,16,28,3,26,Sin cebolla
+85,8,Plato_19,Descripci√≥n del Plato_19,22,36,2,33,Sin cebolla
+85,8,Plato_3,Descripci√≥n del Plato_3,12,20,1,54,Sin cebolla
+85,8,Plato_15,Descripci√≥n del Plato_15,19,32,1,29,Sin cebolla
+86,20,Plato_1,Descripci√≥n del Plato_1,15,25,2,8,Sin cebolla
+87,3,Plato_4,Descripci√≥n del Plato_4,10,18,2,55,Ninguna
+87,3,Plato_15,Descripci√≥n del Plato_15,19,32,1,5,Sin cebolla
+87,3,Plato_17,Descripci√≥n del Plato_17,19,31,1,11,Ninguna
+88,18,Plato_20,Descripci√≥n del Plato_20,25,40,1,12,Ninguna
+88,18,Plato_12,Descripci√≥n del Plato_12,11,19,3,46,Sin cebolla
+88,18,Plato_10,Descripci√≥n del Plato_10,15,26,1,59,Ninguna
+89,11,Plato_14,Descripci√≥n del Plato_14,14,23,3,44,Sin cebolla
+89,11,Plato_18,Descripci√≥n del Plato_18,20,34,2,58,Ninguna
+89,11,Plato_5,Descripci√≥n del Plato_5,13,22,1,40,Sin cebolla
+90,6,Plato_18,Descripci√≥n del Plato_18,20,34,1,48,Sin cebolla
+91,1,Plato_8,Descripci√≥n del Plato_8,21,35,3,21,Sin cebolla
+91,1,Plato_13,Descripci√≥n del Plato_13,13,21,3,52,Ninguna
+91,1,Plato_5,Descripci√≥n del Plato_5,13,22,2,11,Ninguna
+91,1,Plato_6,Descripci√≥n del Plato_6,16,27,3,48,Ninguna
+92,6,Plato_9,Descripci√≥n del Plato_9,17,29,2,36,Ninguna
+92,6,Plato_7,Descripci√≥n del Plato_7,14,24,1,6,Sin cebolla
+93,2,Plato_9,Descripci√≥n del Plato_9,17,29,1,18,Sin cebolla
+94,12,Plato_2,Descripci√≥n del Plato_2,18,30,3,19,Sin cebolla
+94,12,Plato_15,Descripci√≥n del Plato_15,19,32,2,56,Sin cebolla
+94,12,Plato_11,Descripci√≥n del Plato_11,20,33,3,54,Sin cebolla
+95,12,Plato_12,Descripci√≥n del Plato_12,11,19,3,19,Sin cebolla
+95,12,Plato_15,Descripci√≥n del Plato_15,19,32,3,22,Sin cebolla
+96,16,Plato_11,Descripci√≥n del Plato_11,20,33,2,47,Ninguna
+96,16,Plato_12,Descripci√≥n del Plato_12,11,19,2,10,Ninguna
+96,16,Plato_7,Descripci√≥n del Plato_7,14,24,3,19,Sin cebolla
+97,14,Plato_10,Descripci√≥n del Plato_10,15,26,1,17,Sin cebolla
+97,14,Plato_3,Descripci√≥n del Plato_3,12,20,3,5,Ninguna
+97,14,Plato_18,Descripci√≥n del Plato_18,20,34,3,57,Ninguna
+98,7,Plato_3,Descripci√≥n del Plato_3,12,20,3,56,Sin cebolla
+98,7,Plato_9,Descripci√≥n del Plato_9,17,29,3,33,Sin cebolla
+98,7,Plato_12,Descripci√≥n del Plato_12,11,19,1,51,Sin cebolla
+99,2,Plato_2,Descripci√≥n del Plato_2,18,30,2,27,Sin cebolla
+99,2,Plato_17,Descripci√≥n del Plato_17,19,31,1,5,Sin cebolla
+99,2,Plato_12,Descripci√≥n del Plato_12,11,19,1,9,Ninguna
+99,2,Plato_9,Descripci√≥n del Plato_9,17,29,1,45,Ninguna
+100,18,Plato_7,Descripci√≥n del Plato_7,14,24,3,48,Sin cebolla
+100,18,Plato_5,Descripci√≥n del Plato_5,13,22,2,33,Ninguna
+100,18,Plato_1,Descripci√≥n del Plato_1,15,25,2,22,Sin cebolla
+101,1,Plato_17,Descripci√≥n del Plato_17,19,31,1,24,Sin cebolla
+101,1,Plato_1,Descripci√≥n del Plato_1,15,25,2,41,Sin cebolla
+101,1,Plato_5,Descripci√≥n del Plato_5,13,22,1,35,Sin cebolla
+101,1,Plato_8,Descripci√≥n del Plato_8,21,35,1,34,Sin cebolla
+102,19,Plato_16,Descripci√≥n del Plato_16,16,28,3,17,Sin cebolla
+102,19,Plato_9,Descripci√≥n del Plato_9,17,29,3,29,Ninguna
+103,13,Plato_13,Descripci√≥n del Plato_13,13,21,1,57,Sin cebolla
+103,13,Plato_18,Descripci√≥n del Plato_18,20,34,1,9,Ninguna
+103,13,Plato_4,Descripci√≥n del Plato_4,10,18,1,33,Sin cebolla
+104,14,Plato_14,Descripci√≥n del Plato_14,14,23,2,43,Sin cebolla
+104,14,Plato_17,Descripci√≥n del Plato_17,19,31,1,12,Ninguna
+105,14,Plato_3,Descripci√≥n del Plato_3,12,20,3,9,Ninguna
+105,14,Plato_6,Descripci√≥n del Plato_6,16,27,3,34,Ninguna
+106,15,Plato_18,Descripci√≥n del Plato_18,20,34,2,29,Ninguna
+107,11,Plato_15,Descripci√≥n del Plato_15,19,32,2,48,Ninguna
+107,11,Plato_9,Descripci√≥n del Plato_9,17,29,3,51,Sin cebolla
+107,11,Plato_18,Descripci√≥n del Plato_18,20,34,3,42,Sin cebolla
+108,3,Plato_9,Descripci√≥n del Plato_9,17,29,2,23,Ninguna
+108,3,Plato_4,Descripci√≥n del Plato_4,10,18,1,10,Sin cebolla
+108,3,Plato_3,Descripci√≥n del Plato_3,12,20,1,26,Sin cebolla
+108,3,Plato_16,Descripci√≥n del Plato_16,16,28,1,56,Ninguna
+109,10,Plato_18,Descripci√≥n del Plato_18,20,34,3,54,Sin cebolla
+109,10,Plato_14,Descripci√≥n del Plato_14,14,23,1,26,Sin cebolla
+109,10,Plato_5,Descripci√≥n del Plato_5,13,22,2,38,Ninguna
+110,5,Plato_9,Descripci√≥n del Plato_9,17,29,2,38,Ninguna
+110,5,Plato_10,Descripci√≥n del Plato_10,15,26,3,27,Ninguna
+110,5,Plato_6,Descripci√≥n del Plato_6,16,27,1,56,Sin cebolla
+111,3,Plato_15,Descripci√≥n del Plato_15,19,32,1,47,Sin cebolla
+111,3,Plato_5,Descripci√≥n del Plato_5,13,22,3,5,Ninguna
+111,3,Plato_7,Descripci√≥n del Plato_7,14,24,2,48,Ninguna
+111,3,Plato_9,Descripci√≥n del Plato_9,17,29,2,37,Sin cebolla
+112,6,Plato_3,Descripci√≥n del Plato_3,12,20,1,16,Sin cebolla
+113,4,Plato_18,Descripci√≥n del Plato_18,20,34,2,51,Ninguna
+114,7,Plato_2,Descripci√≥n del Plato_2,18,30,3,36,Ninguna
+114,7,Plato_9,Descripci√≥n del Plato_9,17,29,3,22,Ninguna
+114,7,Plato_4,Descripci√≥n del Plato_4,10,18,3,31,Sin cebolla
+114,7,Plato_5,Descripci√≥n del Plato_5,13,22,1,42,Sin cebolla
+115,12,Plato_6,Descripci√≥n del Plato_6,16,27,3,23,Sin cebolla
+115,12,Plato_2,Descripci√≥n del Plato_2,18,30,2,32,Sin cebolla
+115,12,Plato_15,Descripci√≥n del Plato_15,19,32,3,43,Sin cebolla
+116,8,Plato_15,Descripci√≥n del Plato_15,19,32,3,54,Sin cebolla
+116,8,Plato_8,Descripci√≥n del Plato_8,21,35,1,21,Ninguna
+116,8,Plato_19,Descripci√≥n del Plato_19,22,36,1,26,Sin cebolla
+116,8,Plato_18,Descripci√≥n del Plato_18,20,34,3,28,Sin cebolla
+117,8,Plato_8,Descripci√≥n del Plato_8,21,35,2,8,Sin cebolla
+118,13,Plato_4,Descripci√≥n del Plato_4,10,18,3,39,Ninguna
+118,13,Plato_14,Descripci√≥n del Plato_14,14,23,3,22,Sin cebolla
+118,13,Plato_6,Descripci√≥n del Plato_6,16,27,2,52,Sin cebolla
+118,13,Plato_15,Descripci√≥n del Plato_15,19,32,1,23,Sin cebolla
+119,17,Plato_10,Descripci√≥n del Plato_10,15,26,1,7,Ninguna
+119,17,Plato_19,Descripci√≥n del Plato_19,22,36,2,13,Sin cebolla
+119,17,Plato_4,Descripci√≥n del Plato_4,10,18,2,34,Sin cebolla
+120,4,Plato_17,Descripci√≥n del Plato_17,19,31,3,56,Sin cebolla
+120,4,Plato_10,Descripci√≥n del Plato_10,15,26,2,41,Sin cebolla
+121,5,Plato_10,Descripci√≥n del Plato_10,15,26,2,38,Ninguna
+122,6,Plato_8,Descripci√≥n del Plato_8,21,35,3,32,Ninguna
+123,16,Plato_7,Descripci√≥n del Plato_7,14,24,1,33,Sin cebolla
+124,16,Plato_3,Descripci√≥n del Plato_3,12,20,2,43,Ninguna
+124,16,Plato_1,Descripci√≥n del Plato_1,15,25,1,27,Sin cebolla
+124,16,Plato_11,Descripci√≥n del Plato_11,20,33,3,9,Sin cebolla
+124,16,Plato_9,Descripci√≥n del Plato_9,17,29,2,59,Sin cebolla
+125,14,Plato_16,Descripci√≥n del Plato_16,16,28,2,38,Sin cebolla
+125,14,Plato_18,Descripci√≥n del Plato_18,20,34,2,15,Ninguna
+125,14,Plato_3,Descripci√≥n del Plato_3,12,20,3,31,Ninguna
+126,18,Plato_16,Descripci√≥n del Plato_16,16,28,1,19,Sin cebolla
+126,18,Plato_8,Descripci√≥n del Plato_8,21,35,1,40,Sin cebolla
+126,18,Plato_7,Descripci√≥n del Plato_7,14,24,3,27,Ninguna
+126,18,Plato_2,Descripci√≥n del Plato_2,18,30,1,53,Ninguna
+127,6,Plato_19,Descripci√≥n del Plato_19,22,36,2,30,Sin cebolla
+128,2,Plato_1,Descripci√≥n del Plato_1,15,25,3,53,Ninguna
+128,2,Plato_4,Descripci√≥n del Plato_4,10,18,3,50,Sin cebolla
+128,2,Plato_7,Descripci√≥n del Plato_7,14,24,2,35,Sin cebolla
+128,2,Plato_17,Descripci√≥n del Plato_17,19,31,2,34,Sin cebolla
+129,16,Plato_12,Descripci√≥n del Plato_12,11,19,3,6,Sin cebolla
+129,16,Plato_3,Descripci√≥n del Plato_3,12,20,1,24,Ninguna
+129,16,Plato_9,Descripci√≥n del Plato_9,17,29,1,50,Ninguna
+130,10,Plato_8,Descripci√≥n del Plato_8,21,35,1,25,Sin cebolla
+131,7,Plato_20,Descripci√≥n del Plato_20,25,40,1,43,Sin cebolla
+131,7,Plato_4,Descripci√≥n del Plato_4,10,18,3,20,Ninguna
+131,7,Plato_13,Descripci√≥n del Plato_13,13,21,3,57,Sin cebolla
+132,9,Plato_14,Descripci√≥n del Plato_14,14,23,1,6,Sin cebolla
+132,9,Plato_19,Descripci√≥n del Plato_19,22,36,1,18,Ninguna
+132,9,Plato_13,Descripci√≥n del Plato_13,13,21,2,53,Ninguna
+132,9,Plato_8,Descripci√≥n del Plato_8,21,35,3,25,Sin cebolla
+133,20,Plato_15,Descripci√≥n del Plato_15,19,32,1,5,Ninguna
+133,20,Plato_18,Descripci√≥n del Plato_18,20,34,1,45,Sin cebolla
+133,20,Plato_17,Descripci√≥n del Plato_17,19,31,2,46,Ninguna
+133,20,Plato_4,Descripci√≥n del Plato_4,10,18,3,11,Ninguna
+134,3,Plato_7,Descripci√≥n del Plato_7,14,24,1,19,Ninguna
+134,3,Plato_15,Descripci√≥n del Plato_15,19,32,3,29,Ninguna
+135,11,Plato_17,Descripci√≥n del Plato_17,19,31,3,17,Ninguna
+135,11,Plato_20,Descripci√≥n del Plato_20,25,40,2,42,Ninguna
+135,11,Plato_9,Descripci√≥n del Plato_9,17,29,3,29,Sin cebolla
+136,6,Plato_20,Descripci√≥n del Plato_20,25,40,2,13,Sin cebolla
+137,13,Plato_13,Descripci√≥n del Plato_13,13,21,3,41,Sin cebolla
+138,6,Plato_17,Descripci√≥n del Plato_17,19,31,2,40,Ninguna
+138,6,Plato_12,Descripci√≥n del Plato_12,11,19,2,6,Ninguna
+138,6,Plato_10,Descripci√≥n del Plato_10,15,26,3,7,Sin cebolla
+138,6,Plato_2,Descripci√≥n del Plato_2,18,30,2,44,Sin cebolla
+139,16,Plato_8,Descripci√≥n del Plato_8,21,35,1,26,Ninguna
+140,11,Plato_1,Descripci√≥n del Plato_1,15,25,2,35,Ninguna
+140,11,Plato_8,Descripci√≥n del Plato_8,21,35,3,35,Sin cebolla
+140,11,Plato_4,Descripci√≥n del Plato_4,10,18,2,48,Sin cebolla
+141,4,Plato_13,Descripci√≥n del Plato_13,13,21,1,28,Sin cebolla
+142,14,Plato_7,Descripci√≥n del Plato_7,14,24,3,37,Ninguna
+142,14,Plato_14,Descripci√≥n del Plato_14,14,23,3,11,Sin cebolla
+142,14,Plato_20,Descripci√≥n del Plato_20,25,40,1,22,Ninguna
+143,9,Plato_1,Descripci√≥n del Plato_1,15,25,2,16,Sin cebolla
+144,18,Plato_19,Descripci√≥n del Plato_19,22,36,1,27,Sin cebolla
+144,18,Plato_12,Descripci√≥n del Plato_12,11,19,3,51,Ninguna
+144,18,Plato_9,Descripci√≥n del Plato_9,17,29,2,38,Ninguna
+144,18,Plato_18,Descripci√≥n del Plato_18,20,34,1,34,Sin cebolla
+145,2,Plato_5,Descripci√≥n del Plato_5,13,22,3,59,Ninguna
+145,2,Plato_2,Descripci√≥n del Plato_2,18,30,2,47,Sin cebolla
+146,8,Plato_17,Descripci√≥n del Plato_17,19,31,2,47,Sin cebolla
+147,5,Plato_20,Descripci√≥n del Plato_20,25,40,1,13,Sin cebolla
+147,5,Plato_5,Descripci√≥n del Plato_5,13,22,2,20,Ninguna
+148,10,Plato_9,Descripci√≥n del Plato_9,17,29,2,31,Ninguna
+148,10,Plato_18,Descripci√≥n del Plato_18,20,34,2,57,Ninguna
+148,10,Plato_3,Descripci√≥n del Plato_3,12,20,3,46,Ninguna
+148,10,Plato_10,Descripci√≥n del Plato_10,15,26,1,25,Ninguna
+149,18,Plato_18,Descripci√≥n del Plato_18,20,34,3,28,Sin cebolla
+149,18,Plato_2,Descripci√≥n del Plato_2,18,30,1,38,Sin cebolla
+149,18,Plato_4,Descripci√≥n del Plato_4,10,18,2,25,Ninguna
+149,18,Plato_9,Descripci√≥n del Plato_9,17,29,2,48,Sin cebolla
+150,18,Plato_5,Descripci√≥n del Plato_5,13,22,2,19,Ninguna
+150,18,Plato_11,Descripci√≥n del Plato_11,20,33,2,57,Sin cebolla
+150,18,Plato_3,Descripci√≥n del Plato_3,12,20,2,30,Sin cebolla
+151,6,Plato_14,Descripci√≥n del Plato_14,14,23,3,13,Ninguna
+151,6,Plato_13,Descripci√≥n del Plato_13,13,21,3,6,Ninguna
+152,5,Plato_16,Descripci√≥n del Plato_16,16,28,2,12,Ninguna
+153,10,Plato_11,Descripci√≥n del Plato_11,20,33,3,10,Sin cebolla
+153,10,Plato_7,Descripci√≥n del Plato_7,14,24,1,53,Sin cebolla
+153,10,Plato_20,Descripci√≥n del Plato_20,25,40,2,26,Ninguna
+154,11,Plato_19,Descripci√≥n del Plato_19,22,36,3,52,Ninguna
+154,11,Plato_4,Descripci√≥n del Plato_4,10,18,2,30,Ninguna
+155,7,Plato_6,Descripci√≥n del Plato_6,16,27,2,24,Sin cebolla
+155,7,Plato_17,Descripci√≥n del Plato_17,19,31,2,43,Ninguna
+155,7,Plato_3,Descripci√≥n del Plato_3,12,20,1,33,Sin cebolla
+156,6,Plato_16,Descripci√≥n del Plato_16,16,28,2,6,Ninguna
+157,13,Plato_1,Descripci√≥n del Plato_1,15,25,3,48,Sin cebolla
+157,13,Plato_16,Descripci√≥n del Plato_16,16,28,1,54,Sin cebolla
+157,13,Plato_2,Descripci√≥n del Plato_2,18,30,2,27,Ninguna
+157,13,Plato_19,Descripci√≥n del Plato_19,22,36,3,21,Ninguna
+158,5,Plato_12,Descripci√≥n del Plato_12,11,19,1,57,Ninguna
+158,5,Plato_10,Descripci√≥n del Plato_10,15,26,3,55,Ninguna
+158,5,Plato_19,Descripci√≥n del Plato_19,22,36,3,7,Ninguna
+158,5,Plato_8,Descripci√≥n del Plato_8,21,35,3,16,Sin cebolla
+159,16,Plato_9,Descripci√≥n del Plato_9,17,29,3,23,Sin cebolla
+159,16,Plato_17,Descripci√≥n del Plato_17,19,31,1,5,Ninguna
+159,16,Plato_4,Descripci√≥n del Plato_4,10,18,2,6,Ninguna
+159,16,Plato_11,Descripci√≥n del Plato_11,20,33,3,40,Ninguna
+160,19,Plato_19,Descripci√≥n del Plato_19,22,36,3,20,Ninguna
+160,19,Plato_7,Descripci√≥n del Plato_7,14,24,2,47,Ninguna
+161,13,Plato_16,Descripci√≥n del Plato_16,16,28,3,57,Ninguna
+162,14,Plato_7,Descripci√≥n del Plato_7,14,24,3,25,Ninguna
+163,6,Plato_17,Descripci√≥n del Plato_17,19,31,3,8,Sin cebolla
+163,6,Plato_2,Descripci√≥n del Plato_2,18,30,3,16,Sin cebolla
+163,6,Plato_11,Descripci√≥n del Plato_11,20,33,2,40,Sin cebolla
+163,6,Plato_5,Descripci√≥n del Plato_5,13,22,1,7,Ninguna
+164,8,Plato_5,Descripci√≥n del Plato_5,13,22,1,43,Sin cebolla
+164,8,Plato_19,Descripci√≥n del Plato_19,22,36,1,7,Ninguna
+164,8,Plato_15,Descripci√≥n del Plato_15,19,32,2,20,Ninguna
+164,8,Plato_7,Descripci√≥n del Plato_7,14,24,2,35,Ninguna
+165,10,Plato_7,Descripci√≥n del Plato_7,14,24,2,15,Sin cebolla
+165,10,Plato_13,Descripci√≥n del Plato_13,13,21,2,41,Ninguna
+166,12,Plato_14,Descripci√≥n del Plato_14,14,23,2,22,Sin cebolla
+167,5,Plato_12,Descripci√≥n del Plato_12,11,19,1,29,Ninguna
+167,5,Plato_18,Descripci√≥n del Plato_18,20,34,3,11,Ninguna
+167,5,Plato_17,Descripci√≥n del Plato_17,19,31,1,36,Sin cebolla
+168,17,Plato_5,Descripci√≥n del Plato_5,13,22,2,7,Sin cebolla
+169,19,Plato_13,Descripci√≥n del Plato_13,13,21,2,44,Sin cebolla
+169,19,Plato_18,Descripci√≥n del Plato_18,20,34,2,59,Sin cebolla
+169,19,Plato_5,Descripci√≥n del Plato_5,13,22,2,7,Ninguna
+170,12,Plato_3,Descripci√≥n del Plato_3,12,20,3,16,Ninguna
+170,12,Plato_9,Descripci√≥n del Plato_9,17,29,3,16,Ninguna
+170,12,Plato_19,Descripci√≥n del Plato_19,22,36,1,33,Sin cebolla
+170,12,Plato_2,Descripci√≥n del Plato_2,18,30,2,8,Sin cebolla
+171,16,Plato_10,Descripci√≥n del Plato_10,15,26,2,29,Ninguna
+171,16,Plato_9,Descripci√≥n del Plato_9,17,29,3,22,Sin cebolla
+172,12,Plato_18,Descripci√≥n del Plato_18,20,34,2,27,Sin cebolla
+173,11,Plato_6,Descripci√≥n del Plato_6,16,27,3,15,Sin cebolla
+173,11,Plato_15,Descripci√≥n del Plato_15,19,32,3,52,Sin cebolla
+174,10,Plato_2,Descripci√≥n del Plato_2,18,30,2,12,Sin cebolla
+175,14,Plato_15,Descripci√≥n del Plato_15,19,32,3,9,Sin cebolla
+175,14,Plato_7,Descripci√≥n del Plato_7,14,24,2,38,Ninguna
+176,20,Plato_13,Descripci√≥n del Plato_13,13,21,3,48,Sin cebolla
+177,4,Plato_7,Descripci√≥n del Plato_7,14,24,2,10,Sin cebolla
+177,4,Plato_10,Descripci√≥n del Plato_10,15,26,1,40,Ninguna
+177,4,Plato_13,Descripci√≥n del Plato_13,13,21,2,45,Sin cebolla
+177,4,Plato_12,Descripci√≥n del Plato_12,11,19,3,47,Ninguna
+178,11,Plato_2,Descripci√≥n del Plato_2,18,30,1,55,Sin cebolla
+178,11,Plato_8,Descripci√≥n del Plato_8,21,35,1,16,Sin cebolla
+178,11,Plato_5,Descripci√≥n del Plato_5,13,22,2,20,Ninguna
+178,11,Plato_11,Descripci√≥n del Plato_11,20,33,3,55,Ninguna
+179,12,Plato_17,Descripci√≥n del Plato_17,19,31,2,26,Ninguna
+180,10,Plato_9,Descripci√≥n del Plato_9,17,29,1,35,Sin cebolla
+180,10,Plato_2,Descripci√≥n del Plato_2,18,30,3,20,Sin cebolla
+180,10,Plato_3,Descripci√≥n del Plato_3,12,20,1,50,Ninguna
+180,10,Plato_6,Descripci√≥n del Plato_6,16,27,1,56,Ninguna
+181,15,Plato_6,Descripci√≥n del Plato_6,16,27,1,55,Sin cebolla
+182,18,Plato_12,Descripci√≥n del Plato_12,11,19,2,11,Sin cebolla
+183,18,Plato_15,Descripci√≥n del Plato_15,19,32,2,52,Ninguna
+183,18,Plato_10,Descripci√≥n del Plato_10,15,26,1,10,Ninguna
+183,18,Plato_3,Descripci√≥n del Plato_3,12,20,3,58,Ninguna
+183,18,Plato_8,Descripci√≥n del Plato_8,21,35,3,46,Ninguna
+184,4,Plato_16,Descripci√≥n del Plato_16,16,28,3,6,Sin cebolla
+184,4,Plato_6,Descripci√≥n del Plato_6,16,27,3,10,Ninguna
+184,4,Plato_3,Descripci√≥n del Plato_3,12,20,2,13,Sin cebolla
+185,16,Plato_13,Descripci√≥n del Plato_13,13,21,3,34,Ninguna
+185,16,Plato_16,Descripci√≥n del Plato_16,16,28,1,6,Sin cebolla
+186,13,Plato_6,Descripci√≥n del Plato_6,16,27,3,16,Ninguna
+186,13,Plato_15,Descripci√≥n del Plato_15,19,32,3,23,Sin cebolla
+186,13,Plato_17,Descripci√≥n del Plato_17,19,31,3,54,Ninguna
+187,5,Plato_18,Descripci√≥n del Plato_18,20,34,2,28,Sin cebolla
+187,5,Plato_10,Descripci√≥n del Plato_10,15,26,1,51,Ninguna
+187,5,Plato_9,Descripci√≥n del Plato_9,17,29,3,11,Ninguna
+187,5,Plato_6,Descripci√≥n del Plato_6,16,27,1,36,Sin cebolla
+188,20,Plato_17,Descripci√≥n del Plato_17,19,31,1,58,Ninguna
+188,20,Plato_10,Descripci√≥n del Plato_10,15,26,2,47,Ninguna
+189,11,Plato_18,Descripci√≥n del Plato_18,20,34,2,42,Sin cebolla
+189,11,Plato_10,Descripci√≥n del Plato_10,15,26,2,22,Sin cebolla
+189,11,Plato_7,Descripci√≥n del Plato_7,14,24,3,53,Sin cebolla
+190,5,Plato_4,Descripci√≥n del Plato_4,10,18,1,39,Ninguna
+190,5,Plato_20,Descripci√≥n del Plato_20,25,40,2,45,Ninguna
+190,5,Plato_8,Descripci√≥n del Plato_8,21,35,1,11,Sin cebolla
+190,5,Plato_14,Descripci√≥n del Plato_14,14,23,3,7,Sin cebolla
+191,12,Plato_1,Descripci√≥n del Plato_1,15,25,3,32,Sin cebolla
+191,12,Plato_9,Descripci√≥n del Plato_9,17,29,3,55,Ninguna
+192,17,Plato_1,Descripci√≥n del Plato_1,15,25,3,26,Ninguna
+193,3,Plato_10,Descripci√≥n del Plato_10,15,26,2,57,Sin cebolla
+193,3,Plato_19,Descripci√≥n del Plato_19,22,36,2,59,Ninguna
+193,3,Plato_6,Descripci√≥n del Plato_6,16,27,1,31,Sin cebolla
+193,3,Plato_14,Descripci√≥n del Plato_14,14,23,3,24,Ninguna
+194,3,Plato_11,Descripci√≥n del Plato_11,20,33,2,18,Ninguna
+194,3,Plato_2,Descripci√≥n del Plato_2,18,30,1,50,Ninguna
+195,2,Plato_1,Descripci√≥n del Plato_1,15,25,2,51,Ninguna
+196,4,Plato_3,Descripci√≥n del Plato_3,12,20,3,34,Sin cebolla
+196,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,51,Ninguna
+196,4,Plato_9,Descripci√≥n del Plato_9,17,29,1,47,Sin cebolla
+196,4,Plato_16,Descripci√≥n del Plato_16,16,28,2,44,Sin cebolla
+197,5,Plato_18,Descripci√≥n del Plato_18,20,34,3,22,Ninguna
+197,5,Plato_6,Descripci√≥n del Plato_6,16,27,1,50,Ninguna
+198,9,Plato_6,Descripci√≥n del Plato_6,16,27,2,33,Ninguna
+199,11,Plato_9,Descripci√≥n del Plato_9,17,29,3,31,Ninguna
+199,11,Plato_8,Descripci√≥n del Plato_8,21,35,3,41,Sin cebolla
+199,11,Plato_13,Descripci√≥n del Plato_13,13,21,2,18,Sin cebolla
+199,11,Plato_6,Descripci√≥n del Plato_6,16,27,1,52,Sin cebolla
+200,11,Plato_12,Descripci√≥n del Plato_12,11,19,2,39,Ninguna
+200,11,Plato_1,Descripci√≥n del Plato_1,15,25,2,28,Sin cebolla
+201,3,Plato_7,Descripci√≥n del Plato_7,14,24,3,58,Sin cebolla
+202,16,Plato_19,Descripci√≥n del Plato_19,22,36,2,46,Sin cebolla
+202,16,Plato_20,Descripci√≥n del Plato_20,25,40,2,47,Ninguna
+202,16,Plato_7,Descripci√≥n del Plato_7,14,24,1,5,Ninguna
+202,16,Plato_2,Descripci√≥n del Plato_2,18,30,1,58,Ninguna
+203,5,Plato_17,Descripci√≥n del Plato_17,19,31,3,51,Ninguna
+203,5,Plato_13,Descripci√≥n del Plato_13,13,21,3,34,Sin cebolla
+204,16,Plato_7,Descripci√≥n del Plato_7,14,24,2,21,Ninguna
+205,14,Plato_15,Descripci√≥n del Plato_15,19,32,1,34,Ninguna
+205,14,Plato_9,Descripci√≥n del Plato_9,17,29,1,52,Sin cebolla
+206,4,Plato_2,Descripci√≥n del Plato_2,18,30,1,58,Sin cebolla
+207,20,Plato_10,Descripci√≥n del Plato_10,15,26,2,37,Ninguna
+207,20,Plato_8,Descripci√≥n del Plato_8,21,35,1,55,Sin cebolla
+207,20,Plato_17,Descripci√≥n del Plato_17,19,31,3,19,Sin cebolla
+208,16,Plato_15,Descripci√≥n del Plato_15,19,32,1,18,Sin cebolla
+208,16,Plato_19,Descripci√≥n del Plato_19,22,36,3,29,Sin cebolla
+208,16,Plato_3,Descripci√≥n del Plato_3,12,20,2,53,Ninguna
+209,9,Plato_14,Descripci√≥n del Plato_14,14,23,3,35,Sin cebolla
+209,9,Plato_18,Descripci√≥n del Plato_18,20,34,2,40,Sin cebolla
+209,9,Plato_1,Descripci√≥n del Plato_1,15,25,1,42,Ninguna
+209,9,Plato_10,Descripci√≥n del Plato_10,15,26,2,54,Ninguna
+210,10,Plato_13,Descripci√≥n del Plato_13,13,21,1,28,Sin cebolla
+210,10,Plato_2,Descripci√≥n del Plato_2,18,30,1,50,Ninguna
+210,10,Plato_7,Descripci√≥n del Plato_7,14,24,1,34,Ninguna
+210,10,Plato_20,Descripci√≥n del Plato_20,25,40,3,46,Ninguna
+211,1,Plato_13,Descripci√≥n del Plato_13,13,21,3,54,Sin cebolla
+211,1,Plato_4,Descripci√≥n del Plato_4,10,18,2,45,Ninguna
+211,1,Plato_1,Descripci√≥n del Plato_1,15,25,2,9,Ninguna
+211,1,Plato_3,Descripci√≥n del Plato_3,12,20,1,27,Ninguna
+212,14,Plato_2,Descripci√≥n del Plato_2,18,30,3,35,Sin cebolla
+212,14,Plato_10,Descripci√≥n del Plato_10,15,26,3,43,Sin cebolla
+212,14,Plato_13,Descripci√≥n del Plato_13,13,21,1,31,Sin cebolla
+212,14,Plato_16,Descripci√≥n del Plato_16,16,28,2,55,Sin cebolla
+213,13,Plato_6,Descripci√≥n del Plato_6,16,27,1,53,Ninguna
+213,13,Plato_2,Descripci√≥n del Plato_2,18,30,2,47,Sin cebolla
+214,2,Plato_18,Descripci√≥n del Plato_18,20,34,2,14,Ninguna
+214,2,Plato_20,Descripci√≥n del Plato_20,25,40,3,12,Sin cebolla
+214,2,Plato_3,Descripci√≥n del Plato_3,12,20,2,12,Sin cebolla
+215,6,Plato_18,Descripci√≥n del Plato_18,20,34,2,12,Ninguna
+215,6,Plato_2,Descripci√≥n del Plato_2,18,30,3,34,Ninguna
+216,17,Plato_1,Descripci√≥n del Plato_1,15,25,1,42,Ninguna
+216,17,Plato_13,Descripci√≥n del Plato_13,13,21,3,36,Ninguna
+216,17,Plato_6,Descripci√≥n del Plato_6,16,27,2,42,Ninguna
+217,1,Plato_15,Descripci√≥n del Plato_15,19,32,3,13,Sin cebolla
+218,13,Plato_12,Descripci√≥n del Plato_12,11,19,3,24,Sin cebolla
+218,13,Plato_6,Descripci√≥n del Plato_6,16,27,3,16,Ninguna
+218,13,Plato_14,Descripci√≥n del Plato_14,14,23,2,6,Ninguna
+219,1,Plato_14,Descripci√≥n del Plato_14,14,23,2,12,Ninguna
+219,1,Plato_17,Descripci√≥n del Plato_17,19,31,3,11,Sin cebolla
+220,15,Plato_7,Descripci√≥n del Plato_7,14,24,1,13,Ninguna
+221,16,Plato_15,Descripci√≥n del Plato_15,19,32,3,29,Ninguna
+221,16,Plato_18,Descripci√≥n del Plato_18,20,34,2,54,Sin cebolla
+221,16,Plato_9,Descripci√≥n del Plato_9,17,29,1,25,Ninguna
+222,3,Plato_14,Descripci√≥n del Plato_14,14,23,3,29,Ninguna
+222,3,Plato_16,Descripci√≥n del Plato_16,16,28,1,56,Ninguna
+223,19,Plato_15,Descripci√≥n del Plato_15,19,32,1,53,Ninguna
+224,7,Plato_10,Descripci√≥n del Plato_10,15,26,2,20,Ninguna
+225,19,Plato_11,Descripci√≥n del Plato_11,20,33,3,56,Sin cebolla
+225,19,Plato_14,Descripci√≥n del Plato_14,14,23,3,38,Sin cebolla
+226,7,Plato_3,Descripci√≥n del Plato_3,12,20,2,7,Ninguna
+226,7,Plato_13,Descripci√≥n del Plato_13,13,21,1,29,Sin cebolla
+226,7,Plato_6,Descripci√≥n del Plato_6,16,27,3,56,Ninguna
+226,7,Plato_9,Descripci√≥n del Plato_9,17,29,1,54,Sin cebolla
+227,17,Plato_7,Descripci√≥n del Plato_7,14,24,1,58,Ninguna
+227,17,Plato_17,Descripci√≥n del Plato_17,19,31,3,15,Sin cebolla
+227,17,Plato_16,Descripci√≥n del Plato_16,16,28,1,13,Ninguna
+227,17,Plato_11,Descripci√≥n del Plato_11,20,33,2,33,Ninguna
+228,16,Plato_14,Descripci√≥n del Plato_14,14,23,3,35,Ninguna
+229,14,Plato_1,Descripci√≥n del Plato_1,15,25,1,28,Sin cebolla
+229,14,Plato_8,Descripci√≥n del Plato_8,21,35,1,43,Ninguna
+229,14,Plato_19,Descripci√≥n del Plato_19,22,36,1,19,Sin cebolla
+229,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,27,Sin cebolla
+230,5,Plato_15,Descripci√≥n del Plato_15,19,32,3,10,Sin cebolla
+230,5,Plato_16,Descripci√≥n del Plato_16,16,28,2,24,Sin cebolla
+230,5,Plato_17,Descripci√≥n del Plato_17,19,31,2,57,Sin cebolla
+231,8,Plato_13,Descripci√≥n del Plato_13,13,21,2,29,Sin cebolla
+231,8,Plato_18,Descripci√≥n del Plato_18,20,34,3,17,Sin cebolla
+231,8,Plato_17,Descripci√≥n del Plato_17,19,31,1,53,Sin cebolla
+231,8,Plato_11,Descripci√≥n del Plato_11,20,33,1,51,Ninguna
+232,2,Plato_7,Descripci√≥n del Plato_7,14,24,1,50,Sin cebolla
+232,2,Plato_6,Descripci√≥n del Plato_6,16,27,2,30,Sin cebolla
+232,2,Plato_2,Descripci√≥n del Plato_2,18,30,2,40,Sin cebolla
+232,2,Plato_10,Descripci√≥n del Plato_10,15,26,2,19,Ninguna
+233,8,Plato_12,Descripci√≥n del Plato_12,11,19,2,31,Sin cebolla
+234,17,Plato_2,Descripci√≥n del Plato_2,18,30,2,41,Sin cebolla
+234,17,Plato_7,Descripci√≥n del Plato_7,14,24,3,35,Ninguna
+234,17,Plato_17,Descripci√≥n del Plato_17,19,31,3,23,Sin cebolla
+235,13,Plato_11,Descripci√≥n del Plato_11,20,33,1,25,Ninguna
+236,12,Plato_11,Descripci√≥n del Plato_11,20,33,3,21,Ninguna
+236,12,Plato_5,Descripci√≥n del Plato_5,13,22,1,7,Ninguna
+236,12,Plato_8,Descripci√≥n del Plato_8,21,35,2,43,Sin cebolla
+236,12,Plato_15,Descripci√≥n del Plato_15,19,32,2,30,Ninguna
+237,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,12,Ninguna
+237,4,Plato_2,Descripci√≥n del Plato_2,18,30,2,25,Sin cebolla
+238,13,Plato_19,Descripci√≥n del Plato_19,22,36,2,45,Sin cebolla
+239,12,Plato_10,Descripci√≥n del Plato_10,15,26,1,36,Ninguna
+239,12,Plato_7,Descripci√≥n del Plato_7,14,24,2,37,Ninguna
+240,9,Plato_17,Descripci√≥n del Plato_17,19,31,3,32,Sin cebolla
+240,9,Plato_14,Descripci√≥n del Plato_14,14,23,3,32,Sin cebolla
+240,9,Plato_4,Descripci√≥n del Plato_4,10,18,2,46,Ninguna
+240,9,Plato_15,Descripci√≥n del Plato_15,19,32,3,19,Ninguna
+241,12,Plato_4,Descripci√≥n del Plato_4,10,18,1,11,Sin cebolla
+242,12,Plato_10,Descripci√≥n del Plato_10,15,26,1,54,Ninguna
+242,12,Plato_1,Descripci√≥n del Plato_1,15,25,3,40,Sin cebolla
+242,12,Plato_11,Descripci√≥n del Plato_11,20,33,1,5,Ninguna
+243,4,Plato_20,Descripci√≥n del Plato_20,25,40,3,22,Sin cebolla
+244,17,Plato_20,Descripci√≥n del Plato_20,25,40,3,30,Ninguna
+244,17,Plato_12,Descripci√≥n del Plato_12,11,19,2,59,Ninguna
+245,11,Plato_4,Descripci√≥n del Plato_4,10,18,3,45,Sin cebolla
+245,11,Plato_17,Descripci√≥n del Plato_17,19,31,1,23,Ninguna
+245,11,Plato_20,Descripci√≥n del Plato_20,25,40,2,23,Ninguna
+245,11,Plato_19,Descripci√≥n del Plato_19,22,36,3,25,Sin cebolla
+246,2,Plato_6,Descripci√≥n del Plato_6,16,27,3,36,Sin cebolla
+246,2,Plato_7,Descripci√≥n del Plato_7,14,24,2,10,Ninguna
+246,2,Plato_8,Descripci√≥n del Plato_8,21,35,3,48,Ninguna
+246,2,Plato_17,Descripci√≥n del Plato_17,19,31,3,52,Ninguna
+247,11,Plato_11,Descripci√≥n del Plato_11,20,33,2,59,Sin cebolla
+248,12,Plato_18,Descripci√≥n del Plato_18,20,34,1,32,Sin cebolla
+248,12,Plato_9,Descripci√≥n del Plato_9,17,29,3,51,Sin cebolla
+248,12,Plato_6,Descripci√≥n del Plato_6,16,27,2,6,Sin cebolla
+248,12,Plato_1,Descripci√≥n del Plato_1,15,25,2,31,Ninguna
+249,8,Plato_5,Descripci√≥n del Plato_5,13,22,2,51,Sin cebolla
+249,8,Plato_4,Descripci√≥n del Plato_4,10,18,2,58,Ninguna
+250,8,Plato_3,Descripci√≥n del Plato_3,12,20,1,29,Sin cebolla
+251,12,Plato_10,Descripci√≥n del Plato_10,15,26,1,25,Sin cebolla
+251,12,Plato_5,Descripci√≥n del Plato_5,13,22,1,34,Ninguna
+251,12,Plato_14,Descripci√≥n del Plato_14,14,23,1,23,Sin cebolla
+251,12,Plato_12,Descripci√≥n del Plato_12,11,19,2,40,Sin cebolla
+252,4,Plato_1,Descripci√≥n del Plato_1,15,25,2,53,Sin cebolla
+252,4,Plato_10,Descripci√≥n del Plato_10,15,26,2,31,Ninguna
+253,8,Plato_1,Descripci√≥n del Plato_1,15,25,1,18,Ninguna
+253,8,Plato_13,Descripci√≥n del Plato_13,13,21,2,8,Ninguna
+253,8,Plato_9,Descripci√≥n del Plato_9,17,29,3,29,Sin cebolla
+254,10,Plato_17,Descripci√≥n del Plato_17,19,31,3,33,Ninguna
+254,10,Plato_10,Descripci√≥n del Plato_10,15,26,2,10,Sin cebolla
+254,10,Plato_18,Descripci√≥n del Plato_18,20,34,2,56,Ninguna
+254,10,Plato_16,Descripci√≥n del Plato_16,16,28,3,42,Sin cebolla
+255,8,Plato_1,Descripci√≥n del Plato_1,15,25,1,37,Ninguna
+256,5,Plato_13,Descripci√≥n del Plato_13,13,21,1,16,Ninguna
+257,12,Plato_14,Descripci√≥n del Plato_14,14,23,2,28,Sin cebolla
+258,12,Plato_1,Descripci√≥n del Plato_1,15,25,1,59,Ninguna
+258,12,Plato_3,Descripci√≥n del Plato_3,12,20,1,31,Ninguna
+258,12,Plato_15,Descripci√≥n del Plato_15,19,32,1,5,Ninguna
+258,12,Plato_20,Descripci√≥n del Plato_20,25,40,1,10,Ninguna
+259,10,Plato_6,Descripci√≥n del Plato_6,16,27,3,11,Sin cebolla
+260,20,Plato_14,Descripci√≥n del Plato_14,14,23,3,49,Sin cebolla
+261,8,Plato_15,Descripci√≥n del Plato_15,19,32,3,19,Sin cebolla
+261,8,Plato_9,Descripci√≥n del Plato_9,17,29,2,36,Sin cebolla
+262,18,Plato_5,Descripci√≥n del Plato_5,13,22,1,28,Sin cebolla
+262,18,Plato_17,Descripci√≥n del Plato_17,19,31,3,20,Sin cebolla
+263,5,Plato_15,Descripci√≥n del Plato_15,19,32,1,37,Sin cebolla
+263,5,Plato_8,Descripci√≥n del Plato_8,21,35,1,30,Sin cebolla
+263,5,Plato_2,Descripci√≥n del Plato_2,18,30,1,42,Ninguna
+263,5,Plato_7,Descripci√≥n del Plato_7,14,24,1,40,Sin cebolla
+264,2,Plato_8,Descripci√≥n del Plato_8,21,35,2,39,Sin cebolla
+264,2,Plato_15,Descripci√≥n del Plato_15,19,32,1,27,Sin cebolla
+264,2,Plato_2,Descripci√≥n del Plato_2,18,30,1,37,Ninguna
+264,2,Plato_1,Descripci√≥n del Plato_1,15,25,2,14,Ninguna
+265,6,Plato_14,Descripci√≥n del Plato_14,14,23,1,12,Ninguna
+265,6,Plato_17,Descripci√≥n del Plato_17,19,31,1,17,Sin cebolla
+265,6,Plato_6,Descripci√≥n del Plato_6,16,27,1,56,Ninguna
+265,6,Plato_2,Descripci√≥n del Plato_2,18,30,3,50,Sin cebolla
+266,4,Plato_7,Descripci√≥n del Plato_7,14,24,1,53,Ninguna
+266,4,Plato_1,Descripci√≥n del Plato_1,15,25,3,53,Ninguna
+267,7,Plato_15,Descripci√≥n del Plato_15,19,32,1,45,Sin cebolla
+267,7,Plato_16,Descripci√≥n del Plato_16,16,28,2,23,Ninguna
+267,7,Plato_2,Descripci√≥n del Plato_2,18,30,1,28,Sin cebolla
+268,14,Plato_7,Descripci√≥n del Plato_7,14,24,1,39,Sin cebolla
+268,14,Plato_5,Descripci√≥n del Plato_5,13,22,2,44,Sin cebolla
+269,11,Plato_19,Descripci√≥n del Plato_19,22,36,3,13,Ninguna
+269,11,Plato_20,Descripci√≥n del Plato_20,25,40,1,58,Sin cebolla
+269,11,Plato_18,Descripci√≥n del Plato_18,20,34,3,30,Sin cebolla
+270,10,Plato_18,Descripci√≥n del Plato_18,20,34,3,26,Ninguna
+271,3,Plato_5,Descripci√≥n del Plato_5,13,22,2,55,Sin cebolla
+272,7,Plato_7,Descripci√≥n del Plato_7,14,24,2,36,Ninguna
+272,7,Plato_8,Descripci√≥n del Plato_8,21,35,1,47,Sin cebolla
+273,20,Plato_15,Descripci√≥n del Plato_15,19,32,1,22,Sin cebolla
+273,20,Plato_5,Descripci√≥n del Plato_5,13,22,3,40,Ninguna
+273,20,Plato_1,Descripci√≥n del Plato_1,15,25,1,5,Sin cebolla
+274,7,Plato_10,Descripci√≥n del Plato_10,15,26,3,33,Ninguna
+274,7,Plato_12,Descripci√≥n del Plato_12,11,19,2,42,Sin cebolla
+275,5,Plato_11,Descripci√≥n del Plato_11,20,33,1,32,Sin cebolla
+275,5,Plato_17,Descripci√≥n del Plato_17,19,31,2,32,Ninguna
+275,5,Plato_10,Descripci√≥n del Plato_10,15,26,1,58,Ninguna
+276,15,Plato_5,Descripci√≥n del Plato_5,13,22,2,49,Ninguna
+276,15,Plato_10,Descripci√≥n del Plato_10,15,26,1,36,Sin cebolla
+277,4,Plato_17,Descripci√≥n del Plato_17,19,31,3,29,Ninguna
+278,5,Plato_17,Descripci√≥n del Plato_17,19,31,3,33,Ninguna
+278,5,Plato_7,Descripci√≥n del Plato_7,14,24,2,28,Sin cebolla
+279,11,Plato_20,Descripci√≥n del Plato_20,25,40,3,48,Sin cebolla
+279,11,Plato_8,Descripci√≥n del Plato_8,21,35,1,28,Ninguna
+279,11,Plato_4,Descripci√≥n del Plato_4,10,18,1,58,Ninguna
+279,11,Plato_16,Descripci√≥n del Plato_16,16,28,1,8,Ninguna
+280,14,Plato_7,Descripci√≥n del Plato_7,14,24,2,52,Ninguna
+280,14,Plato_14,Descripci√≥n del Plato_14,14,23,3,34,Ninguna
+281,18,Plato_11,Descripci√≥n del Plato_11,20,33,2,9,Sin cebolla
+282,6,Plato_4,Descripci√≥n del Plato_4,10,18,3,57,Sin cebolla
+282,6,Plato_3,Descripci√≥n del Plato_3,12,20,1,57,Sin cebolla
+283,19,Plato_10,Descripci√≥n del Plato_10,15,26,3,6,Ninguna
+284,11,Plato_3,Descripci√≥n del Plato_3,12,20,3,45,Ninguna
+284,11,Plato_6,Descripci√≥n del Plato_6,16,27,1,59,Ninguna
+284,11,Plato_12,Descripci√≥n del Plato_12,11,19,2,41,Ninguna
+284,11,Plato_11,Descripci√≥n del Plato_11,20,33,1,50,Sin cebolla
+285,18,Plato_13,Descripci√≥n del Plato_13,13,21,2,12,Sin cebolla
+286,15,Plato_18,Descripci√≥n del Plato_18,20,34,2,25,Ninguna
+287,20,Plato_15,Descripci√≥n del Plato_15,19,32,3,46,Ninguna
+287,20,Plato_14,Descripci√≥n del Plato_14,14,23,2,58,Ninguna
+287,20,Plato_2,Descripci√≥n del Plato_2,18,30,2,17,Sin cebolla
+288,15,Plato_7,Descripci√≥n del Plato_7,14,24,2,6,Sin cebolla
+288,15,Plato_12,Descripci√≥n del Plato_12,11,19,2,32,Ninguna
+289,15,Plato_3,Descripci√≥n del Plato_3,12,20,3,20,Ninguna
+289,15,Plato_10,Descripci√≥n del Plato_10,15,26,3,48,Sin cebolla
+290,19,Plato_20,Descripci√≥n del Plato_20,25,40,1,57,Ninguna
+291,2,Plato_18,Descripci√≥n del Plato_18,20,34,2,28,Sin cebolla
+291,2,Plato_1,Descripci√≥n del Plato_1,15,25,1,41,Ninguna
+291,2,Plato_8,Descripci√≥n del Plato_8,21,35,3,12,Sin cebolla
+291,2,Plato_17,Descripci√≥n del Plato_17,19,31,2,14,Ninguna
+292,10,Plato_16,Descripci√≥n del Plato_16,16,28,3,23,Sin cebolla
+293,16,Plato_16,Descripci√≥n del Plato_16,16,28,3,44,Ninguna
+293,16,Plato_2,Descripci√≥n del Plato_2,18,30,2,29,Ninguna
+293,16,Plato_19,Descripci√≥n del Plato_19,22,36,2,47,Ninguna
+294,17,Plato_17,Descripci√≥n del Plato_17,19,31,2,31,Sin cebolla
+294,17,Plato_19,Descripci√≥n del Plato_19,22,36,3,13,Ninguna
+294,17,Plato_4,Descripci√≥n del Plato_4,10,18,3,33,Ninguna
+294,17,Plato_18,Descripci√≥n del Plato_18,20,34,3,9,Sin cebolla
+295,3,Plato_15,Descripci√≥n del Plato_15,19,32,1,44,Sin cebolla
+295,3,Plato_2,Descripci√≥n del Plato_2,18,30,3,35,Ninguna
+295,3,Plato_17,Descripci√≥n del Plato_17,19,31,2,39,Sin cebolla
+295,3,Plato_13,Descripci√≥n del Plato_13,13,21,3,59,Ninguna
+296,14,Plato_14,Descripci√≥n del Plato_14,14,23,1,20,Ninguna
+296,14,Plato_19,Descripci√≥n del Plato_19,22,36,1,26,Sin cebolla
+297,4,Plato_9,Descripci√≥n del Plato_9,17,29,2,59,Sin cebolla
+297,4,Plato_4,Descripci√≥n del Plato_4,10,18,3,13,Sin cebolla
+297,4,Plato_13,Descripci√≥n del Plato_13,13,21,3,40,Sin cebolla
+298,11,Plato_6,Descripci√≥n del Plato_6,16,27,3,46,Ninguna
+298,11,Plato_19,Descripci√≥n del Plato_19,22,36,3,49,Ninguna
+298,11,Plato_5,Descripci√≥n del Plato_5,13,22,3,46,Sin cebolla
+299,6,Plato_3,Descripci√≥n del Plato_3,12,20,1,17,Ninguna
+299,6,Plato_19,Descripci√≥n del Plato_19,22,36,2,55,Ninguna
+299,6,Plato_7,Descripci√≥n del Plato_7,14,24,3,15,Sin cebolla
+299,6,Plato_4,Descripci√≥n del Plato_4,10,18,1,26,Ninguna
+300,18,Plato_20,Descripci√≥n del Plato_20,25,40,3,54,Sin cebolla
+300,18,Plato_4,Descripci√≥n del Plato_4,10,18,3,14,Ninguna
+300,18,Plato_10,Descripci√≥n del Plato_10,15,26,1,22,Sin cebolla
+300,18,Plato_2,Descripci√≥n del Plato_2,18,30,3,28,Ninguna
+301,8,Plato_17,Descripci√≥n del Plato_17,19,31,3,23,Sin cebolla
+301,8,Plato_10,Descripci√≥n del Plato_10,15,26,2,57,Sin cebolla
+301,8,Plato_9,Descripci√≥n del Plato_9,17,29,2,49,Ninguna
+301,8,Plato_3,Descripci√≥n del Plato_3,12,20,1,54,Ninguna
+302,5,Plato_15,Descripci√≥n del Plato_15,19,32,3,15,Ninguna
+303,14,Plato_3,Descripci√≥n del Plato_3,12,20,2,13,Ninguna
+303,14,Plato_20,Descripci√≥n del Plato_20,25,40,3,16,Ninguna
+303,14,Plato_10,Descripci√≥n del Plato_10,15,26,1,56,Sin cebolla
+303,14,Plato_7,Descripci√≥n del Plato_7,14,24,1,7,Ninguna
+304,6,Plato_15,Descripci√≥n del Plato_15,19,32,2,9,Ninguna
+304,6,Plato_13,Descripci√≥n del Plato_13,13,21,2,7,Sin cebolla
+304,6,Plato_20,Descripci√≥n del Plato_20,25,40,2,48,Ninguna
+304,6,Plato_17,Descripci√≥n del Plato_17,19,31,3,21,Ninguna
+305,1,Plato_8,Descripci√≥n del Plato_8,21,35,3,17,Ninguna
+305,1,Plato_14,Descripci√≥n del Plato_14,14,23,1,48,Ninguna
+306,7,Plato_15,Descripci√≥n del Plato_15,19,32,1,21,Sin cebolla
+307,20,Plato_13,Descripci√≥n del Plato_13,13,21,3,39,Sin cebolla
+308,14,Plato_18,Descripci√≥n del Plato_18,20,34,1,44,Sin cebolla
+308,14,Plato_8,Descripci√≥n del Plato_8,21,35,2,41,Ninguna
+308,14,Plato_17,Descripci√≥n del Plato_17,19,31,2,42,Ninguna
+308,14,Plato_16,Descripci√≥n del Plato_16,16,28,2,59,Ninguna
+309,9,Plato_20,Descripci√≥n del Plato_20,25,40,1,29,Ninguna
+309,9,Plato_17,Descripci√≥n del Plato_17,19,31,2,43,Sin cebolla
+309,9,Plato_8,Descripci√≥n del Plato_8,21,35,2,51,Sin cebolla
+310,17,Plato_10,Descripci√≥n del Plato_10,15,26,3,43,Ninguna
+310,17,Plato_2,Descripci√≥n del Plato_2,18,30,2,54,Sin cebolla
+311,6,Plato_7,Descripci√≥n del Plato_7,14,24,1,46,Sin cebolla
+311,6,Plato_9,Descripci√≥n del Plato_9,17,29,1,28,Sin cebolla
+312,2,Plato_15,Descripci√≥n del Plato_15,19,32,2,45,Sin cebolla
+312,2,Plato_8,Descripci√≥n del Plato_8,21,35,2,10,Sin cebolla
+313,10,Plato_12,Descripci√≥n del Plato_12,11,19,2,27,Sin cebolla
+313,10,Plato_17,Descripci√≥n del Plato_17,19,31,2,38,Ninguna
+313,10,Plato_19,Descripci√≥n del Plato_19,22,36,3,26,Ninguna
+313,10,Plato_7,Descripci√≥n del Plato_7,14,24,1,15,Sin cebolla
+314,20,Plato_6,Descripci√≥n del Plato_6,16,27,1,5,Ninguna
+315,14,Plato_1,Descripci√≥n del Plato_1,15,25,1,16,Sin cebolla
+315,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,7,Sin cebolla
+315,14,Plato_9,Descripci√≥n del Plato_9,17,29,3,52,Sin cebolla
+315,14,Plato_13,Descripci√≥n del Plato_13,13,21,1,51,Sin cebolla
+316,2,Plato_4,Descripci√≥n del Plato_4,10,18,1,30,Ninguna
+316,2,Plato_13,Descripci√≥n del Plato_13,13,21,1,23,Ninguna
+316,2,Plato_6,Descripci√≥n del Plato_6,16,27,3,53,Sin cebolla
+316,2,Plato_20,Descripci√≥n del Plato_20,25,40,1,52,Sin cebolla
+317,17,Plato_5,Descripci√≥n del Plato_5,13,22,2,20,Sin cebolla
+317,17,Plato_18,Descripci√≥n del Plato_18,20,34,3,37,Sin cebolla
+317,17,Plato_15,Descripci√≥n del Plato_15,19,32,1,31,Sin cebolla
+318,13,Plato_9,Descripci√≥n del Plato_9,17,29,1,39,Sin cebolla
+319,1,Plato_15,Descripci√≥n del Plato_15,19,32,3,16,Sin cebolla
+319,1,Plato_8,Descripci√≥n del Plato_8,21,35,2,17,Ninguna
+319,1,Plato_20,Descripci√≥n del Plato_20,25,40,1,38,Sin cebolla
+319,1,Plato_17,Descripci√≥n del Plato_17,19,31,2,55,Sin cebolla
+320,9,Plato_13,Descripci√≥n del Plato_13,13,21,2,44,Sin cebolla
+320,9,Plato_5,Descripci√≥n del Plato_5,13,22,1,44,Sin cebolla
+320,9,Plato_18,Descripci√≥n del Plato_18,20,34,1,42,Ninguna
+321,18,Plato_16,Descripci√≥n del Plato_16,16,28,1,34,Sin cebolla
+321,18,Plato_5,Descripci√≥n del Plato_5,13,22,2,22,Sin cebolla
+321,18,Plato_14,Descripci√≥n del Plato_14,14,23,3,39,Ninguna
+322,12,Plato_15,Descripci√≥n del Plato_15,19,32,2,8,Ninguna
+322,12,Plato_13,Descripci√≥n del Plato_13,13,21,1,52,Sin cebolla
+323,8,Plato_5,Descripci√≥n del Plato_5,13,22,3,37,Sin cebolla
+323,8,Plato_9,Descripci√≥n del Plato_9,17,29,2,33,Ninguna
+323,8,Plato_7,Descripci√≥n del Plato_7,14,24,2,30,Ninguna
+323,8,Plato_4,Descripci√≥n del Plato_4,10,18,2,22,Sin cebolla
+324,9,Plato_2,Descripci√≥n del Plato_2,18,30,1,15,Sin cebolla
+324,9,Plato_6,Descripci√≥n del Plato_6,16,27,3,58,Ninguna
+324,9,Plato_10,Descripci√≥n del Plato_10,15,26,1,17,Ninguna
+325,18,Plato_13,Descripci√≥n del Plato_13,13,21,1,26,Sin cebolla
+325,18,Plato_17,Descripci√≥n del Plato_17,19,31,1,5,Sin cebolla
+325,18,Plato_8,Descripci√≥n del Plato_8,21,35,2,13,Sin cebolla
+325,18,Plato_15,Descripci√≥n del Plato_15,19,32,1,27,Ninguna
+326,14,Plato_8,Descripci√≥n del Plato_8,21,35,1,14,Ninguna
+326,14,Plato_4,Descripci√≥n del Plato_4,10,18,1,28,Ninguna
+326,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,49,Ninguna
+327,12,Plato_18,Descripci√≥n del Plato_18,20,34,3,33,Ninguna
+327,12,Plato_4,Descripci√≥n del Plato_4,10,18,1,7,Sin cebolla
+327,12,Plato_6,Descripci√≥n del Plato_6,16,27,1,34,Ninguna
+328,4,Plato_8,Descripci√≥n del Plato_8,21,35,1,21,Ninguna
+329,13,Plato_13,Descripci√≥n del Plato_13,13,21,2,56,Ninguna
+329,13,Plato_20,Descripci√≥n del Plato_20,25,40,2,17,Ninguna
+329,13,Plato_17,Descripci√≥n del Plato_17,19,31,2,58,Ninguna
+329,13,Plato_14,Descripci√≥n del Plato_14,14,23,1,8,Ninguna
+330,10,Plato_1,Descripci√≥n del Plato_1,15,25,2,25,Sin cebolla
+330,10,Plato_16,Descripci√≥n del Plato_16,16,28,2,43,Ninguna
+330,10,Plato_14,Descripci√≥n del Plato_14,14,23,3,21,Ninguna
+330,10,Plato_13,Descripci√≥n del Plato_13,13,21,2,51,Sin cebolla
+331,20,Plato_12,Descripci√≥n del Plato_12,11,19,1,5,Ninguna
+331,20,Plato_8,Descripci√≥n del Plato_8,21,35,3,26,Sin cebolla
+331,20,Plato_7,Descripci√≥n del Plato_7,14,24,1,55,Ninguna
+331,20,Plato_1,Descripci√≥n del Plato_1,15,25,1,35,Ninguna
+332,6,Plato_20,Descripci√≥n del Plato_20,25,40,3,17,Ninguna
+333,6,Plato_19,Descripci√≥n del Plato_19,22,36,1,38,Sin cebolla
+333,6,Plato_4,Descripci√≥n del Plato_4,10,18,2,23,Sin cebolla
+334,12,Plato_13,Descripci√≥n del Plato_13,13,21,2,36,Sin cebolla
+334,12,Plato_14,Descripci√≥n del Plato_14,14,23,1,58,Ninguna
+334,12,Plato_7,Descripci√≥n del Plato_7,14,24,2,31,Ninguna
+334,12,Plato_2,Descripci√≥n del Plato_2,18,30,2,31,Ninguna
+335,14,Plato_2,Descripci√≥n del Plato_2,18,30,1,33,Sin cebolla
+335,14,Plato_16,Descripci√≥n del Plato_16,16,28,3,36,Sin cebolla
+336,4,Plato_13,Descripci√≥n del Plato_13,13,21,2,12,Sin cebolla
+336,4,Plato_12,Descripci√≥n del Plato_12,11,19,2,33,Sin cebolla
+336,4,Plato_10,Descripci√≥n del Plato_10,15,26,3,20,Sin cebolla
+337,11,Plato_7,Descripci√≥n del Plato_7,14,24,3,53,Ninguna
+337,11,Plato_16,Descripci√≥n del Plato_16,16,28,1,5,Sin cebolla
+338,18,Plato_18,Descripci√≥n del Plato_18,20,34,3,44,Ninguna
+338,18,Plato_13,Descripci√≥n del Plato_13,13,21,1,10,Sin cebolla
+338,18,Plato_15,Descripci√≥n del Plato_15,19,32,3,30,Sin cebolla
+338,18,Plato_3,Descripci√≥n del Plato_3,12,20,3,59,Ninguna
+339,13,Plato_9,Descripci√≥n del Plato_9,17,29,2,6,Sin cebolla
+339,13,Plato_14,Descripci√≥n del Plato_14,14,23,2,40,Ninguna
+340,15,Plato_20,Descripci√≥n del Plato_20,25,40,2,35,Sin cebolla
+340,15,Plato_16,Descripci√≥n del Plato_16,16,28,3,56,Ninguna
+341,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,46,Ninguna
+341,14,Plato_5,Descripci√≥n del Plato_5,13,22,2,34,Sin cebolla
+341,14,Plato_8,Descripci√≥n del Plato_8,21,35,3,8,Sin cebolla
+342,19,Plato_14,Descripci√≥n del Plato_14,14,23,2,23,Sin cebolla
+342,19,Plato_16,Descripci√≥n del Plato_16,16,28,2,31,Sin cebolla
+343,12,Plato_18,Descripci√≥n del Plato_18,20,34,2,58,Sin cebolla
+343,12,Plato_14,Descripci√≥n del Plato_14,14,23,3,43,Ninguna
+344,15,Plato_8,Descripci√≥n del Plato_8,21,35,1,11,Sin cebolla
+344,15,Plato_17,Descripci√≥n del Plato_17,19,31,2,28,Sin cebolla
+344,15,Plato_15,Descripci√≥n del Plato_15,19,32,2,19,Sin cebolla
+344,15,Plato_5,Descripci√≥n del Plato_5,13,22,1,28,Ninguna
+345,16,Plato_12,Descripci√≥n del Plato_12,11,19,2,18,Ninguna
+346,1,Plato_19,Descripci√≥n del Plato_19,22,36,2,22,Sin cebolla
+347,7,Plato_8,Descripci√≥n del Plato_8,21,35,2,44,Ninguna
+348,16,Plato_10,Descripci√≥n del Plato_10,15,26,1,31,Sin cebolla
+348,16,Plato_3,Descripci√≥n del Plato_3,12,20,3,57,Ninguna
+349,13,Plato_2,Descripci√≥n del Plato_2,18,30,2,25,Sin cebolla
+349,13,Plato_12,Descripci√≥n del Plato_12,11,19,3,7,Ninguna
+349,13,Plato_8,Descripci√≥n del Plato_8,21,35,1,53,Ninguna
+350,2,Plato_17,Descripci√≥n del Plato_17,19,31,2,52,Sin cebolla
+350,2,Plato_6,Descripci√≥n del Plato_6,16,27,3,57,Sin cebolla
+351,1,Plato_15,Descripci√≥n del Plato_15,19,32,3,18,Sin cebolla
+351,1,Plato_8,Descripci√≥n del Plato_8,21,35,3,7,Sin cebolla
+352,1,Plato_11,Descripci√≥n del Plato_11,20,33,3,7,Sin cebolla
+353,7,Plato_5,Descripci√≥n del Plato_5,13,22,2,50,Sin cebolla
+353,7,Plato_2,Descripci√≥n del Plato_2,18,30,1,16,Ninguna
+353,7,Plato_8,Descripci√≥n del Plato_8,21,35,2,37,Ninguna
+353,7,Plato_18,Descripci√≥n del Plato_18,20,34,2,25,Sin cebolla
+354,12,Plato_12,Descripci√≥n del Plato_12,11,19,3,32,Sin cebolla
+354,12,Plato_15,Descripci√≥n del Plato_15,19,32,2,49,Sin cebolla
+354,12,Plato_4,Descripci√≥n del Plato_4,10,18,2,7,Sin cebolla
+354,12,Plato_7,Descripci√≥n del Plato_7,14,24,1,49,Sin cebolla
+355,4,Plato_10,Descripci√≥n del Plato_10,15,26,1,7,Sin cebolla
+356,1,Plato_4,Descripci√≥n del Plato_4,10,18,2,7,Ninguna
+357,17,Plato_1,Descripci√≥n del Plato_1,15,25,1,12,Ninguna
+357,17,Plato_3,Descripci√≥n del Plato_3,12,20,2,5,Sin cebolla
+357,17,Plato_6,Descripci√≥n del Plato_6,16,27,3,31,Sin cebolla
+357,17,Plato_5,Descripci√≥n del Plato_5,13,22,1,48,Ninguna
+358,13,Plato_10,Descripci√≥n del Plato_10,15,26,2,50,Ninguna
+358,13,Plato_4,Descripci√≥n del Plato_4,10,18,3,50,Sin cebolla
+358,13,Plato_3,Descripci√≥n del Plato_3,12,20,3,52,Ninguna
+359,11,Plato_5,Descripci√≥n del Plato_5,13,22,1,26,Sin cebolla
+359,11,Plato_16,Descripci√≥n del Plato_16,16,28,3,57,Sin cebolla
+359,11,Plato_9,Descripci√≥n del Plato_9,17,29,2,12,Sin cebolla
+359,11,Plato_10,Descripci√≥n del Plato_10,15,26,1,50,Sin cebolla
+360,16,Plato_13,Descripci√≥n del Plato_13,13,21,1,42,Ninguna
+360,16,Plato_2,Descripci√≥n del Plato_2,18,30,3,36,Sin cebolla
+360,16,Plato_10,Descripci√≥n del Plato_10,15,26,1,51,Sin cebolla
+360,16,Plato_15,Descripci√≥n del Plato_15,19,32,3,30,Sin cebolla
+361,16,Plato_9,Descripci√≥n del Plato_9,17,29,1,58,Ninguna
+361,16,Plato_7,Descripci√≥n del Plato_7,14,24,3,54,Sin cebolla
+362,15,Plato_3,Descripci√≥n del Plato_3,12,20,1,41,Ninguna
+362,15,Plato_7,Descripci√≥n del Plato_7,14,24,1,58,Ninguna
+362,15,Plato_4,Descripci√≥n del Plato_4,10,18,1,24,Ninguna
+363,5,Plato_2,Descripci√≥n del Plato_2,18,30,1,48,Ninguna
+363,5,Plato_7,Descripci√≥n del Plato_7,14,24,3,41,Sin cebolla
+363,5,Plato_19,Descripci√≥n del Plato_19,22,36,2,42,Ninguna
+363,5,Plato_11,Descripci√≥n del Plato_11,20,33,2,18,Ninguna
+364,15,Plato_16,Descripci√≥n del Plato_16,16,28,2,52,Ninguna
+364,15,Plato_5,Descripci√≥n del Plato_5,13,22,1,20,Ninguna
+364,15,Plato_1,Descripci√≥n del Plato_1,15,25,2,14,Ninguna
+364,15,Plato_9,Descripci√≥n del Plato_9,17,29,1,26,Ninguna
+365,4,Plato_19,Descripci√≥n del Plato_19,22,36,3,25,Sin cebolla
+366,17,Plato_6,Descripci√≥n del Plato_6,16,27,2,30,Ninguna
+366,17,Plato_8,Descripci√≥n del Plato_8,21,35,3,51,Sin cebolla
+366,17,Plato_20,Descripci√≥n del Plato_20,25,40,2,9,Ninguna
+367,12,Plato_10,Descripci√≥n del Plato_10,15,26,2,34,Sin cebolla
+367,12,Plato_9,Descripci√≥n del Plato_9,17,29,1,26,Sin cebolla
+367,12,Plato_3,Descripci√≥n del Plato_3,12,20,1,13,Sin cebolla
+368,13,Plato_11,Descripci√≥n del Plato_11,20,33,3,45,Ninguna
+368,13,Plato_7,Descripci√≥n del Plato_7,14,24,1,40,Sin cebolla
+369,20,Plato_17,Descripci√≥n del Plato_17,19,31,2,7,Sin cebolla
+369,20,Plato_14,Descripci√≥n del Plato_14,14,23,2,7,Sin cebolla
+369,20,Plato_16,Descripci√≥n del Plato_16,16,28,2,8,Sin cebolla
+369,20,Plato_10,Descripci√≥n del Plato_10,15,26,3,20,Sin cebolla
+370,13,Plato_19,Descripci√≥n del Plato_19,22,36,2,33,Sin cebolla
+371,4,Plato_17,Descripci√≥n del Plato_17,19,31,2,11,Sin cebolla
+371,4,Plato_19,Descripci√≥n del Plato_19,22,36,1,13,Ninguna
+371,4,Plato_16,Descripci√≥n del Plato_16,16,28,2,11,Ninguna
+371,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,14,Sin cebolla
+372,14,Plato_4,Descripci√≥n del Plato_4,10,18,2,22,Ninguna
+373,19,Plato_13,Descripci√≥n del Plato_13,13,21,1,41,Sin cebolla
+373,19,Plato_8,Descripci√≥n del Plato_8,21,35,1,49,Ninguna
+373,19,Plato_5,Descripci√≥n del Plato_5,13,22,2,17,Sin cebolla
+373,19,Plato_3,Descripci√≥n del Plato_3,12,20,3,9,Sin cebolla
+374,18,Plato_8,Descripci√≥n del Plato_8,21,35,1,9,Sin cebolla
+375,18,Plato_17,Descripci√≥n del Plato_17,19,31,3,27,Ninguna
+376,16,Plato_14,Descripci√≥n del Plato_14,14,23,2,5,Sin cebolla
+377,5,Plato_18,Descripci√≥n del Plato_18,20,34,2,13,Ninguna
+377,5,Plato_15,Descripci√≥n del Plato_15,19,32,1,33,Ninguna
+378,3,Plato_2,Descripci√≥n del Plato_2,18,30,1,14,Sin cebolla
+378,3,Plato_12,Descripci√≥n del Plato_12,11,19,1,7,Sin cebolla
+379,4,Plato_8,Descripci√≥n del Plato_8,21,35,2,6,Ninguna
+380,5,Plato_11,Descripci√≥n del Plato_11,20,33,3,58,Ninguna
+380,5,Plato_12,Descripci√≥n del Plato_12,11,19,2,35,Ninguna
+381,4,Plato_10,Descripci√≥n del Plato_10,15,26,3,35,Ninguna
+381,4,Plato_11,Descripci√≥n del Plato_11,20,33,2,12,Ninguna
+382,20,Plato_9,Descripci√≥n del Plato_9,17,29,3,54,Sin cebolla
+383,6,Plato_19,Descripci√≥n del Plato_19,22,36,3,9,Sin cebolla
+384,1,Plato_4,Descripci√≥n del Plato_4,10,18,2,26,Ninguna
+384,1,Plato_12,Descripci√≥n del Plato_12,11,19,3,35,Sin cebolla
+384,1,Plato_6,Descripci√≥n del Plato_6,16,27,1,49,Sin cebolla
+385,6,Plato_2,Descripci√≥n del Plato_2,18,30,2,22,Ninguna
+386,5,Plato_11,Descripci√≥n del Plato_11,20,33,3,40,Sin cebolla
+387,6,Plato_17,Descripci√≥n del Plato_17,19,31,3,18,Sin cebolla
+388,18,Plato_17,Descripci√≥n del Plato_17,19,31,2,52,Sin cebolla
+388,18,Plato_19,Descripci√≥n del Plato_19,22,36,2,37,Ninguna
+388,18,Plato_9,Descripci√≥n del Plato_9,17,29,2,31,Sin cebolla
+388,18,Plato_11,Descripci√≥n del Plato_11,20,33,3,51,Sin cebolla
+389,19,Plato_11,Descripci√≥n del Plato_11,20,33,1,24,Ninguna
+390,9,Plato_5,Descripci√≥n del Plato_5,13,22,2,52,Sin cebolla
+390,9,Plato_10,Descripci√≥n del Plato_10,15,26,3,13,Sin cebolla
+390,9,Plato_13,Descripci√≥n del Plato_13,13,21,1,28,Sin cebolla
+391,15,Plato_5,Descripci√≥n del Plato_5,13,22,1,35,Ninguna
+392,14,Plato_15,Descripci√≥n del Plato_15,19,32,3,17,Ninguna
+392,14,Plato_7,Descripci√≥n del Plato_7,14,24,1,37,Sin cebolla
+393,13,Plato_12,Descripci√≥n del Plato_12,11,19,2,40,Ninguna
+393,13,Plato_8,Descripci√≥n del Plato_8,21,35,3,23,Ninguna
+393,13,Plato_13,Descripci√≥n del Plato_13,13,21,1,20,Sin cebolla
+393,13,Plato_5,Descripci√≥n del Plato_5,13,22,2,26,Sin cebolla
+394,17,Plato_7,Descripci√≥n del Plato_7,14,24,2,5,Ninguna
+394,17,Plato_9,Descripci√≥n del Plato_9,17,29,1,42,Sin cebolla
+395,2,Plato_12,Descripci√≥n del Plato_12,11,19,2,8,Ninguna
+396,11,Plato_3,Descripci√≥n del Plato_3,12,20,1,31,Sin cebolla
+396,11,Plato_13,Descripci√≥n del Plato_13,13,21,3,26,Sin cebolla
+397,4,Plato_6,Descripci√≥n del Plato_6,16,27,2,10,Sin cebolla
+397,4,Plato_17,Descripci√≥n del Plato_17,19,31,3,59,Sin cebolla
+398,9,Plato_16,Descripci√≥n del Plato_16,16,28,2,50,Ninguna
+398,9,Plato_11,Descripci√≥n del Plato_11,20,33,2,21,Sin cebolla
+399,7,Plato_11,Descripci√≥n del Plato_11,20,33,3,45,Ninguna
+399,7,Plato_19,Descripci√≥n del Plato_19,22,36,3,46,Sin cebolla
+400,9,Plato_20,Descripci√≥n del Plato_20,25,40,2,28,Ninguna
+400,9,Plato_16,Descripci√≥n del Plato_16,16,28,2,13,Ninguna
+400,9,Plato_17,Descripci√≥n del Plato_17,19,31,2,38,Sin cebolla
+401,16,Plato_13,Descripci√≥n del Plato_13,13,21,2,20,Ninguna
+402,18,Plato_1,Descripci√≥n del Plato_1,15,25,2,16,Sin cebolla
+402,18,Plato_12,Descripci√≥n del Plato_12,11,19,3,29,Sin cebolla
+402,18,Plato_5,Descripci√≥n del Plato_5,13,22,2,21,Ninguna
+403,14,Plato_5,Descripci√≥n del Plato_5,13,22,3,17,Ninguna
+403,14,Plato_4,Descripci√≥n del Plato_4,10,18,2,5,Sin cebolla
+403,14,Plato_15,Descripci√≥n del Plato_15,19,32,2,8,Sin cebolla
+403,14,Plato_7,Descripci√≥n del Plato_7,14,24,1,55,Sin cebolla
+404,17,Plato_13,Descripci√≥n del Plato_13,13,21,2,20,Ninguna
+404,17,Plato_3,Descripci√≥n del Plato_3,12,20,1,53,Sin cebolla
+404,17,Plato_20,Descripci√≥n del Plato_20,25,40,3,29,Sin cebolla
+405,5,Plato_10,Descripci√≥n del Plato_10,15,26,1,41,Sin cebolla
+405,5,Plato_20,Descripci√≥n del Plato_20,25,40,1,44,Ninguna
+405,5,Plato_3,Descripci√≥n del Plato_3,12,20,2,13,Sin cebolla
+406,14,Plato_3,Descripci√≥n del Plato_3,12,20,3,6,Ninguna
+406,14,Plato_8,Descripci√≥n del Plato_8,21,35,2,56,Ninguna
+406,14,Plato_1,Descripci√≥n del Plato_1,15,25,1,55,Sin cebolla
+407,4,Plato_3,Descripci√≥n del Plato_3,12,20,3,32,Ninguna
+407,4,Plato_8,Descripci√≥n del Plato_8,21,35,1,18,Sin cebolla
+408,17,Plato_1,Descripci√≥n del Plato_1,15,25,1,58,Sin cebolla
+408,17,Plato_7,Descripci√≥n del Plato_7,14,24,3,11,Ninguna
+408,17,Plato_18,Descripci√≥n del Plato_18,20,34,1,37,Sin cebolla
+409,15,Plato_13,Descripci√≥n del Plato_13,13,21,3,44,Sin cebolla
+409,15,Plato_20,Descripci√≥n del Plato_20,25,40,1,43,Ninguna
+409,15,Plato_16,Descripci√≥n del Plato_16,16,28,1,47,Ninguna
+409,15,Plato_7,Descripci√≥n del Plato_7,14,24,3,29,Ninguna
+410,1,Plato_3,Descripci√≥n del Plato_3,12,20,1,50,Sin cebolla
+410,1,Plato_19,Descripci√≥n del Plato_19,22,36,1,41,Ninguna
+411,3,Plato_20,Descripci√≥n del Plato_20,25,40,3,36,Sin cebolla
+411,3,Plato_4,Descripci√≥n del Plato_4,10,18,1,33,Ninguna
+411,3,Plato_6,Descripci√≥n del Plato_6,16,27,3,9,Ninguna
+412,11,Plato_17,Descripci√≥n del Plato_17,19,31,3,57,Sin cebolla
+413,13,Plato_8,Descripci√≥n del Plato_8,21,35,1,12,Sin cebolla
+414,14,Plato_11,Descripci√≥n del Plato_11,20,33,1,38,Ninguna
+415,14,Plato_6,Descripci√≥n del Plato_6,16,27,2,32,Ninguna
+415,14,Plato_18,Descripci√≥n del Plato_18,20,34,2,16,Sin cebolla
+415,14,Plato_19,Descripci√≥n del Plato_19,22,36,1,39,Ninguna
+416,20,Plato_1,Descripci√≥n del Plato_1,15,25,1,9,Sin cebolla
+417,7,Plato_9,Descripci√≥n del Plato_9,17,29,1,23,Ninguna
+417,7,Plato_20,Descripci√≥n del Plato_20,25,40,1,17,Ninguna
+417,7,Plato_12,Descripci√≥n del Plato_12,11,19,1,16,Sin cebolla
+417,7,Plato_6,Descripci√≥n del Plato_6,16,27,2,34,Sin cebolla
+418,17,Plato_1,Descripci√≥n del Plato_1,15,25,1,45,Ninguna
+418,17,Plato_17,Descripci√≥n del Plato_17,19,31,3,55,Sin cebolla
+419,11,Plato_18,Descripci√≥n del Plato_18,20,34,1,7,Sin cebolla
+419,11,Plato_11,Descripci√≥n del Plato_11,20,33,1,57,Ninguna
+420,18,Plato_18,Descripci√≥n del Plato_18,20,34,2,33,Ninguna
+420,18,Plato_3,Descripci√≥n del Plato_3,12,20,3,10,Ninguna
+420,18,Plato_1,Descripci√≥n del Plato_1,15,25,2,28,Ninguna
+420,18,Plato_15,Descripci√≥n del Plato_15,19,32,2,34,Ninguna
+421,10,Plato_17,Descripci√≥n del Plato_17,19,31,1,18,Sin cebolla
+421,10,Plato_4,Descripci√≥n del Plato_4,10,18,3,53,Sin cebolla
+422,12,Plato_10,Descripci√≥n del Plato_10,15,26,2,7,Sin cebolla
+422,12,Plato_19,Descripci√≥n del Plato_19,22,36,1,27,Ninguna
+423,4,Plato_16,Descripci√≥n del Plato_16,16,28,2,24,Ninguna
+423,4,Plato_15,Descripci√≥n del Plato_15,19,32,3,7,Sin cebolla
+424,13,Plato_5,Descripci√≥n del Plato_5,13,22,3,43,Ninguna
+424,13,Plato_6,Descripci√≥n del Plato_6,16,27,3,45,Sin cebolla
+425,18,Plato_12,Descripci√≥n del Plato_12,11,19,1,28,Sin cebolla
+426,5,Plato_11,Descripci√≥n del Plato_11,20,33,1,8,Sin cebolla
+426,5,Plato_16,Descripci√≥n del Plato_16,16,28,2,38,Sin cebolla
+426,5,Plato_1,Descripci√≥n del Plato_1,15,25,2,23,Ninguna
+426,5,Plato_19,Descripci√≥n del Plato_19,22,36,3,47,Sin cebolla
+427,2,Plato_1,Descripci√≥n del Plato_1,15,25,3,34,Sin cebolla
+427,2,Plato_8,Descripci√≥n del Plato_8,21,35,2,52,Ninguna
+427,2,Plato_14,Descripci√≥n del Plato_14,14,23,1,24,Sin cebolla
+427,2,Plato_12,Descripci√≥n del Plato_12,11,19,2,56,Ninguna
+428,7,Plato_20,Descripci√≥n del Plato_20,25,40,1,38,Ninguna
+428,7,Plato_14,Descripci√≥n del Plato_14,14,23,1,46,Ninguna
+428,7,Plato_1,Descripci√≥n del Plato_1,15,25,2,48,Ninguna
+428,7,Plato_17,Descripci√≥n del Plato_17,19,31,2,47,Ninguna
+429,8,Plato_10,Descripci√≥n del Plato_10,15,26,3,27,Ninguna
+430,7,Plato_1,Descripci√≥n del Plato_1,15,25,1,49,Ninguna
+431,15,Plato_2,Descripci√≥n del Plato_2,18,30,2,20,Ninguna
+432,10,Plato_3,Descripci√≥n del Plato_3,12,20,3,16,Sin cebolla
+432,10,Plato_13,Descripci√≥n del Plato_13,13,21,1,27,Ninguna
+432,10,Plato_16,Descripci√≥n del Plato_16,16,28,1,31,Ninguna
+433,10,Plato_2,Descripci√≥n del Plato_2,18,30,1,56,Sin cebolla
+433,10,Plato_7,Descripci√≥n del Plato_7,14,24,3,18,Ninguna
+434,15,Plato_10,Descripci√≥n del Plato_10,15,26,2,26,Ninguna
+434,15,Plato_5,Descripci√≥n del Plato_5,13,22,2,32,Sin cebolla
+435,17,Plato_10,Descripci√≥n del Plato_10,15,26,2,14,Ninguna
+435,17,Plato_13,Descripci√≥n del Plato_13,13,21,2,42,Ninguna
+435,17,Plato_2,Descripci√≥n del Plato_2,18,30,2,55,Sin cebolla
+436,10,Plato_16,Descripci√≥n del Plato_16,16,28,2,45,Sin cebolla
+437,16,Plato_8,Descripci√≥n del Plato_8,21,35,2,51,Sin cebolla
+438,2,Plato_11,Descripci√≥n del Plato_11,20,33,1,51,Sin cebolla
+439,15,Plato_11,Descripci√≥n del Plato_11,20,33,3,35,Ninguna
+439,15,Plato_10,Descripci√≥n del Plato_10,15,26,3,29,Sin cebolla
+440,13,Plato_14,Descripci√≥n del Plato_14,14,23,2,36,Ninguna
+440,13,Plato_12,Descripci√≥n del Plato_12,11,19,2,9,Ninguna
+441,13,Plato_8,Descripci√≥n del Plato_8,21,35,3,54,Ninguna
+441,13,Plato_10,Descripci√≥n del Plato_10,15,26,3,36,Sin cebolla
+442,15,Plato_18,Descripci√≥n del Plato_18,20,34,3,29,Sin cebolla
+442,15,Plato_1,Descripci√≥n del Plato_1,15,25,1,57,Ninguna
+442,15,Plato_19,Descripci√≥n del Plato_19,22,36,3,45,Ninguna
+443,4,Plato_14,Descripci√≥n del Plato_14,14,23,1,30,Ninguna
+443,4,Plato_15,Descripci√≥n del Plato_15,19,32,1,52,Ninguna
+443,4,Plato_10,Descripci√≥n del Plato_10,15,26,3,55,Ninguna
+443,4,Plato_16,Descripci√≥n del Plato_16,16,28,3,18,Ninguna
+444,8,Plato_14,Descripci√≥n del Plato_14,14,23,1,32,Sin cebolla
+444,8,Plato_7,Descripci√≥n del Plato_7,14,24,3,49,Sin cebolla
+445,6,Plato_6,Descripci√≥n del Plato_6,16,27,3,26,Ninguna
+446,12,Plato_13,Descripci√≥n del Plato_13,13,21,1,8,Sin cebolla
+447,8,Plato_3,Descripci√≥n del Plato_3,12,20,2,29,Sin cebolla
+447,8,Plato_12,Descripci√≥n del Plato_12,11,19,3,50,Sin cebolla
+447,8,Plato_16,Descripci√≥n del Plato_16,16,28,3,7,Ninguna
+448,4,Plato_12,Descripci√≥n del Plato_12,11,19,2,26,Sin cebolla
+448,4,Plato_11,Descripci√≥n del Plato_11,20,33,3,40,Sin cebolla
+449,3,Plato_15,Descripci√≥n del Plato_15,19,32,2,33,Sin cebolla
+450,9,Plato_4,Descripci√≥n del Plato_4,10,18,2,13,Sin cebolla
+450,9,Plato_19,Descripci√≥n del Plato_19,22,36,1,21,Ninguna
+451,3,Plato_8,Descripci√≥n del Plato_8,21,35,1,23,Sin cebolla
+451,3,Plato_14,Descripci√≥n del Plato_14,14,23,1,41,Sin cebolla
+451,3,Plato_18,Descripci√≥n del Plato_18,20,34,1,39,Ninguna
+452,9,Plato_17,Descripci√≥n del Plato_17,19,31,3,53,Ninguna
+452,9,Plato_5,Descripci√≥n del Plato_5,13,22,2,28,Ninguna
+452,9,Plato_13,Descripci√≥n del Plato_13,13,21,1,42,Sin cebolla
+453,6,Plato_18,Descripci√≥n del Plato_18,20,34,1,42,Ninguna
+453,6,Plato_15,Descripci√≥n del Plato_15,19,32,3,58,Ninguna
+454,1,Plato_6,Descripci√≥n del Plato_6,16,27,2,49,Ninguna
+454,1,Plato_12,Descripci√≥n del Plato_12,11,19,3,18,Sin cebolla
+454,1,Plato_19,Descripci√≥n del Plato_19,22,36,2,42,Sin cebolla
+454,1,Plato_1,Descripci√≥n del Plato_1,15,25,2,44,Ninguna
+455,12,Plato_7,Descripci√≥n del Plato_7,14,24,2,11,Ninguna
+456,13,Plato_20,Descripci√≥n del Plato_20,25,40,2,47,Sin cebolla
+456,13,Plato_18,Descripci√≥n del Plato_18,20,34,2,24,Ninguna
+457,18,Plato_11,Descripci√≥n del Plato_11,20,33,3,43,Sin cebolla
+457,18,Plato_12,Descripci√≥n del Plato_12,11,19,2,15,Sin cebolla
+458,4,Plato_16,Descripci√≥n del Plato_16,16,28,2,11,Sin cebolla
+458,4,Plato_18,Descripci√≥n del Plato_18,20,34,3,28,Ninguna
+458,4,Plato_11,Descripci√≥n del Plato_11,20,33,2,6,Ninguna
+458,4,Plato_5,Descripci√≥n del Plato_5,13,22,2,44,Ninguna
+459,20,Plato_16,Descripci√≥n del Plato_16,16,28,3,30,Ninguna
+460,19,Plato_16,Descripci√≥n del Plato_16,16,28,1,40,Sin cebolla
+460,19,Plato_10,Descripci√≥n del Plato_10,15,26,1,8,Sin cebolla
+460,19,Plato_1,Descripci√≥n del Plato_1,15,25,2,43,Ninguna
+460,19,Plato_7,Descripci√≥n del Plato_7,14,24,3,33,Ninguna
+461,4,Plato_8,Descripci√≥n del Plato_8,21,35,2,38,Sin cebolla
+461,4,Plato_9,Descripci√≥n del Plato_9,17,29,1,28,Ninguna
+462,9,Plato_11,Descripci√≥n del Plato_11,20,33,3,11,Ninguna
+463,7,Plato_17,Descripci√≥n del Plato_17,19,31,3,14,Sin cebolla
+464,16,Plato_10,Descripci√≥n del Plato_10,15,26,3,50,Sin cebolla
+464,16,Plato_6,Descripci√≥n del Plato_6,16,27,2,24,Ninguna
+464,16,Plato_5,Descripci√≥n del Plato_5,13,22,1,10,Ninguna
+465,4,Plato_1,Descripci√≥n del Plato_1,15,25,3,37,Ninguna
+465,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,23,Sin cebolla
+466,4,Plato_5,Descripci√≥n del Plato_5,13,22,1,50,Sin cebolla
+466,4,Plato_2,Descripci√≥n del Plato_2,18,30,3,52,Ninguna
+466,4,Plato_16,Descripci√≥n del Plato_16,16,28,1,43,Ninguna
+467,15,Plato_11,Descripci√≥n del Plato_11,20,33,3,13,Ninguna
+467,15,Plato_5,Descripci√≥n del Plato_5,13,22,2,59,Ninguna
+468,14,Plato_12,Descripci√≥n del Plato_12,11,19,2,38,Sin cebolla
+468,14,Plato_3,Descripci√≥n del Plato_3,12,20,2,16,Sin cebolla
+468,14,Plato_16,Descripci√≥n del Plato_16,16,28,1,9,Sin cebolla
+469,1,Plato_8,Descripci√≥n del Plato_8,21,35,3,22,Sin cebolla
+469,1,Plato_15,Descripci√≥n del Plato_15,19,32,1,44,Ninguna
+470,17,Plato_7,Descripci√≥n del Plato_7,14,24,1,44,Ninguna
+470,17,Plato_4,Descripci√≥n del Plato_4,10,18,3,28,Ninguna
+471,7,Plato_8,Descripci√≥n del Plato_8,21,35,3,57,Ninguna
+472,20,Plato_8,Descripci√≥n del Plato_8,21,35,2,42,Ninguna
+472,20,Plato_5,Descripci√≥n del Plato_5,13,22,2,31,Sin cebolla
+473,13,Plato_5,Descripci√≥n del Plato_5,13,22,2,51,Sin cebolla
+473,13,Plato_8,Descripci√≥n del Plato_8,21,35,1,10,Ninguna
+474,2,Plato_18,Descripci√≥n del Plato_18,20,34,1,55,Sin cebolla
+474,2,Plato_9,Descripci√≥n del Plato_9,17,29,1,37,Ninguna
+474,2,Plato_17,Descripci√≥n del Plato_17,19,31,1,34,Sin cebolla
+474,2,Plato_16,Descripci√≥n del Plato_16,16,28,3,35,Ninguna
+475,18,Plato_7,Descripci√≥n del Plato_7,14,24,3,21,Sin cebolla
+475,18,Plato_18,Descripci√≥n del Plato_18,20,34,3,14,Sin cebolla
+476,13,Plato_7,Descripci√≥n del Plato_7,14,24,2,55,Sin cebolla
+476,13,Plato_18,Descripci√≥n del Plato_18,20,34,1,34,Ninguna
+476,13,Plato_15,Descripci√≥n del Plato_15,19,32,3,5,Sin cebolla
+476,13,Plato_20,Descripci√≥n del Plato_20,25,40,1,21,Ninguna
+477,8,Plato_18,Descripci√≥n del Plato_18,20,34,2,34,Sin cebolla
+477,8,Plato_14,Descripci√≥n del Plato_14,14,23,2,13,Sin cebolla
+477,8,Plato_7,Descripci√≥n del Plato_7,14,24,2,47,Sin cebolla
+477,8,Plato_13,Descripci√≥n del Plato_13,13,21,2,21,Ninguna
+478,7,Plato_2,Descripci√≥n del Plato_2,18,30,2,54,Sin cebolla
+478,7,Plato_9,Descripci√≥n del Plato_9,17,29,2,36,Sin cebolla
+479,1,Plato_4,Descripci√≥n del Plato_4,10,18,1,45,Ninguna
+479,1,Plato_18,Descripci√≥n del Plato_18,20,34,1,38,Sin cebolla
+480,1,Plato_8,Descripci√≥n del Plato_8,21,35,3,57,Sin cebolla
+480,1,Plato_6,Descripci√≥n del Plato_6,16,27,2,8,Ninguna
+481,9,Plato_10,Descripci√≥n del Plato_10,15,26,2,58,Sin cebolla
+482,9,Plato_13,Descripci√≥n del Plato_13,13,21,3,21,Sin cebolla
+483,2,Plato_6,Descripci√≥n del Plato_6,16,27,3,53,Ninguna
+484,18,Plato_1,Descripci√≥n del Plato_1,15,25,3,34,Sin cebolla
+485,6,Plato_7,Descripci√≥n del Plato_7,14,24,3,23,Ninguna
+485,6,Plato_19,Descripci√≥n del Plato_19,22,36,2,56,Ninguna
+486,15,Plato_19,Descripci√≥n del Plato_19,22,36,2,7,Ninguna
+486,15,Plato_3,Descripci√≥n del Plato_3,12,20,1,19,Ninguna
+486,15,Plato_18,Descripci√≥n del Plato_18,20,34,1,9,Ninguna
+486,15,Plato_7,Descripci√≥n del Plato_7,14,24,1,24,Ninguna
+487,17,Plato_18,Descripci√≥n del Plato_18,20,34,2,58,Sin cebolla
+487,17,Plato_17,Descripci√≥n del Plato_17,19,31,2,29,Sin cebolla
+487,17,Plato_5,Descripci√≥n del Plato_5,13,22,1,5,Sin cebolla
+488,10,Plato_4,Descripci√≥n del Plato_4,10,18,3,54,Ninguna
+488,10,Plato_14,Descripci√≥n del Plato_14,14,23,3,52,Ninguna
+488,10,Plato_17,Descripci√≥n del Plato_17,19,31,2,18,Sin cebolla
+489,3,Plato_20,Descripci√≥n del Plato_20,25,40,2,28,Sin cebolla
+489,3,Plato_14,Descripci√≥n del Plato_14,14,23,3,6,Sin cebolla
+490,1,Plato_10,Descripci√≥n del Plato_10,15,26,3,34,Ninguna
+490,1,Plato_15,Descripci√≥n del Plato_15,19,32,1,55,Ninguna
+490,1,Plato_18,Descripci√≥n del Plato_18,20,34,3,42,Ninguna
+491,7,Plato_9,Descripci√≥n del Plato_9,17,29,2,30,Ninguna
+491,7,Plato_2,Descripci√≥n del Plato_2,18,30,2,11,Ninguna
+492,4,Plato_11,Descripci√≥n del Plato_11,20,33,3,15,Ninguna
+492,4,Plato_13,Descripci√≥n del Plato_13,13,21,3,8,Ninguna
+492,4,Plato_7,Descripci√≥n del Plato_7,14,24,2,26,Ninguna
+493,2,Plato_4,Descripci√≥n del Plato_4,10,18,3,8,Sin cebolla
+494,20,Plato_15,Descripci√≥n del Plato_15,19,32,2,9,Ninguna
+494,20,Plato_19,Descripci√≥n del Plato_19,22,36,3,22,Ninguna
+495,11,Plato_20,Descripci√≥n del Plato_20,25,40,3,13,Sin cebolla
+495,11,Plato_6,Descripci√≥n del Plato_6,16,27,2,9,Sin cebolla
+495,11,Plato_16,Descripci√≥n del Plato_16,16,28,2,44,Ninguna
+495,11,Plato_11,Descripci√≥n del Plato_11,20,33,1,36,Sin cebolla
+496,1,Plato_11,Descripci√≥n del Plato_11,20,33,1,28,Ninguna
+496,1,Plato_18,Descripci√≥n del Plato_18,20,34,3,23,Ninguna
+496,1,Plato_12,Descripci√≥n del Plato_12,11,19,3,41,Sin cebolla
+496,1,Plato_17,Descripci√≥n del Plato_17,19,31,1,41,Sin cebolla
+497,13,Plato_2,Descripci√≥n del Plato_2,18,30,1,6,Sin cebolla
+497,13,Plato_20,Descripci√≥n del Plato_20,25,40,3,32,Sin cebolla
+498,20,Plato_12,Descripci√≥n del Plato_12,11,19,1,32,Ninguna
+499,5,Plato_10,Descripci√≥n del Plato_10,15,26,3,52,Ninguna
+499,5,Plato_2,Descripci√≥n del Plato_2,18,30,1,36,Sin cebolla
+499,5,Plato_1,Descripci√≥n del Plato_1,15,25,2,42,Sin cebolla
+500,4,Plato_6,Descripci√≥n del Plato_6,16,27,1,22,Sin cebolla
+500,4,Plato_5,Descripci√≥n del Plato_5,13,22,3,20,Ninguna
+501,7,Plato_20,Descripci√≥n del Plato_20,25,40,1,18,Sin cebolla
+501,7,Plato_13,Descripci√≥n del Plato_13,13,21,2,15,Sin cebolla
+501,7,Plato_16,Descripci√≥n del Plato_16,16,28,2,6,Ninguna
+502,5,Plato_5,Descripci√≥n del Plato_5,13,22,1,33,Ninguna
+502,5,Plato_4,Descripci√≥n del Plato_4,10,18,1,5,Ninguna
+502,5,Plato_11,Descripci√≥n del Plato_11,20,33,3,35,Sin cebolla
+503,3,Plato_20,Descripci√≥n del Plato_20,25,40,2,52,Ninguna
+503,3,Plato_12,Descripci√≥n del Plato_12,11,19,3,33,Sin cebolla
+504,2,Plato_6,Descripci√≥n del Plato_6,16,27,2,19,Ninguna
+505,5,Plato_20,Descripci√≥n del Plato_20,25,40,2,56,Ninguna
+505,5,Plato_1,Descripci√≥n del Plato_1,15,25,3,59,Ninguna
+506,18,Plato_8,Descripci√≥n del Plato_8,21,35,2,5,Sin cebolla
+507,18,Plato_18,Descripci√≥n del Plato_18,20,34,3,53,Ninguna
+507,18,Plato_19,Descripci√≥n del Plato_19,22,36,3,16,Sin cebolla
+508,6,Plato_15,Descripci√≥n del Plato_15,19,32,1,34,Sin cebolla
+509,5,Plato_20,Descripci√≥n del Plato_20,25,40,2,47,Ninguna
+510,6,Plato_19,Descripci√≥n del Plato_19,22,36,1,48,Ninguna
+511,2,Plato_14,Descripci√≥n del Plato_14,14,23,3,14,Ninguna
+511,2,Plato_18,Descripci√≥n del Plato_18,20,34,2,24,Ninguna
+512,2,Plato_3,Descripci√≥n del Plato_3,12,20,1,6,Sin cebolla
+512,2,Plato_19,Descripci√≥n del Plato_19,22,36,3,53,Sin cebolla
+513,8,Plato_4,Descripci√≥n del Plato_4,10,18,3,56,Sin cebolla
+514,18,Plato_10,Descripci√≥n del Plato_10,15,26,2,21,Ninguna
+514,18,Plato_12,Descripci√≥n del Plato_12,11,19,2,56,Sin cebolla
+514,18,Plato_3,Descripci√≥n del Plato_3,12,20,1,25,Sin cebolla
+514,18,Plato_15,Descripci√≥n del Plato_15,19,32,2,10,Ninguna
+515,19,Plato_4,Descripci√≥n del Plato_4,10,18,1,13,Sin cebolla
+516,7,Plato_12,Descripci√≥n del Plato_12,11,19,3,43,Ninguna
+516,7,Plato_14,Descripci√≥n del Plato_14,14,23,3,40,Ninguna
+516,7,Plato_3,Descripci√≥n del Plato_3,12,20,1,14,Ninguna
+517,4,Plato_7,Descripci√≥n del Plato_7,14,24,1,6,Ninguna
+517,4,Plato_12,Descripci√≥n del Plato_12,11,19,3,44,Ninguna
+517,4,Plato_5,Descripci√≥n del Plato_5,13,22,1,15,Sin cebolla
+518,5,Plato_11,Descripci√≥n del Plato_11,20,33,1,48,Ninguna
+518,5,Plato_5,Descripci√≥n del Plato_5,13,22,2,5,Sin cebolla
+519,6,Plato_6,Descripci√≥n del Plato_6,16,27,3,49,Ninguna
+519,6,Plato_20,Descripci√≥n del Plato_20,25,40,3,51,Sin cebolla
+519,6,Plato_5,Descripci√≥n del Plato_5,13,22,2,56,Ninguna
+520,4,Plato_9,Descripci√≥n del Plato_9,17,29,1,46,Ninguna
+520,4,Plato_18,Descripci√≥n del Plato_18,20,34,2,21,Ninguna
+520,4,Plato_17,Descripci√≥n del Plato_17,19,31,3,22,Sin cebolla
+520,4,Plato_2,Descripci√≥n del Plato_2,18,30,3,32,Ninguna
+521,18,Plato_1,Descripci√≥n del Plato_1,15,25,2,52,Sin cebolla
+521,18,Plato_9,Descripci√≥n del Plato_9,17,29,2,18,Ninguna
+521,18,Plato_18,Descripci√≥n del Plato_18,20,34,3,21,Sin cebolla
+522,2,Plato_16,Descripci√≥n del Plato_16,16,28,3,47,Sin cebolla
+523,4,Plato_6,Descripci√≥n del Plato_6,16,27,3,51,Ninguna
+524,16,Plato_5,Descripci√≥n del Plato_5,13,22,1,46,Sin cebolla
+524,16,Plato_6,Descripci√≥n del Plato_6,16,27,2,15,Ninguna
+525,16,Plato_14,Descripci√≥n del Plato_14,14,23,3,23,Sin cebolla
+525,16,Plato_8,Descripci√≥n del Plato_8,21,35,1,14,Ninguna
+525,16,Plato_17,Descripci√≥n del Plato_17,19,31,3,40,Sin cebolla
+526,4,Plato_11,Descripci√≥n del Plato_11,20,33,1,22,Ninguna
+527,19,Plato_6,Descripci√≥n del Plato_6,16,27,2,31,Ninguna
+528,14,Plato_3,Descripci√≥n del Plato_3,12,20,1,29,Ninguna
+528,14,Plato_20,Descripci√≥n del Plato_20,25,40,1,47,Ninguna
+528,14,Plato_4,Descripci√≥n del Plato_4,10,18,1,45,Sin cebolla
+529,1,Plato_18,Descripci√≥n del Plato_18,20,34,1,24,Sin cebolla
+529,1,Plato_19,Descripci√≥n del Plato_19,22,36,2,51,Ninguna
+529,1,Plato_14,Descripci√≥n del Plato_14,14,23,2,27,Sin cebolla
+529,1,Plato_16,Descripci√≥n del Plato_16,16,28,2,55,Ninguna
+530,7,Plato_4,Descripci√≥n del Plato_4,10,18,3,37,Sin cebolla
+530,7,Plato_16,Descripci√≥n del Plato_16,16,28,2,50,Sin cebolla
+530,7,Plato_1,Descripci√≥n del Plato_1,15,25,2,19,Ninguna
+531,9,Plato_13,Descripci√≥n del Plato_13,13,21,3,41,Ninguna
+531,9,Plato_20,Descripci√≥n del Plato_20,25,40,1,43,Ninguna
+531,9,Plato_4,Descripci√≥n del Plato_4,10,18,3,56,Sin cebolla
+531,9,Plato_9,Descripci√≥n del Plato_9,17,29,3,59,Sin cebolla
+532,13,Plato_13,Descripci√≥n del Plato_13,13,21,1,24,Sin cebolla
+532,13,Plato_10,Descripci√≥n del Plato_10,15,26,2,28,Ninguna
+532,13,Plato_15,Descripci√≥n del Plato_15,19,32,2,7,Sin cebolla
+533,1,Plato_3,Descripci√≥n del Plato_3,12,20,1,34,Ninguna
+533,1,Plato_13,Descripci√≥n del Plato_13,13,21,1,14,Sin cebolla
+534,1,Plato_7,Descripci√≥n del Plato_7,14,24,2,56,Sin cebolla
+534,1,Plato_9,Descripci√≥n del Plato_9,17,29,1,10,Sin cebolla
+534,1,Plato_8,Descripci√≥n del Plato_8,21,35,2,10,Ninguna
+535,15,Plato_20,Descripci√≥n del Plato_20,25,40,3,48,Sin cebolla
+535,15,Plato_9,Descripci√≥n del Plato_9,17,29,3,9,Ninguna
+535,15,Plato_7,Descripci√≥n del Plato_7,14,24,2,42,Ninguna
+535,15,Plato_13,Descripci√≥n del Plato_13,13,21,1,14,Ninguna
+536,9,Plato_4,Descripci√≥n del Plato_4,10,18,1,29,Sin cebolla
+536,9,Plato_9,Descripci√≥n del Plato_9,17,29,2,52,Ninguna
+536,9,Plato_14,Descripci√≥n del Plato_14,14,23,2,38,Ninguna
+536,9,Plato_2,Descripci√≥n del Plato_2,18,30,3,33,Ninguna
+537,18,Plato_13,Descripci√≥n del Plato_13,13,21,3,21,Sin cebolla
+538,14,Plato_2,Descripci√≥n del Plato_2,18,30,1,55,Sin cebolla
+538,14,Plato_14,Descripci√≥n del Plato_14,14,23,1,39,Ninguna
+538,14,Plato_11,Descripci√≥n del Plato_11,20,33,1,58,Sin cebolla
+538,14,Plato_16,Descripci√≥n del Plato_16,16,28,2,46,Ninguna
+539,18,Plato_2,Descripci√≥n del Plato_2,18,30,3,43,Sin cebolla
+539,18,Plato_6,Descripci√≥n del Plato_6,16,27,1,40,Sin cebolla
+539,18,Plato_9,Descripci√≥n del Plato_9,17,29,3,18,Ninguna
+539,18,Plato_4,Descripci√≥n del Plato_4,10,18,2,28,Ninguna
+540,6,Plato_4,Descripci√≥n del Plato_4,10,18,3,47,Ninguna
+540,6,Plato_8,Descripci√≥n del Plato_8,21,35,2,35,Ninguna
+541,19,Plato_12,Descripci√≥n del Plato_12,11,19,2,31,Ninguna
+541,19,Plato_11,Descripci√≥n del Plato_11,20,33,2,21,Ninguna
+541,19,Plato_9,Descripci√≥n del Plato_9,17,29,1,35,Ninguna
+541,19,Plato_14,Descripci√≥n del Plato_14,14,23,3,37,Ninguna
+542,9,Plato_18,Descripci√≥n del Plato_18,20,34,2,17,Sin cebolla
+542,9,Plato_10,Descripci√≥n del Plato_10,15,26,1,46,Ninguna
+542,9,Plato_6,Descripci√≥n del Plato_6,16,27,2,52,Sin cebolla
+543,19,Plato_16,Descripci√≥n del Plato_16,16,28,2,27,Sin cebolla
+543,19,Plato_6,Descripci√≥n del Plato_6,16,27,2,5,Ninguna
+543,19,Plato_15,Descripci√≥n del Plato_15,19,32,3,42,Sin cebolla
+544,7,Plato_8,Descripci√≥n del Plato_8,21,35,2,48,Ninguna
+545,20,Plato_11,Descripci√≥n del Plato_11,20,33,3,57,Sin cebolla
+545,20,Plato_17,Descripci√≥n del Plato_17,19,31,1,42,Sin cebolla
+546,5,Plato_15,Descripci√≥n del Plato_15,19,32,2,33,Sin cebolla
+546,5,Plato_16,Descripci√≥n del Plato_16,16,28,1,58,Sin cebolla
+547,9,Plato_17,Descripci√≥n del Plato_17,19,31,3,13,Ninguna
+547,9,Plato_11,Descripci√≥n del Plato_11,20,33,3,54,Sin cebolla
+547,9,Plato_8,Descripci√≥n del Plato_8,21,35,1,30,Sin cebolla
+548,4,Plato_18,Descripci√≥n del Plato_18,20,34,1,58,Sin cebolla
+548,4,Plato_17,Descripci√≥n del Plato_17,19,31,2,48,Sin cebolla
+549,12,Plato_1,Descripci√≥n del Plato_1,15,25,1,19,Ninguna
+549,12,Plato_8,Descripci√≥n del Plato_8,21,35,1,20,Sin cebolla
+549,12,Plato_18,Descripci√≥n del Plato_18,20,34,3,59,Ninguna
+550,1,Plato_2,Descripci√≥n del Plato_2,18,30,2,28,Sin cebolla
+550,1,Plato_7,Descripci√≥n del Plato_7,14,24,1,5,Ninguna
+550,1,Plato_3,Descripci√≥n del Plato_3,12,20,2,24,Ninguna
+551,4,Plato_2,Descripci√≥n del Plato_2,18,30,1,32,Sin cebolla
+551,4,Plato_3,Descripci√≥n del Plato_3,12,20,3,11,Ninguna
+551,4,Plato_4,Descripci√≥n del Plato_4,10,18,1,29,Ninguna
+551,4,Plato_13,Descripci√≥n del Plato_13,13,21,3,51,Sin cebolla
+552,11,Plato_20,Descripci√≥n del Plato_20,25,40,3,26,Sin cebolla
+552,11,Plato_13,Descripci√≥n del Plato_13,13,21,3,57,Sin cebolla
+552,11,Plato_3,Descripci√≥n del Plato_3,12,20,3,32,Sin cebolla
+553,14,Plato_2,Descripci√≥n del Plato_2,18,30,3,26,Sin cebolla
+553,14,Plato_1,Descripci√≥n del Plato_1,15,25,2,56,Ninguna
+553,14,Plato_5,Descripci√≥n del Plato_5,13,22,2,54,Ninguna
+553,14,Plato_12,Descripci√≥n del Plato_12,11,19,1,42,Sin cebolla
+554,10,Plato_14,Descripci√≥n del Plato_14,14,23,2,55,Sin cebolla
+554,10,Plato_20,Descripci√≥n del Plato_20,25,40,3,16,Ninguna
+555,20,Plato_2,Descripci√≥n del Plato_2,18,30,1,46,Ninguna
+556,9,Plato_5,Descripci√≥n del Plato_5,13,22,1,36,Ninguna
+556,9,Plato_4,Descripci√≥n del Plato_4,10,18,3,30,Sin cebolla
+557,7,Plato_15,Descripci√≥n del Plato_15,19,32,2,47,Sin cebolla
+557,7,Plato_13,Descripci√≥n del Plato_13,13,21,3,22,Sin cebolla
+557,7,Plato_1,Descripci√≥n del Plato_1,15,25,2,38,Ninguna
+558,6,Plato_15,Descripci√≥n del Plato_15,19,32,3,56,Ninguna
+558,6,Plato_1,Descripci√≥n del Plato_1,15,25,2,54,Sin cebolla
+558,6,Plato_11,Descripci√≥n del Plato_11,20,33,1,57,Ninguna
+559,11,Plato_11,Descripci√≥n del Plato_11,20,33,3,41,Sin cebolla
+560,6,Plato_4,Descripci√≥n del Plato_4,10,18,2,36,Sin cebolla
+560,6,Plato_1,Descripci√≥n del Plato_1,15,25,3,12,Sin cebolla
+561,4,Plato_4,Descripci√≥n del Plato_4,10,18,1,56,Sin cebolla
+561,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,8,Sin cebolla
+562,20,Plato_20,Descripci√≥n del Plato_20,25,40,3,41,Ninguna
+562,20,Plato_9,Descripci√≥n del Plato_9,17,29,2,7,Ninguna
+562,20,Plato_7,Descripci√≥n del Plato_7,14,24,2,22,Ninguna
+562,20,Plato_17,Descripci√≥n del Plato_17,19,31,2,42,Sin cebolla
+563,12,Plato_6,Descripci√≥n del Plato_6,16,27,2,37,Sin cebolla
+564,9,Plato_19,Descripci√≥n del Plato_19,22,36,1,7,Sin cebolla
+564,9,Plato_20,Descripci√≥n del Plato_20,25,40,2,36,Sin cebolla
+564,9,Plato_3,Descripci√≥n del Plato_3,12,20,2,11,Sin cebolla
+565,3,Plato_15,Descripci√≥n del Plato_15,19,32,3,19,Ninguna
+565,3,Plato_4,Descripci√≥n del Plato_4,10,18,3,53,Sin cebolla
+565,3,Plato_11,Descripci√≥n del Plato_11,20,33,2,21,Sin cebolla
+565,3,Plato_8,Descripci√≥n del Plato_8,21,35,1,5,Sin cebolla
+566,4,Plato_10,Descripci√≥n del Plato_10,15,26,3,56,Ninguna
+567,15,Plato_16,Descripci√≥n del Plato_16,16,28,2,9,Ninguna
+567,15,Plato_11,Descripci√≥n del Plato_11,20,33,2,34,Sin cebolla
+567,15,Plato_18,Descripci√≥n del Plato_18,20,34,2,18,Ninguna
+567,15,Plato_13,Descripci√≥n del Plato_13,13,21,3,41,Sin cebolla
+568,5,Plato_18,Descripci√≥n del Plato_18,20,34,3,40,Ninguna
+568,5,Plato_20,Descripci√≥n del Plato_20,25,40,2,44,Sin cebolla
+569,12,Plato_18,Descripci√≥n del Plato_18,20,34,2,26,Ninguna
+569,12,Plato_13,Descripci√≥n del Plato_13,13,21,3,32,Sin cebolla
+570,1,Plato_11,Descripci√≥n del Plato_11,20,33,1,38,Ninguna
+570,1,Plato_10,Descripci√≥n del Plato_10,15,26,2,8,Sin cebolla
+571,15,Plato_6,Descripci√≥n del Plato_6,16,27,2,26,Ninguna
+572,19,Plato_2,Descripci√≥n del Plato_2,18,30,1,34,Sin cebolla
+572,19,Plato_5,Descripci√≥n del Plato_5,13,22,2,10,Sin cebolla
+573,7,Plato_13,Descripci√≥n del Plato_13,13,21,3,41,Ninguna
+573,7,Plato_18,Descripci√≥n del Plato_18,20,34,3,28,Sin cebolla
+574,20,Plato_10,Descripci√≥n del Plato_10,15,26,3,50,Sin cebolla
+574,20,Plato_19,Descripci√≥n del Plato_19,22,36,2,40,Ninguna
+574,20,Plato_4,Descripci√≥n del Plato_4,10,18,2,37,Sin cebolla
+574,20,Plato_13,Descripci√≥n del Plato_13,13,21,1,41,Sin cebolla
+575,15,Plato_4,Descripci√≥n del Plato_4,10,18,1,44,Ninguna
+576,9,Plato_11,Descripci√≥n del Plato_11,20,33,1,46,Ninguna
+576,9,Plato_17,Descripci√≥n del Plato_17,19,31,3,32,Ninguna
+576,9,Plato_19,Descripci√≥n del Plato_19,22,36,3,37,Sin cebolla
+577,5,Plato_4,Descripci√≥n del Plato_4,10,18,1,10,Sin cebolla
+577,5,Plato_5,Descripci√≥n del Plato_5,13,22,1,15,Ninguna
+578,11,Plato_2,Descripci√≥n del Plato_2,18,30,3,44,Ninguna
+579,9,Plato_1,Descripci√≥n del Plato_1,15,25,2,48,Ninguna
+580,10,Plato_11,Descripci√≥n del Plato_11,20,33,1,30,Ninguna
+581,18,Plato_11,Descripci√≥n del Plato_11,20,33,1,15,Ninguna
+581,18,Plato_2,Descripci√≥n del Plato_2,18,30,3,40,Ninguna
+582,3,Plato_6,Descripci√≥n del Plato_6,16,27,2,42,Sin cebolla
+583,9,Plato_12,Descripci√≥n del Plato_12,11,19,3,15,Ninguna
+583,9,Plato_4,Descripci√≥n del Plato_4,10,18,1,11,Ninguna
+583,9,Plato_7,Descripci√≥n del Plato_7,14,24,2,29,Sin cebolla
+583,9,Plato_20,Descripci√≥n del Plato_20,25,40,3,50,Sin cebolla
+584,9,Plato_13,Descripci√≥n del Plato_13,13,21,1,57,Sin cebolla
+584,9,Plato_17,Descripci√≥n del Plato_17,19,31,2,34,Ninguna
+584,9,Plato_16,Descripci√≥n del Plato_16,16,28,2,23,Ninguna
+585,3,Plato_15,Descripci√≥n del Plato_15,19,32,1,35,Sin cebolla
+585,3,Plato_8,Descripci√≥n del Plato_8,21,35,1,8,Sin cebolla
+585,3,Plato_4,Descripci√≥n del Plato_4,10,18,2,22,Ninguna
+585,3,Plato_1,Descripci√≥n del Plato_1,15,25,1,30,Sin cebolla
+586,17,Plato_11,Descripci√≥n del Plato_11,20,33,3,47,Sin cebolla
+586,17,Plato_7,Descripci√≥n del Plato_7,14,24,3,45,Ninguna
+587,7,Plato_7,Descripci√≥n del Plato_7,14,24,2,43,Sin cebolla
+588,15,Plato_10,Descripci√≥n del Plato_10,15,26,1,25,Sin cebolla
+588,15,Plato_1,Descripci√≥n del Plato_1,15,25,3,12,Sin cebolla
+589,10,Plato_14,Descripci√≥n del Plato_14,14,23,1,45,Ninguna
+589,10,Plato_18,Descripci√≥n del Plato_18,20,34,3,59,Ninguna
+589,10,Plato_13,Descripci√≥n del Plato_13,13,21,3,7,Ninguna
+589,10,Plato_15,Descripci√≥n del Plato_15,19,32,3,9,Ninguna
+590,3,Plato_18,Descripci√≥n del Plato_18,20,34,3,43,Sin cebolla
+590,3,Plato_3,Descripci√≥n del Plato_3,12,20,1,21,Sin cebolla
+591,11,Plato_20,Descripci√≥n del Plato_20,25,40,3,51,Ninguna
+592,5,Plato_5,Descripci√≥n del Plato_5,13,22,2,59,Ninguna
+592,5,Plato_1,Descripci√≥n del Plato_1,15,25,2,42,Ninguna
+593,17,Plato_20,Descripci√≥n del Plato_20,25,40,1,30,Ninguna
+593,17,Plato_17,Descripci√≥n del Plato_17,19,31,1,8,Ninguna
+593,17,Plato_11,Descripci√≥n del Plato_11,20,33,2,5,Sin cebolla
+593,17,Plato_19,Descripci√≥n del Plato_19,22,36,2,5,Ninguna
+594,17,Plato_11,Descripci√≥n del Plato_11,20,33,1,5,Ninguna
+594,17,Plato_5,Descripci√≥n del Plato_5,13,22,3,44,Ninguna
+594,17,Plato_3,Descripci√≥n del Plato_3,12,20,2,49,Ninguna
+595,9,Plato_13,Descripci√≥n del Plato_13,13,21,2,5,Ninguna
+595,9,Plato_2,Descripci√≥n del Plato_2,18,30,1,44,Sin cebolla
+596,18,Plato_14,Descripci√≥n del Plato_14,14,23,2,47,Sin cebolla
+596,18,Plato_7,Descripci√≥n del Plato_7,14,24,2,50,Sin cebolla
+596,18,Plato_15,Descripci√≥n del Plato_15,19,32,3,42,Sin cebolla
+596,18,Plato_1,Descripci√≥n del Plato_1,15,25,2,19,Ninguna
+597,16,Plato_16,Descripci√≥n del Plato_16,16,28,1,39,Sin cebolla
+597,16,Plato_4,Descripci√≥n del Plato_4,10,18,1,55,Sin cebolla
+597,16,Plato_20,Descripci√≥n del Plato_20,25,40,2,39,Sin cebolla
+597,16,Plato_7,Descripci√≥n del Plato_7,14,24,1,8,Sin cebolla
+598,9,Plato_10,Descripci√≥n del Plato_10,15,26,2,44,Ninguna
+598,9,Plato_15,Descripci√≥n del Plato_15,19,32,2,22,Ninguna
+598,9,Plato_17,Descripci√≥n del Plato_17,19,31,3,15,Ninguna
+599,11,Plato_18,Descripci√≥n del Plato_18,20,34,2,5,Ninguna
+599,11,Plato_17,Descripci√≥n del Plato_17,19,31,1,49,Ninguna
+599,11,Plato_8,Descripci√≥n del Plato_8,21,35,2,54,Ninguna
+600,14,Plato_16,Descripci√≥n del Plato_16,16,28,3,22,Sin cebolla
+600,14,Plato_2,Descripci√≥n del Plato_2,18,30,2,43,Ninguna
+601,13,Plato_20,Descripci√≥n del Plato_20,25,40,2,11,Sin cebolla
+601,13,Plato_16,Descripci√≥n del Plato_16,16,28,3,28,Ninguna
+601,13,Plato_14,Descripci√≥n del Plato_14,14,23,1,44,Sin cebolla
+601,13,Plato_8,Descripci√≥n del Plato_8,21,35,3,32,Ninguna
+602,12,Plato_8,Descripci√≥n del Plato_8,21,35,2,56,Ninguna
+602,12,Plato_5,Descripci√≥n del Plato_5,13,22,3,58,Ninguna
+602,12,Plato_2,Descripci√≥n del Plato_2,18,30,3,12,Ninguna
+602,12,Plato_20,Descripci√≥n del Plato_20,25,40,1,36,Sin cebolla
+603,19,Plato_17,Descripci√≥n del Plato_17,19,31,2,17,Ninguna
+604,14,Plato_8,Descripci√≥n del Plato_8,21,35,3,42,Ninguna
+605,19,Plato_3,Descripci√≥n del Plato_3,12,20,1,47,Ninguna
+605,19,Plato_20,Descripci√≥n del Plato_20,25,40,1,24,Sin cebolla
+605,19,Plato_8,Descripci√≥n del Plato_8,21,35,2,55,Sin cebolla
+605,19,Plato_2,Descripci√≥n del Plato_2,18,30,3,50,Sin cebolla
+606,1,Plato_1,Descripci√≥n del Plato_1,15,25,2,47,Ninguna
+606,1,Plato_6,Descripci√≥n del Plato_6,16,27,3,48,Sin cebolla
+606,1,Plato_10,Descripci√≥n del Plato_10,15,26,2,50,Sin cebolla
+607,10,Plato_20,Descripci√≥n del Plato_20,25,40,1,25,Ninguna
+607,10,Plato_16,Descripci√≥n del Plato_16,16,28,1,44,Ninguna
+608,7,Plato_9,Descripci√≥n del Plato_9,17,29,1,45,Ninguna
+609,1,Plato_15,Descripci√≥n del Plato_15,19,32,1,27,Sin cebolla
+610,19,Plato_10,Descripci√≥n del Plato_10,15,26,1,39,Sin cebolla
+610,19,Plato_4,Descripci√≥n del Plato_4,10,18,1,8,Ninguna
+611,13,Plato_13,Descripci√≥n del Plato_13,13,21,2,53,Sin cebolla
+611,13,Plato_19,Descripci√≥n del Plato_19,22,36,1,30,Sin cebolla
+612,11,Plato_6,Descripci√≥n del Plato_6,16,27,1,26,Ninguna
+612,11,Plato_19,Descripci√≥n del Plato_19,22,36,3,37,Ninguna
+612,11,Plato_16,Descripci√≥n del Plato_16,16,28,2,15,Ninguna
+612,11,Plato_3,Descripci√≥n del Plato_3,12,20,2,51,Ninguna
+613,1,Plato_12,Descripci√≥n del Plato_12,11,19,3,41,Sin cebolla
+613,1,Plato_14,Descripci√≥n del Plato_14,14,23,3,23,Sin cebolla
+613,1,Plato_4,Descripci√≥n del Plato_4,10,18,3,31,Sin cebolla
+613,1,Plato_8,Descripci√≥n del Plato_8,21,35,3,57,Sin cebolla
+614,19,Plato_7,Descripci√≥n del Plato_7,14,24,3,50,Ninguna
+615,7,Plato_17,Descripci√≥n del Plato_17,19,31,3,50,Ninguna
+615,7,Plato_14,Descripci√≥n del Plato_14,14,23,3,43,Ninguna
+615,7,Plato_1,Descripci√≥n del Plato_1,15,25,3,41,Ninguna
+615,7,Plato_15,Descripci√≥n del Plato_15,19,32,3,22,Sin cebolla
+616,4,Plato_7,Descripci√≥n del Plato_7,14,24,3,33,Ninguna
+616,4,Plato_2,Descripci√≥n del Plato_2,18,30,2,14,Sin cebolla
+617,13,Plato_10,Descripci√≥n del Plato_10,15,26,2,18,Sin cebolla
+617,13,Plato_2,Descripci√≥n del Plato_2,18,30,3,33,Sin cebolla
+618,3,Plato_15,Descripci√≥n del Plato_15,19,32,2,6,Sin cebolla
+618,3,Plato_17,Descripci√≥n del Plato_17,19,31,3,35,Ninguna
+618,3,Plato_4,Descripci√≥n del Plato_4,10,18,3,24,Ninguna
+618,3,Plato_19,Descripci√≥n del Plato_19,22,36,3,53,Ninguna
+619,6,Plato_6,Descripci√≥n del Plato_6,16,27,2,40,Ninguna
+619,6,Plato_10,Descripci√≥n del Plato_10,15,26,3,56,Sin cebolla
+620,16,Plato_12,Descripci√≥n del Plato_12,11,19,3,40,Sin cebolla
+621,5,Plato_8,Descripci√≥n del Plato_8,21,35,3,8,Sin cebolla
+622,7,Plato_17,Descripci√≥n del Plato_17,19,31,3,53,Ninguna
+622,7,Plato_16,Descripci√≥n del Plato_16,16,28,1,25,Ninguna
+623,13,Plato_5,Descripci√≥n del Plato_5,13,22,2,23,Ninguna
+623,13,Plato_8,Descripci√≥n del Plato_8,21,35,2,59,Ninguna
+623,13,Plato_1,Descripci√≥n del Plato_1,15,25,1,20,Ninguna
+623,13,Plato_15,Descripci√≥n del Plato_15,19,32,3,43,Sin cebolla
+624,1,Plato_19,Descripci√≥n del Plato_19,22,36,1,19,Sin cebolla
+624,1,Plato_7,Descripci√≥n del Plato_7,14,24,1,45,Ninguna
+624,1,Plato_13,Descripci√≥n del Plato_13,13,21,2,15,Sin cebolla
+625,5,Plato_4,Descripci√≥n del Plato_4,10,18,2,12,Ninguna
+625,5,Plato_20,Descripci√≥n del Plato_20,25,40,1,46,Sin cebolla
+625,5,Plato_13,Descripci√≥n del Plato_13,13,21,3,39,Ninguna
+626,14,Plato_2,Descripci√≥n del Plato_2,18,30,2,11,Ninguna
+626,14,Plato_7,Descripci√≥n del Plato_7,14,24,2,36,Sin cebolla
+626,14,Plato_9,Descripci√≥n del Plato_9,17,29,1,11,Sin cebolla
+627,4,Plato_13,Descripci√≥n del Plato_13,13,21,1,37,Ninguna
+628,2,Plato_7,Descripci√≥n del Plato_7,14,24,2,10,Ninguna
+628,2,Plato_20,Descripci√≥n del Plato_20,25,40,3,33,Sin cebolla
+629,17,Plato_18,Descripci√≥n del Plato_18,20,34,1,22,Sin cebolla
+629,17,Plato_3,Descripci√≥n del Plato_3,12,20,3,19,Ninguna
+629,17,Plato_4,Descripci√≥n del Plato_4,10,18,2,43,Sin cebolla
+630,2,Plato_17,Descripci√≥n del Plato_17,19,31,2,19,Ninguna
+630,2,Plato_20,Descripci√≥n del Plato_20,25,40,3,56,Ninguna
+631,6,Plato_5,Descripci√≥n del Plato_5,13,22,3,46,Ninguna
+632,16,Plato_15,Descripci√≥n del Plato_15,19,32,3,41,Sin cebolla
+632,16,Plato_11,Descripci√≥n del Plato_11,20,33,1,47,Ninguna
+633,16,Plato_2,Descripci√≥n del Plato_2,18,30,3,10,Ninguna
+633,16,Plato_7,Descripci√≥n del Plato_7,14,24,2,51,Sin cebolla
+633,16,Plato_5,Descripci√≥n del Plato_5,13,22,2,34,Ninguna
+633,16,Plato_4,Descripci√≥n del Plato_4,10,18,3,54,Sin cebolla
+634,2,Plato_5,Descripci√≥n del Plato_5,13,22,2,25,Ninguna
+634,2,Plato_20,Descripci√≥n del Plato_20,25,40,3,38,Sin cebolla
+634,2,Plato_1,Descripci√≥n del Plato_1,15,25,3,43,Sin cebolla
+634,2,Plato_8,Descripci√≥n del Plato_8,21,35,3,51,Ninguna
+635,5,Plato_9,Descripci√≥n del Plato_9,17,29,2,25,Sin cebolla
+636,14,Plato_7,Descripci√≥n del Plato_7,14,24,2,45,Ninguna
+636,14,Plato_12,Descripci√≥n del Plato_12,11,19,3,54,Sin cebolla
+636,14,Plato_13,Descripci√≥n del Plato_13,13,21,1,52,Sin cebolla
+637,6,Plato_11,Descripci√≥n del Plato_11,20,33,1,23,Sin cebolla
+637,6,Plato_18,Descripci√≥n del Plato_18,20,34,1,6,Sin cebolla
+637,6,Plato_1,Descripci√≥n del Plato_1,15,25,2,32,Ninguna
+638,16,Plato_2,Descripci√≥n del Plato_2,18,30,3,44,Ninguna
+639,8,Plato_10,Descripci√≥n del Plato_10,15,26,2,52,Ninguna
+639,8,Plato_17,Descripci√≥n del Plato_17,19,31,2,29,Ninguna
+639,8,Plato_12,Descripci√≥n del Plato_12,11,19,2,55,Ninguna
+640,14,Plato_10,Descripci√≥n del Plato_10,15,26,3,7,Sin cebolla
+640,14,Plato_13,Descripci√≥n del Plato_13,13,21,2,12,Ninguna
+640,14,Plato_11,Descripci√≥n del Plato_11,20,33,3,56,Sin cebolla
+641,2,Plato_9,Descripci√≥n del Plato_9,17,29,3,17,Ninguna
+641,2,Plato_1,Descripci√≥n del Plato_1,15,25,3,28,Sin cebolla
+641,2,Plato_14,Descripci√≥n del Plato_14,14,23,2,29,Ninguna
+642,15,Plato_13,Descripci√≥n del Plato_13,13,21,3,6,Sin cebolla
+642,15,Plato_10,Descripci√≥n del Plato_10,15,26,1,57,Sin cebolla
+642,15,Plato_9,Descripci√≥n del Plato_9,17,29,3,18,Sin cebolla
+643,17,Plato_11,Descripci√≥n del Plato_11,20,33,1,18,Ninguna
+644,9,Plato_17,Descripci√≥n del Plato_17,19,31,3,51,Ninguna
+645,6,Plato_11,Descripci√≥n del Plato_11,20,33,3,43,Sin cebolla
+645,6,Plato_6,Descripci√≥n del Plato_6,16,27,3,54,Ninguna
+646,12,Plato_8,Descripci√≥n del Plato_8,21,35,2,36,Ninguna
+647,12,Plato_4,Descripci√≥n del Plato_4,10,18,2,13,Sin cebolla
+647,12,Plato_17,Descripci√≥n del Plato_17,19,31,2,26,Sin cebolla
+648,9,Plato_16,Descripci√≥n del Plato_16,16,28,2,47,Ninguna
+649,9,Plato_9,Descripci√≥n del Plato_9,17,29,3,22,Sin cebolla
+649,9,Plato_16,Descripci√≥n del Plato_16,16,28,3,40,Ninguna
+649,9,Plato_1,Descripci√≥n del Plato_1,15,25,1,32,Sin cebolla
+649,9,Plato_3,Descripci√≥n del Plato_3,12,20,3,15,Ninguna
+650,11,Plato_13,Descripci√≥n del Plato_13,13,21,2,18,Sin cebolla
+650,11,Plato_9,Descripci√≥n del Plato_9,17,29,2,35,Sin cebolla
+650,11,Plato_15,Descripci√≥n del Plato_15,19,32,1,12,Sin cebolla
+650,11,Plato_8,Descripci√≥n del Plato_8,21,35,3,11,Ninguna
+651,16,Plato_20,Descripci√≥n del Plato_20,25,40,2,50,Ninguna
+651,16,Plato_13,Descripci√≥n del Plato_13,13,21,3,9,Ninguna
+651,16,Plato_11,Descripci√≥n del Plato_11,20,33,2,29,Ninguna
+652,14,Plato_17,Descripci√≥n del Plato_17,19,31,2,12,Ninguna
+652,14,Plato_19,Descripci√≥n del Plato_19,22,36,3,38,Sin cebolla
+653,13,Plato_16,Descripci√≥n del Plato_16,16,28,3,51,Sin cebolla
+653,13,Plato_2,Descripci√≥n del Plato_2,18,30,3,46,Ninguna
+653,13,Plato_8,Descripci√≥n del Plato_8,21,35,2,53,Ninguna
+654,12,Plato_5,Descripci√≥n del Plato_5,13,22,1,31,Ninguna
+654,12,Plato_3,Descripci√≥n del Plato_3,12,20,1,13,Ninguna
+655,5,Plato_17,Descripci√≥n del Plato_17,19,31,3,36,Sin cebolla
+656,19,Plato_14,Descripci√≥n del Plato_14,14,23,1,13,Ninguna
+656,19,Plato_3,Descripci√≥n del Plato_3,12,20,3,44,Sin cebolla
+656,19,Plato_12,Descripci√≥n del Plato_12,11,19,2,39,Sin cebolla
+656,19,Plato_19,Descripci√≥n del Plato_19,22,36,1,14,Ninguna
+657,1,Plato_20,Descripci√≥n del Plato_20,25,40,2,55,Sin cebolla
+657,1,Plato_14,Descripci√≥n del Plato_14,14,23,2,39,Sin cebolla
+657,1,Plato_8,Descripci√≥n del Plato_8,21,35,2,40,Sin cebolla
+658,19,Plato_15,Descripci√≥n del Plato_15,19,32,1,21,Sin cebolla
+658,19,Plato_6,Descripci√≥n del Plato_6,16,27,2,27,Sin cebolla
+659,9,Plato_9,Descripci√≥n del Plato_9,17,29,3,31,Ninguna
+660,19,Plato_12,Descripci√≥n del Plato_12,11,19,2,24,Sin cebolla
+660,19,Plato_2,Descripci√≥n del Plato_2,18,30,3,16,Ninguna
+660,19,Plato_20,Descripci√≥n del Plato_20,25,40,2,5,Sin cebolla
+661,16,Plato_14,Descripci√≥n del Plato_14,14,23,3,56,Sin cebolla
+661,16,Plato_17,Descripci√≥n del Plato_17,19,31,1,22,Sin cebolla
+661,16,Plato_1,Descripci√≥n del Plato_1,15,25,2,30,Ninguna
+661,16,Plato_16,Descripci√≥n del Plato_16,16,28,2,27,Sin cebolla
+662,15,Plato_7,Descripci√≥n del Plato_7,14,24,3,34,Ninguna
+662,15,Plato_1,Descripci√≥n del Plato_1,15,25,1,10,Sin cebolla
+662,15,Plato_19,Descripci√≥n del Plato_19,22,36,1,41,Ninguna
+663,3,Plato_4,Descripci√≥n del Plato_4,10,18,2,40,Sin cebolla
+663,3,Plato_9,Descripci√≥n del Plato_9,17,29,2,5,Sin cebolla
+663,3,Plato_3,Descripci√≥n del Plato_3,12,20,1,42,Sin cebolla
+664,20,Plato_4,Descripci√≥n del Plato_4,10,18,1,9,Ninguna
+664,20,Plato_12,Descripci√≥n del Plato_12,11,19,2,42,Ninguna
+664,20,Plato_5,Descripci√≥n del Plato_5,13,22,3,48,Sin cebolla
+665,6,Plato_1,Descripci√≥n del Plato_1,15,25,3,25,Sin cebolla
+665,6,Plato_6,Descripci√≥n del Plato_6,16,27,2,15,Sin cebolla
+666,8,Plato_3,Descripci√≥n del Plato_3,12,20,2,27,Sin cebolla
+667,6,Plato_19,Descripci√≥n del Plato_19,22,36,1,12,Ninguna
+668,12,Plato_10,Descripci√≥n del Plato_10,15,26,3,59,Ninguna
+668,12,Plato_7,Descripci√≥n del Plato_7,14,24,2,9,Sin cebolla
+668,12,Plato_1,Descripci√≥n del Plato_1,15,25,3,47,Ninguna
+669,10,Plato_17,Descripci√≥n del Plato_17,19,31,1,13,Sin cebolla
+669,10,Plato_6,Descripci√≥n del Plato_6,16,27,2,14,Sin cebolla
+669,10,Plato_15,Descripci√≥n del Plato_15,19,32,3,42,Sin cebolla
+670,16,Plato_14,Descripci√≥n del Plato_14,14,23,1,26,Ninguna
+670,16,Plato_8,Descripci√≥n del Plato_8,21,35,1,17,Sin cebolla
+670,16,Plato_19,Descripci√≥n del Plato_19,22,36,1,32,Ninguna
+671,17,Plato_8,Descripci√≥n del Plato_8,21,35,2,29,Sin cebolla
+671,17,Plato_1,Descripci√≥n del Plato_1,15,25,2,32,Ninguna
+671,17,Plato_15,Descripci√≥n del Plato_15,19,32,2,34,Ninguna
+672,12,Plato_15,Descripci√≥n del Plato_15,19,32,3,21,Sin cebolla
+672,12,Plato_13,Descripci√≥n del Plato_13,13,21,2,15,Sin cebolla
+672,12,Plato_12,Descripci√≥n del Plato_12,11,19,1,42,Ninguna
+673,20,Plato_20,Descripci√≥n del Plato_20,25,40,2,13,Ninguna
+673,20,Plato_8,Descripci√≥n del Plato_8,21,35,3,10,Ninguna
+673,20,Plato_2,Descripci√≥n del Plato_2,18,30,1,25,Ninguna
+673,20,Plato_1,Descripci√≥n del Plato_1,15,25,2,45,Sin cebolla
+674,1,Plato_12,Descripci√≥n del Plato_12,11,19,3,11,Ninguna
+674,1,Plato_4,Descripci√≥n del Plato_4,10,18,2,12,Ninguna
+674,1,Plato_17,Descripci√≥n del Plato_17,19,31,3,7,Sin cebolla
+674,1,Plato_13,Descripci√≥n del Plato_13,13,21,1,35,Ninguna
+675,5,Plato_1,Descripci√≥n del Plato_1,15,25,1,8,Ninguna
+675,5,Plato_3,Descripci√≥n del Plato_3,12,20,3,54,Sin cebolla
+675,5,Plato_19,Descripci√≥n del Plato_19,22,36,3,59,Ninguna
+676,7,Plato_17,Descripci√≥n del Plato_17,19,31,1,45,Ninguna
+676,7,Plato_14,Descripci√≥n del Plato_14,14,23,1,40,Sin cebolla
+676,7,Plato_16,Descripci√≥n del Plato_16,16,28,1,12,Sin cebolla
+676,7,Plato_13,Descripci√≥n del Plato_13,13,21,2,24,Ninguna
+677,14,Plato_3,Descripci√≥n del Plato_3,12,20,2,55,Ninguna
+677,14,Plato_8,Descripci√≥n del Plato_8,21,35,2,59,Sin cebolla
+677,14,Plato_18,Descripci√≥n del Plato_18,20,34,1,34,Sin cebolla
+678,19,Plato_9,Descripci√≥n del Plato_9,17,29,1,27,Ninguna
+678,19,Plato_12,Descripci√≥n del Plato_12,11,19,3,37,Sin cebolla
+678,19,Plato_8,Descripci√≥n del Plato_8,21,35,2,37,Sin cebolla
+678,19,Plato_7,Descripci√≥n del Plato_7,14,24,2,20,Sin cebolla
+679,9,Plato_13,Descripci√≥n del Plato_13,13,21,2,27,Sin cebolla
+679,9,Plato_10,Descripci√≥n del Plato_10,15,26,1,11,Sin cebolla
+679,9,Plato_16,Descripci√≥n del Plato_16,16,28,2,16,Sin cebolla
+679,9,Plato_1,Descripci√≥n del Plato_1,15,25,3,52,Sin cebolla
+680,5,Plato_4,Descripci√≥n del Plato_4,10,18,2,6,Sin cebolla
+680,5,Plato_3,Descripci√≥n del Plato_3,12,20,3,49,Sin cebolla
+680,5,Plato_11,Descripci√≥n del Plato_11,20,33,2,56,Ninguna
+681,2,Plato_11,Descripci√≥n del Plato_11,20,33,1,44,Ninguna
+681,2,Plato_13,Descripci√≥n del Plato_13,13,21,2,21,Sin cebolla
+682,1,Plato_14,Descripci√≥n del Plato_14,14,23,1,43,Ninguna
+683,2,Plato_5,Descripci√≥n del Plato_5,13,22,1,25,Sin cebolla
+683,2,Plato_3,Descripci√≥n del Plato_3,12,20,2,35,Ninguna
+683,2,Plato_20,Descripci√≥n del Plato_20,25,40,1,6,Sin cebolla
+683,2,Plato_17,Descripci√≥n del Plato_17,19,31,2,16,Sin cebolla
+684,10,Plato_19,Descripci√≥n del Plato_19,22,36,1,38,Ninguna
+684,10,Plato_17,Descripci√≥n del Plato_17,19,31,1,10,Sin cebolla
+684,10,Plato_10,Descripci√≥n del Plato_10,15,26,1,25,Ninguna
+684,10,Plato_9,Descripci√≥n del Plato_9,17,29,3,37,Ninguna
+685,5,Plato_6,Descripci√≥n del Plato_6,16,27,2,17,Sin cebolla
+686,10,Plato_17,Descripci√≥n del Plato_17,19,31,2,37,Ninguna
+686,10,Plato_3,Descripci√≥n del Plato_3,12,20,2,21,Sin cebolla
+687,2,Plato_19,Descripci√≥n del Plato_19,22,36,2,29,Ninguna
+688,3,Plato_9,Descripci√≥n del Plato_9,17,29,1,14,Sin cebolla
+689,14,Plato_14,Descripci√≥n del Plato_14,14,23,3,16,Ninguna
+689,14,Plato_1,Descripci√≥n del Plato_1,15,25,3,7,Ninguna
+689,14,Plato_13,Descripci√≥n del Plato_13,13,21,1,6,Sin cebolla
+690,15,Plato_20,Descripci√≥n del Plato_20,25,40,1,49,Ninguna
+690,15,Plato_17,Descripci√≥n del Plato_17,19,31,2,16,Ninguna
+690,15,Plato_16,Descripci√≥n del Plato_16,16,28,2,54,Ninguna
+690,15,Plato_11,Descripci√≥n del Plato_11,20,33,1,24,Ninguna
+691,19,Plato_5,Descripci√≥n del Plato_5,13,22,3,34,Ninguna
+692,9,Plato_8,Descripci√≥n del Plato_8,21,35,3,33,Sin cebolla
+692,9,Plato_2,Descripci√≥n del Plato_2,18,30,1,49,Ninguna
+692,9,Plato_4,Descripci√≥n del Plato_4,10,18,1,11,Ninguna
+692,9,Plato_3,Descripci√≥n del Plato_3,12,20,1,7,Ninguna
+693,15,Plato_19,Descripci√≥n del Plato_19,22,36,1,20,Ninguna
+693,15,Plato_13,Descripci√≥n del Plato_13,13,21,2,24,Ninguna
+694,5,Plato_3,Descripci√≥n del Plato_3,12,20,3,20,Ninguna
+694,5,Plato_4,Descripci√≥n del Plato_4,10,18,2,26,Sin cebolla
+694,5,Plato_20,Descripci√≥n del Plato_20,25,40,1,40,Ninguna
+694,5,Plato_13,Descripci√≥n del Plato_13,13,21,1,42,Sin cebolla
+695,9,Plato_16,Descripci√≥n del Plato_16,16,28,2,30,Sin cebolla
+695,9,Plato_2,Descripci√≥n del Plato_2,18,30,2,7,Sin cebolla
+696,2,Plato_14,Descripci√≥n del Plato_14,14,23,2,23,Ninguna
+697,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,24,Ninguna
+697,4,Plato_11,Descripci√≥n del Plato_11,20,33,2,41,Sin cebolla
+697,4,Plato_2,Descripci√≥n del Plato_2,18,30,2,35,Sin cebolla
+697,4,Plato_6,Descripci√≥n del Plato_6,16,27,1,7,Ninguna
+698,19,Plato_6,Descripci√≥n del Plato_6,16,27,1,55,Sin cebolla
+698,19,Plato_10,Descripci√≥n del Plato_10,15,26,1,12,Sin cebolla
+698,19,Plato_14,Descripci√≥n del Plato_14,14,23,3,19,Sin cebolla
+698,19,Plato_13,Descripci√≥n del Plato_13,13,21,3,15,Sin cebolla
+699,8,Plato_9,Descripci√≥n del Plato_9,17,29,2,11,Sin cebolla
+700,8,Plato_18,Descripci√≥n del Plato_18,20,34,3,37,Sin cebolla
+700,8,Plato_10,Descripci√≥n del Plato_10,15,26,3,35,Sin cebolla
+700,8,Plato_6,Descripci√≥n del Plato_6,16,27,2,14,Sin cebolla
+701,19,Plato_11,Descripci√≥n del Plato_11,20,33,2,42,Sin cebolla
+701,19,Plato_4,Descripci√≥n del Plato_4,10,18,2,55,Sin cebolla
+702,13,Plato_4,Descripci√≥n del Plato_4,10,18,2,59,Ninguna
+702,13,Plato_13,Descripci√≥n del Plato_13,13,21,1,36,Ninguna
+702,13,Plato_6,Descripci√≥n del Plato_6,16,27,2,29,Sin cebolla
+702,13,Plato_16,Descripci√≥n del Plato_16,16,28,3,31,Ninguna
+703,9,Plato_13,Descripci√≥n del Plato_13,13,21,3,29,Sin cebolla
+704,13,Plato_4,Descripci√≥n del Plato_4,10,18,1,38,Ninguna
+705,12,Plato_3,Descripci√≥n del Plato_3,12,20,3,25,Sin cebolla
+705,12,Plato_10,Descripci√≥n del Plato_10,15,26,2,8,Ninguna
+706,20,Plato_4,Descripci√≥n del Plato_4,10,18,3,33,Sin cebolla
+707,15,Plato_15,Descripci√≥n del Plato_15,19,32,1,31,Ninguna
+707,15,Plato_13,Descripci√≥n del Plato_13,13,21,1,42,Sin cebolla
+707,15,Plato_2,Descripci√≥n del Plato_2,18,30,2,53,Ninguna
+707,15,Plato_19,Descripci√≥n del Plato_19,22,36,2,11,Ninguna
+708,5,Plato_6,Descripci√≥n del Plato_6,16,27,2,24,Sin cebolla
+709,8,Plato_13,Descripci√≥n del Plato_13,13,21,2,7,Ninguna
+709,8,Plato_8,Descripci√≥n del Plato_8,21,35,1,33,Sin cebolla
+709,8,Plato_11,Descripci√≥n del Plato_11,20,33,2,27,Sin cebolla
+709,8,Plato_1,Descripci√≥n del Plato_1,15,25,2,31,Ninguna
+710,18,Plato_3,Descripci√≥n del Plato_3,12,20,2,32,Ninguna
+710,18,Plato_12,Descripci√≥n del Plato_12,11,19,3,45,Sin cebolla
+710,18,Plato_4,Descripci√≥n del Plato_4,10,18,1,20,Sin cebolla
+710,18,Plato_14,Descripci√≥n del Plato_14,14,23,1,43,Sin cebolla
+711,20,Plato_18,Descripci√≥n del Plato_18,20,34,3,43,Ninguna
+711,20,Plato_15,Descripci√≥n del Plato_15,19,32,2,16,Sin cebolla
+712,10,Plato_7,Descripci√≥n del Plato_7,14,24,2,49,Ninguna
+713,6,Plato_11,Descripci√≥n del Plato_11,20,33,3,41,Sin cebolla
+713,6,Plato_9,Descripci√≥n del Plato_9,17,29,3,14,Sin cebolla
+713,6,Plato_15,Descripci√≥n del Plato_15,19,32,3,45,Ninguna
+713,6,Plato_10,Descripci√≥n del Plato_10,15,26,3,25,Ninguna
+714,19,Plato_18,Descripci√≥n del Plato_18,20,34,3,17,Sin cebolla
+714,19,Plato_2,Descripci√≥n del Plato_2,18,30,3,17,Sin cebolla
+714,19,Plato_11,Descripci√≥n del Plato_11,20,33,1,29,Sin cebolla
+715,12,Plato_2,Descripci√≥n del Plato_2,18,30,3,35,Ninguna
+715,12,Plato_6,Descripci√≥n del Plato_6,16,27,1,14,Ninguna
+715,12,Plato_1,Descripci√≥n del Plato_1,15,25,3,38,Ninguna
+715,12,Plato_4,Descripci√≥n del Plato_4,10,18,3,49,Sin cebolla
+716,12,Plato_13,Descripci√≥n del Plato_13,13,21,3,12,Ninguna
+716,12,Plato_1,Descripci√≥n del Plato_1,15,25,3,48,Ninguna
+716,12,Plato_17,Descripci√≥n del Plato_17,19,31,3,30,Sin cebolla
+717,8,Plato_5,Descripci√≥n del Plato_5,13,22,2,23,Sin cebolla
+717,8,Plato_2,Descripci√≥n del Plato_2,18,30,1,36,Sin cebolla
+717,8,Plato_6,Descripci√≥n del Plato_6,16,27,3,13,Sin cebolla
+718,7,Plato_3,Descripci√≥n del Plato_3,12,20,1,58,Sin cebolla
+719,16,Plato_20,Descripci√≥n del Plato_20,25,40,1,15,Ninguna
+719,16,Plato_12,Descripci√≥n del Plato_12,11,19,2,34,Ninguna
+719,16,Plato_9,Descripci√≥n del Plato_9,17,29,1,21,Ninguna
+720,4,Plato_11,Descripci√≥n del Plato_11,20,33,1,36,Ninguna
+720,4,Plato_9,Descripci√≥n del Plato_9,17,29,3,44,Sin cebolla
+720,4,Plato_7,Descripci√≥n del Plato_7,14,24,2,53,Sin cebolla
+721,6,Plato_9,Descripci√≥n del Plato_9,17,29,1,20,Sin cebolla
+721,6,Plato_19,Descripci√≥n del Plato_19,22,36,1,15,Sin cebolla
+721,6,Plato_7,Descripci√≥n del Plato_7,14,24,3,44,Ninguna
+721,6,Plato_6,Descripci√≥n del Plato_6,16,27,3,54,Sin cebolla
+722,13,Plato_13,Descripci√≥n del Plato_13,13,21,3,43,Ninguna
+722,13,Plato_5,Descripci√≥n del Plato_5,13,22,1,16,Ninguna
+723,12,Plato_16,Descripci√≥n del Plato_16,16,28,2,22,Ninguna
+723,12,Plato_8,Descripci√≥n del Plato_8,21,35,2,9,Ninguna
+724,8,Plato_5,Descripci√≥n del Plato_5,13,22,3,56,Ninguna
+725,10,Plato_18,Descripci√≥n del Plato_18,20,34,3,30,Ninguna
+725,10,Plato_5,Descripci√≥n del Plato_5,13,22,3,55,Ninguna
+726,11,Plato_5,Descripci√≥n del Plato_5,13,22,2,6,Ninguna
+726,11,Plato_19,Descripci√≥n del Plato_19,22,36,1,13,Ninguna
+726,11,Plato_14,Descripci√≥n del Plato_14,14,23,2,55,Ninguna
+727,17,Plato_3,Descripci√≥n del Plato_3,12,20,2,21,Sin cebolla
+728,9,Plato_4,Descripci√≥n del Plato_4,10,18,1,42,Ninguna
+728,9,Plato_6,Descripci√≥n del Plato_6,16,27,3,8,Ninguna
+728,9,Plato_15,Descripci√≥n del Plato_15,19,32,3,22,Ninguna
+729,20,Plato_18,Descripci√≥n del Plato_18,20,34,2,57,Ninguna
+729,20,Plato_3,Descripci√≥n del Plato_3,12,20,3,8,Sin cebolla
+730,8,Plato_2,Descripci√≥n del Plato_2,18,30,3,32,Sin cebolla
+730,8,Plato_7,Descripci√≥n del Plato_7,14,24,1,47,Sin cebolla
+731,17,Plato_15,Descripci√≥n del Plato_15,19,32,2,47,Sin cebolla
+732,12,Plato_20,Descripci√≥n del Plato_20,25,40,3,29,Ninguna
+732,12,Plato_10,Descripci√≥n del Plato_10,15,26,3,36,Sin cebolla
+732,12,Plato_19,Descripci√≥n del Plato_19,22,36,3,56,Sin cebolla
+733,14,Plato_19,Descripci√≥n del Plato_19,22,36,3,31,Sin cebolla
+733,14,Plato_7,Descripci√≥n del Plato_7,14,24,1,34,Ninguna
+733,14,Plato_6,Descripci√≥n del Plato_6,16,27,2,9,Sin cebolla
+734,14,Plato_15,Descripci√≥n del Plato_15,19,32,3,11,Sin cebolla
+734,14,Plato_7,Descripci√≥n del Plato_7,14,24,1,16,Ninguna
+734,14,Plato_12,Descripci√≥n del Plato_12,11,19,1,25,Ninguna
+735,20,Plato_14,Descripci√≥n del Plato_14,14,23,2,30,Sin cebolla
+735,20,Plato_15,Descripci√≥n del Plato_15,19,32,3,57,Ninguna
+736,17,Plato_5,Descripci√≥n del Plato_5,13,22,3,22,Sin cebolla
+736,17,Plato_16,Descripci√≥n del Plato_16,16,28,2,43,Ninguna
+736,17,Plato_17,Descripci√≥n del Plato_17,19,31,3,27,Sin cebolla
+737,6,Plato_9,Descripci√≥n del Plato_9,17,29,2,17,Sin cebolla
+737,6,Plato_2,Descripci√≥n del Plato_2,18,30,2,5,Ninguna
+738,15,Plato_10,Descripci√≥n del Plato_10,15,26,2,59,Ninguna
+738,15,Plato_16,Descripci√≥n del Plato_16,16,28,1,15,Ninguna
+738,15,Plato_4,Descripci√≥n del Plato_4,10,18,3,20,Sin cebolla
+739,10,Plato_14,Descripci√≥n del Plato_14,14,23,2,54,Ninguna
+740,16,Plato_16,Descripci√≥n del Plato_16,16,28,3,31,Ninguna
+740,16,Plato_15,Descripci√≥n del Plato_15,19,32,1,16,Sin cebolla
+740,16,Plato_19,Descripci√≥n del Plato_19,22,36,3,45,Sin cebolla
+740,16,Plato_14,Descripci√≥n del Plato_14,14,23,3,21,Sin cebolla
+741,14,Plato_7,Descripci√≥n del Plato_7,14,24,3,52,Sin cebolla
+741,14,Plato_9,Descripci√≥n del Plato_9,17,29,2,40,Ninguna
+741,14,Plato_11,Descripci√≥n del Plato_11,20,33,3,39,Sin cebolla
+741,14,Plato_16,Descripci√≥n del Plato_16,16,28,2,34,Sin cebolla
+742,20,Plato_17,Descripci√≥n del Plato_17,19,31,1,41,Sin cebolla
+742,20,Plato_2,Descripci√≥n del Plato_2,18,30,3,43,Ninguna
+742,20,Plato_10,Descripci√≥n del Plato_10,15,26,1,26,Sin cebolla
+742,20,Plato_12,Descripci√≥n del Plato_12,11,19,1,35,Ninguna
+743,19,Plato_10,Descripci√≥n del Plato_10,15,26,2,59,Sin cebolla
+743,19,Plato_4,Descripci√≥n del Plato_4,10,18,2,41,Ninguna
+743,19,Plato_14,Descripci√≥n del Plato_14,14,23,2,43,Sin cebolla
+744,11,Plato_4,Descripci√≥n del Plato_4,10,18,1,57,Ninguna
+744,11,Plato_9,Descripci√≥n del Plato_9,17,29,2,10,Ninguna
+745,3,Plato_8,Descripci√≥n del Plato_8,21,35,3,34,Ninguna
+745,3,Plato_7,Descripci√≥n del Plato_7,14,24,2,9,Ninguna
+745,3,Plato_1,Descripci√≥n del Plato_1,15,25,2,23,Ninguna
+745,3,Plato_6,Descripci√≥n del Plato_6,16,27,3,7,Sin cebolla
+746,13,Plato_8,Descripci√≥n del Plato_8,21,35,3,34,Ninguna
+746,13,Plato_15,Descripci√≥n del Plato_15,19,32,3,43,Ninguna
+747,16,Plato_1,Descripci√≥n del Plato_1,15,25,1,28,Ninguna
+748,2,Plato_15,Descripci√≥n del Plato_15,19,32,1,5,Sin cebolla
+748,2,Plato_10,Descripci√≥n del Plato_10,15,26,3,32,Ninguna
+749,1,Plato_8,Descripci√≥n del Plato_8,21,35,2,8,Ninguna
+750,6,Plato_17,Descripci√≥n del Plato_17,19,31,3,47,Ninguna
+750,6,Plato_10,Descripci√≥n del Plato_10,15,26,1,39,Ninguna
+751,17,Plato_9,Descripci√≥n del Plato_9,17,29,1,37,Ninguna
+751,17,Plato_1,Descripci√≥n del Plato_1,15,25,3,31,Sin cebolla
+751,17,Plato_5,Descripci√≥n del Plato_5,13,22,3,19,Ninguna
+752,3,Plato_2,Descripci√≥n del Plato_2,18,30,2,30,Sin cebolla
+753,11,Plato_15,Descripci√≥n del Plato_15,19,32,1,35,Sin cebolla
+753,11,Plato_14,Descripci√≥n del Plato_14,14,23,1,23,Sin cebolla
+753,11,Plato_7,Descripci√≥n del Plato_7,14,24,3,24,Ninguna
+753,11,Plato_19,Descripci√≥n del Plato_19,22,36,1,46,Ninguna
+754,8,Plato_7,Descripci√≥n del Plato_7,14,24,3,26,Ninguna
+754,8,Plato_6,Descripci√≥n del Plato_6,16,27,3,11,Sin cebolla
+754,8,Plato_16,Descripci√≥n del Plato_16,16,28,3,52,Ninguna
+755,12,Plato_13,Descripci√≥n del Plato_13,13,21,1,6,Ninguna
+755,12,Plato_1,Descripci√≥n del Plato_1,15,25,3,37,Ninguna
+755,12,Plato_12,Descripci√≥n del Plato_12,11,19,3,46,Ninguna
+755,12,Plato_9,Descripci√≥n del Plato_9,17,29,2,20,Sin cebolla
+756,11,Plato_17,Descripci√≥n del Plato_17,19,31,1,21,Ninguna
+756,11,Plato_12,Descripci√≥n del Plato_12,11,19,1,13,Ninguna
+757,3,Plato_2,Descripci√≥n del Plato_2,18,30,2,40,Ninguna
+758,18,Plato_2,Descripci√≥n del Plato_2,18,30,1,32,Ninguna
+758,18,Plato_5,Descripci√≥n del Plato_5,13,22,1,9,Sin cebolla
+759,20,Plato_11,Descripci√≥n del Plato_11,20,33,3,48,Ninguna
+759,20,Plato_6,Descripci√≥n del Plato_6,16,27,3,51,Ninguna
+759,20,Plato_1,Descripci√≥n del Plato_1,15,25,3,41,Ninguna
+759,20,Plato_9,Descripci√≥n del Plato_9,17,29,3,56,Sin cebolla
+760,5,Plato_8,Descripci√≥n del Plato_8,21,35,3,20,Ninguna
+761,4,Plato_7,Descripci√≥n del Plato_7,14,24,3,54,Sin cebolla
+761,4,Plato_16,Descripci√≥n del Plato_16,16,28,2,20,Ninguna
+761,4,Plato_14,Descripci√≥n del Plato_14,14,23,2,28,Ninguna
+762,4,Plato_13,Descripci√≥n del Plato_13,13,21,1,20,Sin cebolla
+762,4,Plato_10,Descripci√≥n del Plato_10,15,26,3,9,Ninguna
+763,18,Plato_11,Descripci√≥n del Plato_11,20,33,2,14,Sin cebolla
+763,18,Plato_12,Descripci√≥n del Plato_12,11,19,2,18,Sin cebolla
+764,20,Plato_6,Descripci√≥n del Plato_6,16,27,1,53,Ninguna
+764,20,Plato_18,Descripci√≥n del Plato_18,20,34,1,24,Ninguna
+764,20,Plato_7,Descripci√≥n del Plato_7,14,24,1,35,Ninguna
+765,20,Plato_10,Descripci√≥n del Plato_10,15,26,3,55,Sin cebolla
+765,20,Plato_16,Descripci√≥n del Plato_16,16,28,2,14,Ninguna
+765,20,Plato_13,Descripci√≥n del Plato_13,13,21,3,52,Ninguna
+765,20,Plato_19,Descripci√≥n del Plato_19,22,36,1,43,Ninguna
+766,17,Plato_2,Descripci√≥n del Plato_2,18,30,2,52,Ninguna
+766,17,Plato_12,Descripci√≥n del Plato_12,11,19,1,59,Ninguna
+766,17,Plato_3,Descripci√≥n del Plato_3,12,20,3,7,Ninguna
+766,17,Plato_14,Descripci√≥n del Plato_14,14,23,2,16,Sin cebolla
+767,10,Plato_9,Descripci√≥n del Plato_9,17,29,2,12,Sin cebolla
+767,10,Plato_7,Descripci√≥n del Plato_7,14,24,2,30,Sin cebolla
+767,10,Plato_13,Descripci√≥n del Plato_13,13,21,3,43,Sin cebolla
