@@ -101,12 +101,24 @@ group by "Pais";
 
 -- Ejercicio 13: Muestra los códigos postales (BillingPostalCode) de los clientes que han hecho más de 5 compras.
 
-select "BillingPostalCode", COUNT(distinct "CustomerId")
+select "BillingPostalCode"
 from   "Invoice"
 group by "BillingPostalCode"
 having COUNT("CustomerId") > 5;
 
 -- Ejercicio 14: Encuentra la cantidad total de pistas en cada tipo de medio (MediaTypeId) donde el precio de la pista (UnitPrice) es mayor a 0.99 y la duración de la pista (Milliseconds) es mayor a 200,000. Muestra el tipo de medio y el número total de pistas.
 
+select "MediaTypeId"	as "Tipo_Medio",
+	   count(*)			as "Total_Pistas"
+from   "Track"
+where  "UnitPrice" > 0.99 and "Milliseconds" > 200000
+group by "MediaTypeId";
 
 -- Ejercicio 15: Lista el país y el estado de los clientes que tienen el soporte asignado a un representante con ID mayor a 3 y cuyo nombre de empresa (Company) no es nulo. Muestra el país, el estado y el número de clientes.
+
+select "Country"	as "Pais",
+	   "State" 		as "Estado",
+	   COUNT(*)		as "N_Clientes"
+from   "Customer"
+where  "SupportRepId" > 3 and "Company" is not null
+group by "Country", "State" ;
