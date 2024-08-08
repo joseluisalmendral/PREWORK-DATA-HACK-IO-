@@ -70,17 +70,55 @@ left join "Invoice" i on c."CustomerId" = i."CustomerId";
 
 -- Ejercico 10: Encuentra todos los álbumes y, si existen, muestra los nombres de los artistas que los crearon. Incluye también los álbumes que no tienen un artista asignado (aunque en este caso en la base de datos de Chinook, todos los álbumes tienen un artista asignado).
 
+select al."Title"	as "Album",
+	   ar."Name" 			as "Artista"
+from   "Album" al
+left join "Artist" ar on al."ArtistId" = ar."ArtistId";
 
 -- Ejercicio 11: Cuenta cuántas pistas hay en cada género. Ordena los generos en función del número de canciones de mayor a menor. 
 
+select count(*)	as "N_Pistas",
+	   g."Name" as "Genero"
+from   "Track" t 
+inner join "Genre" g on t."GenreId" = g."GenreId"
+group by "Genero"
+order by "N_Pistas" desc;
 
 --  Ejercicio 12: Muestra los títulos de los álbumes y la duración total de todas las pistas en cada álbum.
 
+select a."Title" 				as "Album",
+	   sum(t."Milliseconds")	as "Duracion_Total_Pistas" 
+from   "Track" t 
+inner join "Album" a on t."AlbumId" = a."AlbumId"
+group by "Album";
 
 -- Ejercicio 14: Encuentra los nombres de los clientes y el total gastado por cada uno.
 
+select concat(c."FirstName", ' ', c."LastName")	as "Nombre_Cliente",
+	   sum(i."Total")							as "Total_Gastado"
+from   "Invoice" i 
+inner join "Customer" c on i."CustomerId" = c."CustomerId"
+group by "Nombre_Cliente";
 
 -- Ejercicio 15: Encuentra todos los empleados y, si existen, muestra los nombres de los clientes que tienen asignados. Incluye también los empleados que no tienen clientes asignados.
 
+select concat(e."FirstName", ' ', e."LastName")	as "Nombre_Empleado",
+	   concat(c."FirstName", ' ', c."LastName")	as "Nombre_Cliente"
+from   "Employee" e 
+left join "Customer" c on e."EmployeeId" = c."SupportRepId";
 
+/* esta es similar a la 15 pero viendo en particular el nombre de los clientes que ha atendido la empleada Jane */
+select concat(e."FirstName", ' ', e."LastName")	as "Nombre_Empleado",
+	   concat(c."FirstName", ' ', c."LastName")	as "Nombre_Cliente"
+from   "Employee" e 
+left join "Customer" c on e."EmployeeId" = c."SupportRepId"
+where concat(e."FirstName", ' ', e."LastName") like '%Jane%';
+
+/* esta la he hecho yo para comprobar el numero de clientes que ha atendido cada empleado con su nombre */
+select concat(e."FirstName", ' ', e."LastName")	as "Nombre_Empleado",
+	   count(c."SupportRepId")					as "Clientes_Atendidos"
+from "Customer" c 
+right join "Employee" e on c."SupportRepId" = e."EmployeeId"
+group by "Nombre_Empleado"
+order by "Clientes_Atendidos" desc;
 
