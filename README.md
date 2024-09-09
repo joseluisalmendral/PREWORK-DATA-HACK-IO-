@@ -3,8 +3,6 @@
 
 Repositorio creado para la entrega de ejercicios 😁.
 
-[!TIP]
-Esto es un truco de prueba
 
 
 ## EJERCICIOS
